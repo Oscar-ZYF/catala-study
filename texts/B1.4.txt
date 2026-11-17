@@ -1,0 +1,6181 @@
+﻿
+==========================================================
+加泰罗尼亚语 B1 第四册
+综合运用、结业评估与自主学习
+CATALÀ B1.4 · INTEGRAR, REVISAR I COMUNICAR
+==========================================================
+
+完整全文正文 · 第31至40单元 · 10单元50课
+中文母语成人学习者 · 教学编写版1.0
+编写日期：2026年11月4日
+
+承接B1.3“社会生活、观点表达与信息整合”。本册沿用荷兰语B1四分册的主题进程与每单元五课结构，按加泰罗尼亚语重编语言内容。B1.1至B1.4为本系列内部册号，不是官方认证子等级；本册也不等同于CPNL的Elemental 3单册课程。
+
+本正文包括全部原创课文、练习、参考答案、逐题解析、独立写作范文、一次阶段测评、四技能完整模拟和第二轮新材料短卷。听力采用可朗读脚本，没有附音频。中文为语义参考，长文部分采用完整段落的压缩译述，不按每个词逐一对应。
+
+每单元20条三语词汇、五个语法教学点及10道语法题、五道情境应用题、12句对话与八行独白、四道听力题、一篇120词以上短文、一篇500词以上五段长文、六道长文题、八道四向翻译题、一项140至180词独立写作与口语互动。语法有螺旋复习，50个位置不等于50项全新规则。
+
+事实条件均为教学设定。住房费用、订阅流程、公共服务、数字权限和社区措施不代表任何真实机构当前规则。所有人物与作品为原创情境。语言内容已做结构与一致性核对，尚未经过独立母语教师全书审校或课堂试教。
+
+
+==========================================================
+目录与本册任务进程
+==========================================================
+
+31. 经历叙述与复杂时间线 / Explicar què va passar
+目标：区分过去背景、主要事件和更早动作，讲清一次经历及其影响。
+
+32. 长文本定位与篇章结构 / Llegir amb una pregunta al cap
+目标：根据问题定位证据，区分段落功能并写准确摘要。
+
+33. 访谈听辨与信息修正 / Escoltar, corregir i confirmar
+目标：识别改口和澄清，按最终信息更新笔记而不覆盖仍有效的条件。
+
+34. 短口语任务与明确请求 / Dir el que cal amb poques paraules
+目标：在短时练习中说清目的、必要信息和请求，并回应追问。
+
+35. 中等口语任务与理由展开 / Donar raons i respondre
+目标：用观点、理由、例子和条件组织短陈述，并回应反例。
+
+36. 句子写作与结构控制 / Construir frases que funcionin
+目标：按语境补全句子，检查主谓配合、补语、否定与信息完整性。
+
+37. 局部写作、表格与短消息 / Passar de les dades al missatge
+目标：将表格和消息转换为可行动文本，准确填写字段并保留未知项。
+
+38. 短文写作与修改流程 / Escriure, revisar i tornar a escriure
+目标：按读者与任务写完整短文，先修内容和结构，再修语言。
+
+39. 综合模拟与证据复盘 / Fer una prova i aprendre dels resultats
+目标：完成原创四技能综合模拟，按错误原因制定补练，而非只看总分。
+
+40. B1结业项目与B2衔接 / Mostrar què sabem fer i continuar aprenent
+目标：用作品和新任务展示四技能，说明支持条件、剩余困难与后续目标。
+
+第35单元后：阶段测评一；册末先做第一轮完整模拟，再做第二轮新材料短卷；原创听、读、说、写结册卷及全部详解；附录：语法索引、写作检查表、来源与B2衔接。
+
+
+==========================================================
+学习方法与入册诊断
+==========================================================
+
+写作先列提纲再成文，补足任务条件，不直接抄独白。词数按空格计，带撇号的形式计作一项。
+
+建议每周一单元，每课60至90分钟，另留听说与修订时间；学时为使用建议，不是达级保证。先做题后看答案。听力请伙伴朗读两遍，仅读加泰语；第一次抓情境，第二次记数字、否定、时间与最终状态。自录熟悉脚本适合练习，不等同陌生听力测验。
+
+阅读先标事实、观点与待查问题，再回答。写作先列读者所需信息，用简单连贯句写全，再检查关系代词、虚拟式、性数和指代。条件式与较复杂的过去虚拟式在部分课文中用于理解拓展，主动产出可用较简单句框表达同样条件。
+
+1. “收到咨询”是否表示“批准提案”？
+
+2. 100到125增加多少百分比？
+
+3. 把“不必分享联系人”译为加泰语。
+
+4. 说明“我不喜欢”与“谁都不喜欢”的差别。
+
+5. 译“如果明天收到答复，我们会确认时间”。
+
+6. 改写“他们都总是这样”为家庭限定与非绝对频率。
+
+
+【入册诊断答案】
+
+1. “收到咨询”是否表示“批准提案”？
+参考答案：不表示。S’ha rebut la consulta, però la proposta encara no està aprovada.
+解析：两个动作阶段不同。
+
+2. 100到125增加多少百分比？
+参考答案：25%。Ha augmentat un vint-i-cinc per cent.
+解析：25/100；不是125%。
+
+3. 把“不必分享联系人”译为加泰语。
+参考答案：No cal compartir els contactes.
+解析：no cal是无必要，不是禁止。
+
+4. 说明“我不喜欢”与“谁都不喜欢”的差别。
+参考答案：No m’agrada只述我；No agrada a ningú涉及所有人。
+解析：扩大范围需相应依据。
+
+5. 译“如果明天收到答复，我们会确认时间”。
+参考答案：Si demà rebem la resposta, confirmarem l’hora.
+解析：真实未来条件si后用现在。
+
+6. 改写“他们都总是这样”为家庭限定与非绝对频率。
+参考答案：A casa seva sovint ho fan així.
+解析：对象与频率均缩小；不要凭一次事件用全称。
+
+
+==========================================================
+单元31 经历叙述与复杂时间线 / Explicar què va passar
+==========================================================
+
+交际目标：区分过去背景、主要事件和更早动作，讲清一次经历及其影响。
+
+
+【第1课：三语词汇与搭配】
+
+01. el record | memory | 记忆
+
+02. l’experiència (f.) | experience | 经历
+
+03. el trasllat | move | 搬迁
+
+04. l’imprevist (m.) | unexpected event | 意外
+
+05. el senyal | sign | 迹象
+
+06. la seqüència | sequence | 顺序
+
+07. el desenllaç | outcome | 结局
+
+08. el detall | detail | 细节
+
+09. la coincidència | coincidence | 巧合
+
+10. la conseqüència | consequence | 后果
+
+11. recordar | to remember | 记得
+
+12. adonar-se de | to realise | 意识到
+
+13. interrompre | to interrupt | 打断
+
+14. reprendre | to resume | 恢复
+
+15. resoldre | to resolve | 解决
+
+16. abans | before | 之前
+
+17. mentrestant | meanwhile | 与此同时
+
+18. de sobte | suddenly | 突然
+
+19. finalment | finally | 最后
+
+20. ja havia | had already | 之前已经
+
+名词连冠词学习；l’之后的(m.)或(f.)标性别。条目含固定搭配和复现词，不表示全部是首次出现的新词。
+
+
+【搭配示范】
+
+Ja havíem confirmat la sala quan vam arribar.
+
+中文参考：我们到达时早已确认房间。
+
+Mentre jo trucava, ella esperava el grup.
+
+中文参考：我打电话时，她在等大家。
+
+La porta era tancada, però la reserva continuava vigent.
+
+中文参考：门关着，但预约仍有效。
+
+He canviat la llista arran d’aquesta experiència.
+
+中文参考：这次经历后我修改了清单。
+
+
+【词汇练习 V1-V8】
+
+V1 写出中文：el record
+
+V2 写出中文：l’experiència (f.)
+
+V3 写出中文：el trasllat
+
+V4 写出中文：l’imprevist (m.)
+
+V5 写出加泰语（名词带冠词）：迹象
+
+V6 写出加泰语（名词带冠词）：顺序
+
+V7 写出加泰语（名词带冠词）：结局
+
+V8 写出加泰语（名词带冠词）：细节
+
+朗读：把四句搭配按“来源或背景／主要信息／条件或限制”分成意群。保留no、només、encara、tot i que等改变范围或逻辑的词。搭档复述实际含义，再交换角色。
+
+
+【第2课：五项语法与练习】
+
+G1 叙事中的事件、背景和当前回顾
+讲解：外围过去vaig fer把动作作为已完成事件推进；未完成过去feia描写习惯、状态或正在展开的背景；perfet he fet常连接当前回顾。选择取决于叙述视角，不是中文有没有“了”。本册采用常见中部用法；不同地区perfet和外围过去分布可有差异。
+例句：Quan treballava al centre, vaig conèixer la Marta. Des d’aleshores hem col·laborat sovint. 当时在中心工作，认识了玛尔塔；此后常合作。
+易错辨析：不把所有过去动作都换成同一种形式；也不能把vaig conèixer读成将要认识。
+
+G1.1 选：Mentre (preparava / vaig preparar) el sopar, va sonar el telèfon.
+
+G1.2 将“以前常独自学习；昨天与伙伴复习了”译成加泰语。
+
+G2 经历与具体过去：perfet / perifràstic
+讲解：He col·laborat en dos projectes总结截至当前的经历；L’any passat vaig coordinar un taller定位已结束时间的具体事件。说明经验时先概括，再给有边界事例；过去经历不自动证明此刻已掌握所有相关技能。本册用常见中部时态分布，地区变体不一概判错。
+例句：He treballat amb grups petits. L’any passat vaig preparar dos horaris. 有小组经验，去年排两份时间表。
+易错辨析：不要把he＋不定式误作完成时；完成分词he fet而非he fer。
+
+G2.1 填：Fins ara ___ en dos tallers.（col·laborar，jo）
+
+G2.2 本册用法将“去年我负责收集资料”译成加泰语。
+
+G3 过去之前的过去：plusquamperfet
+讲解：havia/havies/havia/havíem/havíeu/havien＋分词，定位早于另一个过去参照点的已完成动作。比较Vaig arribar i vaig reservar（先到再订）与Quan vaig arribar, ja havia reservat（到前已订）。过去完成不是“很久以前”的同义词，关键在两层时间关系。
+例句：Quan vaig arribar, el curs ja havia començat. 我到时课程已开始。
+易错辨析：分词仍用fet、dit、escrit等；不写havia començar，也不因主语复数把haver漏掉。
+
+G3.1 填：Quan vam rebre l’avís, ja ___ els bitllets.（comprar）
+
+G3.2 解释Havia enviat el missatge quan em van trucar的先后。
+
+G4 未来时间与先后：quan、abans de、mentre
+讲解：quan表示未来尚待实现的时间时常接现在虚拟式：Quan acabem, revisarem。当前或过去习惯、已发生事实须另按语境选直陈式。同主语可用abans de＋不定式；mentre可表达同时进行。
+例句：Quan acabem la prova, revisarem les tasques. 试行结束时复查任务。
+易错辨析：不要把所有quan都说成只接虚拟式；Quand不是加泰语拼写，应写quan。
+
+G4.1 填：Quan ___ l’horari, us avisaré.（saber，jo，指未来）
+
+G4.2 用abans de合并：Llegiré la llista. Després faré la compra.
+
+G5 篇章指代链：la、ho、això、en
+讲解：la/les等与明确名词性数对应；ho常代整件内容；això可概括前述事件，en常代de补语或数量范围。连续句不能只求省词，应让读者知道所指；有两个同类先行词时可重写名词。
+例句：La proposta és provisional; la revisarem dijous. 方案暂定，周四复查它。
+易错辨析：两份提议都出现时一个la可能不清楚，应写la proposta del matí等。
+
+G5.1 替换第二个la proposta：Hem rebut la proposta i revisarem la proposta demà.
+
+G5.2 改清楚：Hem llegit la consulta i la proposta. La revisarem dijous.（要复查提案）
+
+
+【情境应用 X1-X5】
+
+1. 用更早过去补全：Quan vam arribar, ja ___ la sala.（confirmar，nosaltres）
+
+2. 用背景＋事件写“我等候时电话响了”。
+
+3. 译：这次经历后我修改了清单。
+
+4. 同主体用abans de合并“我核入口；后来发通知”。
+
+5. 替换la sala：La sala era correcta i vam utilitzar la sala.
+
+
+【第3课：听力与互动】
+
+听两遍下列对话的加泰语部分，先回答L1-L4，再核对脚本。
+
+1. 此前看过什么？
+
+2. 打电话时谁等小组？
+
+3. 最后活动取消了吗？
+
+4. 迟多久开始？
+
+
+【角色任务】
+
+A讲正门关闭经历；B追问“是否预约取消”。用背景、更早准备、行动和结果解释，再回答若联系不上怎么办。
+
+先回应对方，再解释依据；面对追加条件必须调整回答。可以使用虚构个人资料。
+
+
+【完整对话脚本（12句）】
+
+A: Com va anar la primera activitat que vas organitzar?
+
+中文参考：你第一次组织的活动怎样？
+
+B: Al principi semblava que tot estava preparat.
+
+中文参考：起初似乎都准备好了。
+
+A: Havíeu comprovat la sala?
+
+中文参考：之前查过房间吗？
+
+B: Sí, però havíem visitat una altra entrada.
+
+中文参考：查过，但看的是另一个入口。
+
+A: Què va passar aquell dia?
+
+中文参考：当天发生什么？
+
+B: Quan vam arribar, l’entrada principal estava tancada.
+
+中文参考：到时正门关着。
+
+A: Vau cancel·lar l’activitat?
+
+中文参考：取消了吗？
+
+B: No. Mentre jo trucava al centre, la Núria esperava el grup.
+
+中文参考：没有。我打电话时，努里娅等候大家。
+
+A: Vau trobar una solució?
+
+中文参考：找到办法了吗？
+
+B: Ens van indicar l’entrada lateral i vam començar deu minuts tard.
+
+中文参考：对方告知侧门，我们晚十分钟开始。
+
+A: Què has canviat des d’aleshores?
+
+中文参考：此后改了什么？
+
+B: Ara confirmo també per on hem d’entrar, no només quina sala tenim.
+
+中文参考：现在还确认入口，而不只确认房间。
+
+
+【八行独白】
+
+1. L’any passat vaig coordinar una visita per primera vegada.
+
+中文参考：去年我第一次协调参观。
+
+2. Abans d’aquell dia havia confirmat la sala i l’horari.
+
+中文参考：此前我确认了房间和时间。
+
+3. Quan vam arribar, la porta que coneixíem estava tancada.
+
+中文参考：到时熟悉的门关着。
+
+4. Mentre una companya reunia el grup, jo vaig trucar al centre.
+
+中文参考：同伴集合大家时，我给中心打电话。
+
+5. Ens van explicar que havíem d’utilitzar l’entrada lateral.
+
+中文参考：对方说需走侧门。
+
+6. Vam avisar les persones que encara no havien arribat.
+
+中文参考：我们通知了尚未到的人。
+
+7. Finalment vam començar amb deu minuts de retard.
+
+中文参考：最后晚十分钟开始。
+
+8. Des d’aleshores he afegit l’accés a la meva llista de comprovacions.
+
+中文参考：从那时起，我把入口加入检查清单。
+
+独白练习：遮住原文，只留“背景、理由、另一观点、限制、下一步”五个提示说90秒。伙伴指出一项表达清楚的内容及一处应补充的限制。
+
+
+【第4课：短文阅读、长文阅读与独立写作】
+
+短文原文（144词）
+
+Hola, equip. Us escric per explicar què va passar a la visita de dissabte. La setmana anterior havíem confirmat la sala i l’hora, però no havíem preguntat quina entrada estaria oberta. Quan vam arribar, la porta principal estava tancada. Durant uns minuts vam pensar que no podríem entrar, tot i que encara no havíem parlat amb el centre. Mentre la Núria esperava les persones que venien en autobús, jo vaig trucar al número de contacte. Ens van indicar una entrada lateral i vam poder accedir a la sala. L’activitat va començar deu minuts més tard del previst, sense haver de canviar el programa. Després vaig enviar una explicació breu a qui havia rebut el primer avís. Per a la propera visita proposo confirmar també l’accés i compartir un punt de trobada precís. Així evitarem que una informació incompleta es converteixi en una conclusió precipitada.
+
+中文参考：各位，周六参观前虽确认房间时间，却未问入口。到时正门关着，尚未联系中心便一度以为无法进入。努里娅等公交来的人，我致电得知走侧门。活动晚十分钟但未改节目；事后向收到最初消息者解释。下次还应核入口和会合点，避免信息不足就仓促下结论。
+
+短文任务 S1：写用途与读者。S2：标出已确认信息和待核问题；若是评论，区分事实与感受。S3：用两句概括对方下一步可做什么，或读者如何使用信息。
+
+
+【独立写作任务】
+
+写140至180词叙述一次虚构意外，包含更早准备、当时背景、行动、结果和改进。
+
+长文原文（523词，五段）
+
+
+【长文第1段】
+
+Quan en Roger va començar a col·laborar amb el grup de barri, ja havia participat en diverses activitats com a visitant. Coneixia el centre i pensava que organitzar una trobada seria relativament senzill. Havia reservat una sala, havia preguntat per l’horari i havia enviat una invitació amb l’adreça. La vigília va revisar la llista de participants i va preparar els materials. Tot semblava correcte. Tanmateix, hi havia una dada que no figurava en cap dels seus missatges: quina porta s’havia d’utilitzar un dissabte al matí. En les visites anteriors sempre hi havia entrat entre setmana i no s’havia plantejat que l’accés pogués canviar.
+
+中文参考：罗杰过去作为访客参加活动，熟悉中心，首次组织时订房、核时间、发地址并备材料，却未核周六入口。此前都是工作日到访，因此没有想到入口可能不同。
+
+
+【长文第2段】
+
+El dia de la trobada va arribar un quart d’hora abans. La porta principal estava tancada i no hi havia ningú al vestíbul que es veia des del carrer. Durant uns instants va pensar que s’havia equivocat de dia. Va mirar el missatge de confirmació i va comprovar que la data era correcta. Aleshores van començar a arribar altres persones. Una va suggerir cancel·lar l’activitat i tornar un altre dia. En Roger va decidir que encara era massa aviat per prendre aquella decisió: una porta tancada no demostrava que tot l’edifici estigués tancat. Primer havia de contactar amb la persona que li havia confirmat la reserva.
+
+中文参考：当天他提前十五分钟到，正门锁着，门厅无人。一度怀疑记错日期，核邮件却没错。其他人陆续到，有人建议取消。他认为一扇门关不等整楼关，应先联系确认预约的人。
+
+
+【长文第3段】
+
+La Núria es va quedar al punt de trobada mentre ell feia la trucada. Així les persones que arribaven no es dispersaven buscant una entrada pel seu compte. El responsable del centre els va explicar que els dissabtes s’utilitzava una porta lateral. En Roger hi va anar per comprovar-la i després va enviar una indicació breu al grup. No va repetir només l’adreça, que tothom ja tenia, sinó que va descriure el recorregut des de la porta principal. També va trucar a dues persones que encara venien en autobús. Aquella coordinació va evitar que rebessin instruccions diferents segons qui els trobés primer al carrer.
+
+中文参考：努里娅留在集合点，防止后来者分散找门；罗杰电话得知周六走侧门，实地查后发从正门到侧门的路线，不重复已有地址，还致电两名公交途中的人，使指引统一。
+
+
+【长文第4段】
+
+Van començar deu minuts després de l’hora prevista. En Roger va explicar el retard amb dues frases i va continuar amb el programa. No volia dedicar tota la trobada a justificar-se ni atribuir la culpa a una persona sense conèixer tots els detalls. En acabar, va reconstruir la seqüència dels fets amb la Núria. Van distingir el que havien comprovat abans, el que havien descobert aquell matí i el que havien suposat durant l’espera. Aquesta separació els va ajudar a escriure un resum més precís. El problema no havia estat una reserva cancel·lada, sinó una informació incompleta sobre l’accés a una sala que continuava disponible.
+
+中文参考：活动晚十分钟，他简短解释后继续，不长篇辩解或未查清就归责。结束后两人重建此前已核、当天发现、等待时推测三层。问题是入口信息不全，并非预约取消，房间仍可用。
+
+
+【长文第5段】
+
+Un mes més tard, una companya li va demanar que expliqués una dificultat que hagués resolt. En Roger no va començar pel final ni va barrejar tots els moments. Primer va donar el context, després va explicar què havia preparat, quin problema havia aparegut i què havia fet el grup. Va acabar amb un canvi concret: ara confirmava el punt d’accés i no només l’adreça. Quan va escoltar la seva gravació, va notar que els temps verbals ajudaven a seguir la història. No necessitava explicar cada detall per ser clar; necessitava seleccionar els detalls que feien comprensible la relació entre les accions i el resultat.
+
+中文参考：一个月后同伴问解决困难的经历，他按背景、先前准备、问题、行动和改进来讲，不混时间。听录音发现时态有助理解；清楚不需讲每个细节，而需选能说明行动结果关系的细节。
+
+
+【长文理解 R1-R6】
+
+1. 罗杰此前以什么身份去过中心？
+
+2. 遗漏哪项信息？
+
+3. 正门关为何不足以取消？
+
+4. 努里娅为何留在原地？
+
+5. 真正问题是什么？
+
+6. 复述清晰的关键是什么？
+
+
+【第5课：文化、翻译与综合反馈】
+
+叙述失误时可以承担自己知道的责任，也要避免未经核实就指责他人。练习可用虚构情境，不需披露私人经历。
+
+T1 加译中：Ja havíem confirmat la sala quan vam arribar.
+
+T2 中译加：我们到达时早已确认房间。
+
+T3 加译中：Mentre jo trucava, ella esperava el grup.
+
+T4 中译加：我打电话时，她在等大家。
+
+T5 加译英：La porta era tancada, però la reserva continuava vigent.
+
+T6 英译加：The door was closed, but the booking remained valid.
+
+T7 加译英：He canviat la llista arran d’aquesta experiència.
+
+T8 英译加：I have changed the checklist as a result of this experience.
+
+综合迁移：把角色任务中的一个费用、时段或条件改掉，重新协商。最后由另一人复述共识、未知与行动人，第一人确认或更正。
+
+
+【答案与详细解析：词汇】
+
+V1 记忆。解析：本单元语境对应词条el record；若有多个常用义，按题目语境解释。
+
+V2 经历。解析：本单元语境对应词条l’experiència (f.)；若有多个常用义，按题目语境解释。
+
+V3 搬迁。解析：本单元语境对应词条el trasllat；若有多个常用义，按题目语境解释。
+
+V4 意外。解析：本单元语境对应词条l’imprevist (m.)；若有多个常用义，按题目语境解释。
+
+V5 el senyal。解析：迹象；保留名词冠词与必要重音、间隔点或省音符号。
+
+V6 la seqüència。解析：顺序；保留名词冠词与必要重音、间隔点或省音符号。
+
+V7 el desenllaç。解析：结局；保留名词冠词与必要重音、间隔点或省音符号。
+
+V8 el detall。解析：细节；保留名词冠词与必要重音、间隔点或省音符号。
+
+
+【答案与详细解析：语法】
+
+G1.1 preparava。准备饭作为正在展开背景，电话响是边界明确的新事件；另一选项不符合此题设定的背景视角。
+
+G1.2 Abans estudiava sol; ahir vaig repassar amb un company. 女性说话者用sola，伙伴女性可用una companya；习惯与单次动作分别处理。
+
+G2.1 he col·laborat。至今经验使用完成，haver随我变he。
+
+G2.2 L’any passat em vaig encarregar de recollir les dades. 已结束去年用外围过去，encarregar-se de保反身与介词。
+
+G3.1 havíem comprat。主语我们，对应havíem；买票早于收到通知。
+
+G3.2 先发消息，后接到电话；havia enviat以电话为过去参照。不是打电话以后才发。
+
+G4.1 sàpiga。未来未实现时间从句用虚拟式；主句avisaré未来，不能据此把从句也写成sabré。
+
+G4.2 Llegiré la llista abans de fer la compra. 同主语不定式；说明先读清单再采购，不自动表示因果。
+
+G5.1 Hem rebut la proposta i la revisarem demà. la代阴性单数名词，不用ho。
+
+G5.2 Hem llegit la consulta i la proposta. Revisarem la proposta dijous. 重复名词在此提升清晰度，不能把避免重复置于明确指代之上。
+
+
+【答案与详细解析：情境应用】
+
+1. 用更早过去补全：Quan vam arribar, ja ___ la sala.（confirmar，nosaltres）
+参考答案：havíem confirmat
+解析：过去完成明确先于抵达。
+
+2. 用背景＋事件写“我等候时电话响了”。
+参考答案：Mentre esperava, va sonar el telèfon.
+解析：esperava持续背景；va sonar事件。
+
+3. 译：这次经历后我修改了清单。
+参考答案：He modificat la llista arran d’aquesta experiència.
+解析：完成时联系当前结果。
+
+4. 同主体用abans de合并“我核入口；后来发通知”。
+参考答案：Vaig comprovar l’entrada abans d’enviar l’avís.
+解析：不定式不是动词后置的荷兰语规则。
+
+5. 替换la sala：La sala era correcta i vam utilitzar la sala.
+参考答案：La sala era correcta i la vam utilitzar.
+解析：la回指阴性单数，不用ho。
+
+
+【答案与详细解析：听力】
+
+1. 此前看过什么？
+参考答案：Una altra entrada de la sala o del centre.
+解析：第4句入口不同，不是完全未看。
+
+2. 打电话时谁等小组？
+参考答案：La Núria.
+解析：第8句分工明确。
+
+3. 最后活动取消了吗？
+参考答案：No, van entrar per la porta lateral.
+解析：第8至10句纠正取消推断。
+
+4. 迟多久开始？
+参考答案：Deu minuts.
+解析：第10句是活动延误，非提前到达时间。
+
+
+【答案与详细解析：短文】
+
+S1-S2参考：用途：活动复盘；对象：团队。更早确认房间时间、漏入口；当天正门关而侧门可用，晚十分钟；后续核入口与会合点。
+
+S3两句摘要范例：La visita va començar deu minuts tard perquè faltava informació sobre l’entrada, no perquè s’hagués cancel·lat la reserva. L’equip proposa confirmar també l’accés i el punt de trobada abans de la propera activitat.
+
+S3解析：时间与真正原因明确，下一步可执行。
+
+
+【答案与详细解析：长文】
+
+1. 罗杰此前以什么身份去过中心？
+参考答案：Com a visitant.
+解析：参加过不等已熟悉所有组织条件。
+
+2. 遗漏哪项信息？
+参考答案：L’entrada oberta el dissabte.
+解析：不是地址或预约日期。
+
+3. 正门关为何不足以取消？
+参考答案：No demostrava que tot l’edifici estigués tancat.
+解析：局部迹象不能推出整体状态。
+
+4. 努里娅为何留在原地？
+参考答案：Per reunir les persones que arribaven.
+解析：分工避免大家分散找门。
+
+5. 真正问题是什么？
+参考答案：Faltava informació sobre l’accés, no s’havia cancel·lat la reserva.
+解析：必须保留这一纠正。
+
+6. 复述清晰的关键是什么？
+参考答案：Ordenar els moments i seleccionar detalls rellevants.
+解析：不是把故事越说越长。
+
+
+【答案与详细解析：翻译】
+
+T1 加译中
+参考答案：我们到达时早已确认房间。
+解析：过去完成先于过去事件。
+
+T2 中译加
+参考答案：Ja havíem confirmat la sala quan vam arribar.
+解析：过去完成先于过去事件。
+
+T3 加译中
+参考答案：我打电话时，她在等大家。
+解析：两个同时持续动作。
+
+T4 中译加
+参考答案：Mentre jo trucava, ella esperava el grup.
+解析：两个同时持续动作。
+
+T5 加译英
+参考答案：The door was closed, but the booking remained valid.
+解析：状态与预约效力不是同一信息。
+
+T6 英译加
+参考答案：La porta era tancada, però la reserva continuava vigent.
+解析：状态与预约效力不是同一信息。
+
+T7 加译英
+参考答案：I have changed the checklist as a result of this experience.
+解析：完成时联系当前改进。
+
+T8 英译加
+参考答案：He canviat la llista arran d’aquesta experiència.
+解析：完成时联系当前改进。
+
+
+【完整独立写作范文与解析】
+
+范文词数：147
+
+Dissabte passat vaig organitzar una visita al centre del barri. Abans havia confirmat la sala i l’horari, però no havia preguntat per l’entrada. Quan vam arribar, la porta principal estava tancada. Al principi vaig pensar que hi havia un problema amb la reserva. Després vaig comprovar el missatge i vaig decidir trucar abans de cancel·lar res. Mentre jo parlava amb el centre, una companya esperava les persones que encara arribaven. Ens van explicar que havíem d’entrar per una porta lateral. Vaig comprovar el camí i vaig enviar una indicació clara a tot el grup. Finalment vam començar deu minuts tard i vam poder mantenir el programa. Aquesta experiència m’ha ajudat a distingir una dada comprovada d’una suposició. A partir d’ara confirmaré també l’accés i el punt de trobada. Si apareix un altre imprevist, intentaré obtenir la informació necessària abans d’anunciar una decisió que potser no cal prendre.
+
+中文参考：周六组织参观，先确认房间时间却漏入口；正门关后先核邮件并致电，同伴等人。侧门可进，发清楚路线，晚十分钟照常进行。此后核入口和集合点，意外时先查必要信息再决定。
+
+解析：havia标更早准备，estava背景，vaig推进事件；m’ha ajudat联系现在；结尾改进可执行。
+
+写作20分：必要信息8、组织4、语言4、读者理解与回应4。语言正确但漏关键限制不能给信息满分；接受等义自然句及规范地区变体。
+
+
+【口语角色回应示范与解析】
+
+Havíem confirmat la sala, però no l’entrada. Quan vam arribar, la porta era tancada. Vam trucar i vam entrar per una porta lateral. La reserva no estava cancel·lada. Si no aconseguíssim contactar-hi, informaríem el grup que encara faltava aclarir la situació.
+
+中文参考：先给实际结果，再把未发生分支作为假设，不改写历史。
+
+示例为可展开的回应主线，并非完整互动的唯一答案。追加问题必须实际回答；只背示例不给互动满分。
+
+学习记录：保存初稿一句、修订一句和修改原因；记一项仍需核实的信息或语言问题。第40单元比较记录，选出最影响沟通的三个改进。
+
+
+==========================================================
+单元32 长文本定位与篇章结构 / Llegir amb una pregunta al cap
+==========================================================
+
+交际目标：根据问题定位证据，区分段落功能并写准确摘要。
+
+
+【第1课：三语词汇与搭配】
+
+01. el paràgraf | paragraph | 段落
+
+02. el títol | title | 标题
+
+03. el subtítol | subheading | 小标题
+
+04. la idea | idea | 观点
+
+05. la prova | evidence | 证据
+
+06. la referència | reference | 指涉
+
+07. el resum | summary | 摘要
+
+08. l’excepció (f.) | exception | 例外
+
+09. la condició | condition | 条件
+
+10. l’apartat (m.) | section | 部分
+
+11. localitzar | to locate | 定位
+
+12. relacionar | to connect | 联系
+
+13. descartar | to rule out | 排除
+
+14. justificar | to justify | 说明依据
+
+15. deduir | to infer | 推断
+
+16. principal | main | 主要的
+
+17. secundari | secondary | 次要的
+
+18. explícit | explicit | 明确的
+
+19. implícit | implicit | 隐含的
+
+20. en canvi | by contrast | 相比之下
+
+名词连冠词学习；l’之后的(m.)或(f.)标性别。条目含固定搭配和复现词，不表示全部是首次出现的新词。
+
+
+【搭配示范】
+
+Tenen prioritat, però no són els únics destinataris.
+
+中文参考：他们优先，但不是唯一对象。
+
+El material s’ha inclòs en el preu.
+
+中文参考：材料已含在价格内。
+
+La frase que segueix introdueix una excepció.
+
+中文参考：接下来一句引入例外。
+
+El formulari s’ha rebut; això no confirma la plaça.
+
+中文参考：表已收到，这不确认名额。
+
+
+【词汇练习 V1-V8】
+
+V1 写出中文：el paràgraf
+
+V2 写出中文：el títol
+
+V3 写出中文：el subtítol
+
+V4 写出中文：la idea
+
+V5 写出加泰语（名词带冠词）：证据
+
+V6 写出加泰语（名词带冠词）：指涉
+
+V7 写出加泰语（名词带冠词）：摘要
+
+V8 写出加泰语（名词带冠词）：例外
+
+朗读：把四句搭配按“来源或背景／主要信息／条件或限制”分成意群。保留no、només、encara、tot i que等改变范围或逻辑的词。搭档复述实际含义，再交换角色。
+
+
+【第2课：五项语法与练习】
+
+G1 篇章连接与逻辑关系
+讲解：per tant引结论，en canvi对比，d’altra banda另方面，pel que fa a转话题，mentrestant同时推进。连接词不能凭空创造逻辑：句子相邻不必然因果。本册练用一句背景加一句结果，而不是堆很多连接词。加泰语不因句首连接词要求荷兰语式主谓倒装。
+例句：La sala no està confirmada; per tant, no publicarem l’hora. 场地未定，因此先不公布时刻。
+易错辨析：després只是随后，不等因此；en canvi并非每次换话题都适用。
+
+G1.1 填逻辑：El nombre augmenta; ___, la proporció baixa.
+
+G1.2 用mentrestant说明等待场地时可备表。
+
+G2 篇章指代链：la、ho、això、en
+讲解：la/les等与明确名词性数对应；ho常代整件内容；això可概括前述事件，en常代de补语或数量范围。连续句不能只求省词，应让读者知道所指；有两个同类先行词时可重写名词。
+例句：La proposta és provisional; la revisarem dijous. 方案暂定，周四复查它。
+易错辨析：两份提议都出现时一个la可能不清楚，应写la proposta del matí等。
+
+G2.1 替换第二个la proposta：Hem rebut la proposta i revisarem la proposta demà.
+
+G2.2 改清楚：Hem llegit la consulta i la proposta. La revisarem dijous.（要复查提案）
+
+G3 被动、无人称与动作状态
+讲解：ser＋分词可突出受事：La documentació ha estat rebuda，分词与主语配合；es＋第三人称可隐去执行者，如S’ha enviat el programa，复数S’han enviat els documents。estar＋分词常突出结果状态：El text està revisat。三者不能完全不看语境互换。
+例句：Les peces han estat enviades. 零件已经寄出。
+易错辨析：被动的enviades与阴性复数peces配合；不能写Les peces ha estat enviat。
+
+G3.1 改为被动：L’empresa ha enviat les peces.
+
+G3.2 填：S’___ enviat els documents.
+
+G4 关系句：que与on
+讲解：que常连接前面的具体名词，并在从句中作主语或直接宾语：el text que he escrit；on连接地点：la sala on ens reunim。不要把中文“的”逐字译为de。限定性关系句通常不加逗号，补充说明可用逗号；介词关系式见第三册第24、28单元；先按从句中的动词搭配确定介词。
+例句：La persona que coordina el taller és aquí. 协调工作坊的人在这里。
+易错辨析：el text que l’he escrit在本册标准限定结构中不应再用l’重复同一宾语。
+
+G4.1 合并：He llegit un avís. L’avís explica el canvi.
+
+G4.2 改错：La sala que ens reunim és petita.
+
+G5 数量与经验的范围
+讲解：alguns、la majoria、tots、cap、només限制断言范围。No tots han confirmat是并非全部，不能写成无人确认；No he coordinat grups de cinquanta persones只否认该规模，不否认一切经验。表达已审部分时说He revisat el resum，不扩大成He validat tot l’informe。
+例句：He rebut confirmacions de les persones afectades. 收到相关人的确认。
+易错辨析：人数、角色、次数不混：六志愿者并不是五十名参加者。
+
+G5.1 解释No he dirigit mai un projecte d’aquesta mida。
+
+G5.2 仅审摘要，改写“Tot és correcte”。
+
+
+【情境应用 X1-X5】
+
+1. 用però连接“居民优先；其他人可报余位”。
+
+2. “材料包含，但笔记本除外”，用代词问“它需要自带吗”。
+
+3. 用被动表达“申请已收到，名额待确认”。
+
+4. 合并：He llegit un apartat. L’apartat explica les condicions.
+
+5. 纠正“所有物品保证修好”。
+
+
+【第3课：听力与互动】
+
+听两遍下列对话的加泰语部分，先回答L1-L4，再核对脚本。
+
+1. 对象条件在哪部分？
+
+2. 是否仅限居民？
+
+3. 什么材料不包含？
+
+4. 第一段主要用途？
+
+
+【角色任务】
+
+A称工作坊仅限居民、包全部材料；B引用短文纠正。追问：自动收件是否可直接出发？
+
+先回应对方，再解释依据；面对追加条件必须调整回答。可以使用虚构个人资料。
+
+
+【完整对话脚本（12句）】
+
+A: On diu qui pot participar en el taller?
+
+中文参考：哪里写谁能参加？
+
+B: Al segon apartat, sota el títol «Destinataris».
+
+中文参考：第二部分“对象”下面。
+
+A: Només hi poden anar persones del barri?
+
+中文参考：只有本社区的人能去吗？
+
+B: No. El text diu que tenen prioritat, no exclusivitat.
+
+中文参考：不是，写优先，不是仅限。
+
+A: I el material està inclòs?
+
+中文参考：含材料吗？
+
+B: El material de grup sí; la llibreta personal, no.
+
+中文参考：小组材料含，个人本子不含。
+
+A: Ho has deduït del preu?
+
+中文参考：你从价格推断的吗？
+
+B: No, surt a l’última frase del tercer apartat.
+
+中文参考：不是，在第三部分最后一句。
+
+A: El primer paràgraf serveix per respondre aquestes preguntes?
+
+中文参考：第一段能回答这些吗？
+
+B: Presenta l’objectiu general, però no totes les condicions.
+
+中文参考：介绍总目标，不含全部条件。
+
+A: Aleshores cal llegir més enllà del títol.
+
+中文参考：所以要读标题之外的内容。
+
+B: Sí, i comprovar a què es refereix cada excepció.
+
+中文参考：也要确认每个例外指什么。
+
+
+【八行独白】
+
+1. Primer llegeixo la pregunta i identifico què he de trobar.
+
+中文参考：先读问题，确定要找什么。
+
+2. Després miro els títols i l’organització del text.
+
+中文参考：再看标题和结构。
+
+3. Localitzo el fragment que tracta aquell tema.
+
+中文参考：定位相关段落。
+
+4. No em quedo només amb una paraula que coincideix.
+
+中文参考：不只抓一个相同词。
+
+5. Llegeixo també la frase anterior i la següent.
+
+中文参考：也读前后句。
+
+6. Comprovo les condicions, els pronoms i les excepcions.
+
+中文参考：核条件、代词和例外。
+
+7. Escric una resposta breu amb informació suficient.
+
+中文参考：写简短但充分的回答。
+
+8. Finalment verifico que no he afegit una conclusió sense prova.
+
+中文参考：最后检查未加无依据结论。
+
+独白练习：遮住原文，只留“背景、理由、另一观点、限制、下一步”五个提示说90秒。伙伴指出一项表达清楚的内容及一处应补充的限制。
+
+
+【第4课：短文阅读、长文阅读与独立写作】
+
+短文原文（148词）
+
+El centre ofereix un taller de reparació d’objectes petits per compartir coneixements i reduir residus. Les persones del barri tenen prioritat durant els tres primers dies d’inscripció. Després, les places que quedin lliures s’obriran a altres persones interessades. El material per a les demostracions està inclòs, però cadascú ha de portar una llibreta si vol prendre notes. No s’accepten aparells que necessitin una intervenció especialitzada; en cas de dubte, cal descriure l’objecte abans de portar-lo. El taller té dues sessions. La primera se centra en l’observació i la preparació, mentre que la segona permet provar algunes tècniques senzilles amb supervisió. Aquestes activitats no garanteixen la reparació de tots els objectes. La confirmació de plaça s’enviarà després de revisar les inscripcions. Rebre el formulari automàtic no significa que la plaça ja estigui reservada. Si una persona no pot assistir-hi, ha d’avisar perquè es pugui contactar amb la llista d’espera.
+
+中文参考：维修小物工作坊旨在分享知识、减废。报名前三天社区居民优先，之后空位向其他人开放。示范材料包含，笔记本自带。需专业处理的设备不接收，疑问先描述。两课先观察准备、再指导下试简单技术，不保证修好所有物品。审核后发名额确认，自动收表不等预订；不能来须通知，以便联系候补。
+
+短文任务 S1：写用途与读者。S2：标出已确认信息和待核问题；若是评论，区分事实与感受。S3：用两句概括对方下一步可做什么，或读者如何使用信息。
+
+
+【独立写作任务】
+
+写140至180词给朋友介绍短文工作坊，保留对象、材料限制、确认与缺席处理。
+
+长文原文（526词，五段）
+
+
+【长文第1段】
+
+La Carla preparava una activitat de lectura amb un text sobre un taller de reparació. En la primera lectura havia subratllat moltes paraules desconegudes i, al final, gairebé tota la pàgina tenia marques. Quan va intentar respondre les preguntes, no sabia on buscar. La professora li va proposar canviar l’ordre de treball: abans d’investigar cada paraula, havia d’identificar quina informació li demanaven. Una pregunta tractava dels destinataris, una altra del material i una tercera de les condicions d’inscripció. Aquells objectius diferents exigien mirar parts diferents del text. No totes les frases tenien el mateix valor per a qualsevol pregunta, encara que totes formessin part del document.
+
+中文参考：卡拉初读划出满页生词，答题时反而不知找哪。教师让她先识别问题：对象、材料、报名条件分别需定位不同部分，不是每句对每题同等重要。
+
+
+【长文第2段】
+
+Van observar l’organització del document. El primer paràgraf presentava el propòsit de l’activitat. El segon explicava qui podia inscriure-s’hi i en quin ordre. El tercer descrivia el material i les limitacions dels objectes que s’hi podien portar. L’últim apartat parlava de la confirmació i de què calia fer si algú no podia assistir-hi. La Carla va escriure una etiqueta breu al costat de cada part, sense traduir-la sencera. Això li va permetre tornar ràpidament al lloc adequat. També va veure que els títols ajudaven a orientar-se, però que no substituïen les frases on apareixien els detalls que necessitava per justificar una resposta.
+
+中文参考：他们给段落标用途：目标、对象顺序、材料限制、确认缺席处理。简短功能标签有助回查，但标题不能替代支持答案的具体句。
+
+
+【长文第3段】
+
+La primera pregunta deia si el taller era exclusiu per al veïnat. La Carla havia contestat que sí perquè havia vist l’expressió «persones del barri». En llegir la frase completa, va descobrir que es parlava de prioritat durant tres dies. La frase següent obria les places restants a altres persones. Va corregir la resposta i va explicar la diferència entre tenir preferència i ser l’únic grup admès. No n’hi havia prou amb trobar una paraula repetida a la pregunta. Calia entendre la relació entre aquella expressió, el verb i el límit temporal que definia la condició d’accés en aquell cas concret.
+
+中文参考：她因看到“社区居民”误答仅限居民，读完整句才发现只是三天优先，之后余位开放。关键词匹配不足，需结合动词、时间限制与后句。
+
+
+【长文第4段】
+
+En una altra pregunta havia escrit que tot el material estava inclòs. El text, però, distingia els materials de demostració de la llibreta personal. Van localitzar el connector «però» i van comprovar què canviava després d’aquell punt. La Carla va aprendre a marcar les excepcions juntament amb la regla, no en una llista separada que després oblidava. També va identificar els pronoms que remetien a una activitat o a un objecte anterior. Si no sabia què representava un pronom, tornava a la frase precedent. Aquest petit pas evitava atribuir una condició al grup equivocat o confondre la recepció d’un formulari amb una confirmació de plaça.
+
+中文参考：材料题她漏了笔记本例外。他们标però并把例外与规则放一起，另查代词先行项，避免把条件归错对象或将收表误当确认。
+
+
+【长文第5段】
+
+Al final va escriure un resum de quatre frases. Va incloure l’objectiu, els destinataris, una limitació important i el procés de confirmació. Va deixar fora detalls que no eren necessaris per a aquell resum, però no va eliminar cap condició que canviés el significat principal. Quan una companya el va llegir, va poder explicar què havia de fer abans d’anar al taller. La Carla va entendre que resumir no consistia a copiar les primeres frases ni a escurçar qualsevol cosa de manera automàtica. Consistia a seleccionar informació segons una finalitat i conservar les relacions que permetien interpretar-la correctament. Llegir amb una pregunta clara li havia donat un recorregut més útil pel text.
+
+中文参考：最终四句摘要含目标、对象、关键限制和确认流程。可以删次要细节，不能删改变意思的条件。伙伴读后知道报名行动，说明摘要不是抄开头或机械缩短，而是按用途保留关系。
+
+
+【长文理解 R1-R6】
+
+1. 最初满页划线有什么问题？
+
+2. 第一段功能？
+
+3. 优先是否等于仅限？
+
+4. 材料例外是什么？
+
+5. 遇代词不明怎么办？
+
+6. 摘要选择依据是什么？
+
+
+【第5课：文化、翻译与综合反馈】
+
+阅读可先按目的筛选，再精读证据。陌生词并非都要立即查；影响否定、条件或对象的词则不能忽略。
+
+T1 加译中：Tenen prioritat, però no són els únics destinataris.
+
+T2 中译加：他们优先，但不是唯一对象。
+
+T3 加译中：El material s’ha inclòs en el preu.
+
+T4 中译加：材料已含在价格内。
+
+T5 加译英：La frase que segueix introdueix una excepció.
+
+T6 英译加：The following sentence introduces an exception.
+
+T7 加译英：El formulari s’ha rebut; això no confirma la plaça.
+
+T8 英译加：The form has been received; this does not confirm a place.
+
+综合迁移：把角色任务中的一个费用、时段或条件改掉，重新协商。最后由另一人复述共识、未知与行动人，第一人确认或更正。
+
+
+【答案与详细解析：词汇】
+
+V1 段落。解析：本单元语境对应词条el paràgraf；若有多个常用义，按题目语境解释。
+
+V2 标题。解析：本单元语境对应词条el títol；若有多个常用义，按题目语境解释。
+
+V3 小标题。解析：本单元语境对应词条el subtítol；若有多个常用义，按题目语境解释。
+
+V4 观点。解析：本单元语境对应词条la idea；若有多个常用义，按题目语境解释。
+
+V5 la prova。解析：证据；保留名词冠词与必要重音、间隔点或省音符号。
+
+V6 la referència。解析：指涉；保留名词冠词与必要重音、间隔点或省音符号。
+
+V7 el resum。解析：摘要；保留名词冠词与必要重音、间隔点或省音符号。
+
+V8 l’excepció (f.)。解析：例外；保留名词冠词与必要重音、间隔点或省音符号。
+
+
+【答案与详细解析：语法】
+
+G1.1 en canvi。两指标对照，不用per tant因果。
+
+G1.2 Esperem la resposta sobre la sala. Mentrestant podem preparar el formulari. 同时进行的工作，不表示表已获发布许可。
+
+G2.1 Hem rebut la proposta i la revisarem demà. la代阴性单数名词，不用ho。
+
+G2.2 Hem llegit la consulta i la proposta. Revisarem la proposta dijous. 重复名词在此提升清晰度，不能把避免重复置于明确指代之上。
+
+G3.1 Les peces han estat enviades per l’empresa. han随复数，enviades阴性复数；执行者可按信息需要省去。
+
+G3.2 han。此处es被动结构，documents复数，s’han enviat；不可用单数ha配此目标句。
+
+G4.1 He llegit un avís que explica el canvi. que在从句作主语，avís为先行词。
+
+G4.2 La sala on ens reunim és petita. reunir-se需地点关系，此处用on；也可la sala en què ens reunim。
+
+G5.1 未曾领导如此规模项目；可能参与过或领导过较小项目。不能据此写“完全无经验”。
+
+G5.2 He revisat el resum; les dades encara s’han de validar. 明确审阅边界并保待办，不背书未查部分。
+
+
+【答案与详细解析：情境应用】
+
+1. 用però连接“居民优先；其他人可报余位”。
+参考答案：Els veïns tenen prioritat, però altres persones poden demanar les places restants.
+解析：不把优先变仅限。
+
+2. “材料包含，但笔记本除外”，用代词问“它需要自带吗”。
+参考答案：La llibreta, l’hem de portar nosaltres?
+解析：l’回指具体本子，语境中明确。
+
+3. 用被动表达“申请已收到，名额待确认”。
+参考答案：S’han rebut les sol·licituds, però les places encara s’han de confirmar.
+解析：复数与状态都保留。
+
+4. 合并：He llegit un apartat. L’apartat explica les condicions.
+参考答案：He llegit un apartat que explica les condicions.
+解析：que从句主语，无须再放el。
+
+5. 纠正“所有物品保证修好”。
+参考答案：No es garanteix la reparació de tots els objectes.
+解析：否定保证范围，不等保证一个也修不好。
+
+
+【答案与详细解析：听力】
+
+1. 对象条件在哪部分？
+参考答案：Al segon apartat, «Destinataris».
+解析：第2句用于定位。
+
+2. 是否仅限居民？
+参考答案：No, tenen prioritat.
+解析：优先不等排他。
+
+3. 什么材料不包含？
+参考答案：La llibreta personal.
+解析：第6句规则与例外并存。
+
+4. 第一段主要用途？
+参考答案：Presentar l’objectiu general.
+解析：不能据第一段猜所有条件。
+
+
+【答案与详细解析：短文】
+
+S1-S2参考：用途：工作坊说明；对象：潜在参与者。居民三天优先、余位开放；笔记本自带；专业设备先问；两课不保证修好，审核后确认。
+
+S3两句摘要范例：El taller ofereix dues sessions amb prioritat inicial per al veïnat i amb algunes limitacions de material i d’objectes. La persona interessada ha d’esperar la confirmació i avisar si no pot assistir-hi.
+
+S3解析：摘要可省细节但不能把优先说排他或把收表说批准。
+
+
+【答案与详细解析：长文】
+
+1. 最初满页划线有什么问题？
+参考答案：No ajudava a localitzar la informació de cada pregunta.
+解析：划生词不等建立结构。
+
+2. 第一段功能？
+参考答案：Presentar el propòsit.
+解析：不可据此回答全部具体条件。
+
+3. 优先是否等于仅限？
+参考答案：No, després de tres dies s’obren les places restants.
+解析：需保留时间与剩余名额。
+
+4. 材料例外是什么？
+参考答案：La llibreta personal.
+解析：规则与例外一起读。
+
+5. 遇代词不明怎么办？
+参考答案：Tornar a la frase anterior i buscar el referent.
+解析：避免把条件归给错误对象。
+
+6. 摘要选择依据是什么？
+参考答案：La finalitat del resum i les condicions que canvien el sentit.
+解析：不是任意删句。
+
+
+【答案与详细解析：翻译】
+
+T1 加译中
+参考答案：他们优先，但不是唯一对象。
+解析：优先与排他不同。
+
+T2 中译加
+参考答案：Tenen prioritat, però no són els únics destinataris.
+解析：优先与排他不同。
+
+T3 加译中
+参考答案：材料已含在价格内。
+解析：被动突出材料，具体范围看上下文。
+
+T4 中译加
+参考答案：El material s’ha inclòs en el preu.
+解析：被动突出材料，具体范围看上下文。
+
+T5 加译英
+参考答案：The following sentence introduces an exception.
+解析：que主语关系。
+
+T6 英译加
+参考答案：La frase que segueix introdueix una excepció.
+解析：que主语关系。
+
+T7 加译英
+参考答案：The form has been received; this does not confirm a place.
+解析：això回指收件事实。
+
+T8 英译加
+参考答案：El formulari s’ha rebut; això no confirma la plaça.
+解析：això回指收件事实。
+
+
+【完整独立写作范文与解析】
+
+范文词数：148
+
+El centre organitza un taller per compartir coneixements sobre la reparació d’objectes petits i reduir residus. Les persones del barri tenen prioritat durant els tres primers dies, però l’activitat no és exclusivament per a elles. Després s’oferiran les places que quedin a altres persones interessades. El material de demostració està inclòs; si vols prendre notes, has de portar una llibreta. Abans de dur un objecte que pugui necessitar una intervenció especialitzada, convé descriure’l al centre. Les dues sessions combinen observació i pràctica supervisada, sense garantir que es pugui reparar tot. Per tant, no aniria al taller esperant una reparació assegurada. També has d’esperar la confirmació de plaça després d’enviar el formulari. El missatge automàtic només indica que l’han rebut. Si finalment no pots assistir-hi, avisa perquè una altra persona de la llista d’espera pugui aprofitar la plaça. Et recomano conservar la confirmació i revisar-hi el dia i l’hora.
+
+中文参考：介绍目标、三天居民优先、余位开放、笔记本自备、专业问题先问、两课不保证修好、审核确认及缺席通知。
+
+解析：规则加例外，no…exclusivament避免扩大；自动信仅收件，建议最后核日期时间。
+
+写作20分：必要信息8、组织4、语言4、读者理解与回应4。语言正确但漏关键限制不能给信息满分；接受等义自然句及规范地区变体。
+
+
+【口语角色回应示范与解析】
+
+El veïnat té prioritat tres dies, però després hi poden accedir altres persones si queden places. La llibreta no està inclosa. Cal esperar la confirmació; el missatge automàtic només indica que han rebut el formulari.
+
+中文参考：三处范围逐项修正，来源定位可补第二、三、末部分。
+
+示例为可展开的回应主线，并非完整互动的唯一答案。追加问题必须实际回答；只背示例不给互动满分。
+
+学习记录：保存初稿一句、修订一句和修改原因；记一项仍需核实的信息或语言问题。第40单元比较记录，选出最影响沟通的三个改进。
+
+
+==========================================================
+单元33 访谈听辨与信息修正 / Escoltar, corregir i confirmar
+==========================================================
+
+交际目标：识别改口和澄清，按最终信息更新笔记而不覆盖仍有效的条件。
+
+
+【第1课：三语词汇与搭配】
+
+01. l’entrevista (f.) | interview | 访谈
+
+02. la rectificació | correction | 更正
+
+03. el matís | qualification | 限定
+
+04. la intenció | intention | 意图
+
+05. la previsió | forecast | 预计
+
+06. la certesa | certainty | 确定性
+
+07. la dada | detail | 数据
+
+08. la pausa | pause | 停顿
+
+09. el torn | turn | 发言轮次
+
+10. la nota | note | 笔记
+
+11. rectificar | to correct | 更正
+
+12. precisar | to specify | 说准确
+
+13. confirmar | to confirm | 确认
+
+14. suposar | to suppose | 假设
+
+15. repetir | to repeat | 重复
+
+16. en realitat | actually | 实际上
+
+17. més ben dit | more precisely | 更准确地说
+
+18. de moment | for now | 目前
+
+19. potser | perhaps | 也许
+
+20. encara no | not yet | 尚未
+
+名词连冠词学习；l’之后的(m.)或(f.)标性别。条目含固定搭配和复现词，不表示全部是首次出现的新词。
+
+
+【搭配示范】
+
+Dimecres, més ben dit; l’hora no canvia.
+
+中文参考：更准确说周三，时间不变。
+
+No parlo d’inscrits, sinó de places.
+
+中文参考：我说的不是报名者，而是名额。
+
+Esperen respondre divendres, però no ho garanteixen.
+
+中文参考：他们希望周五答，但不保证。
+
+Voldria saber què continua pendent.
+
+中文参考：我想知道什么仍待定。
+
+
+【词汇练习 V1-V8】
+
+V1 写出中文：l’entrevista (f.)
+
+V2 写出中文：la rectificació
+
+V3 写出中文：el matís
+
+V4 写出中文：la intenció
+
+V5 写出加泰语（名词带冠词）：预计
+
+V6 写出加泰语（名词带冠词）：确定性
+
+V7 写出加泰语（名词带冠词）：数据
+
+V8 写出加泰语（名词带冠词）：停顿
+
+朗读：把四句搭配按“来源或背景／主要信息／条件或限制”分成意群。保留no、només、encara、tot i que等改变范围或逻辑的词。搭档复述实际含义，再交换角色。
+
+
+【第2课：五项语法与练习】
+
+G1 否定与范围：no tots、cap、encara no
+讲解：No tots…表示并非全部，不能译成全部都不；cap用于否定或疑问中的可数单项，res指没有任何东西或事情；encara no表示截至目前尚未发生。només限定范围。读通知时连同时间地点保留，避免部分事实变整体断言。
+例句：No totes les peces han arribat. 還不是所有零件都到了。
+易错辨析：No totes不等于No ha arribat cap peça。no…encara不是永远不。
+
+G1.1 解释No tots els voluntaris han confirmat。
+
+G1.2 译：目前尚未确认任何日期。
+
+G2 转述与时间参照
+讲解：现在或当前相关的转述可保留有效未来：Ha dit que vindrà demà。以过去为参照常改变时间形式和时间词：Va dir que vindria l’endemà。变化取决于说话时刻，不是看到dir就机械全部后移。转述还要注明谁说、原承诺范围，不能把“会查”改成“已解决”。
+例句：Ahir va dir: «Demà respondré». → Ahir va dir que respondria avui. 昨天说明天回复，即今天回复。
+易错辨析：demà依当前说话时刻变化；间接引语不保留原话引号并随意改人称。
+
+G2.1 转述昨天的话，今天仍在说：Ahir la Marta va dir: «Demà enviaré el resum».
+
+G2.2 Ha dit que comprovarà l’estoc是否等于Ha confirmat que hi ha estoc？
+
+G3 可能、表象与不知道
+讲解：potser可接直陈式表示可能；és possible que接虚拟式；sembla que常接直陈式表达表象或判断；no sabem si引未决信息。未知不等负面结论，降低确定度也不免除标注依据。
+例句：És possible que l’horari influeixi en l’ús del servei. 时间可能影响服务使用。
+易错辨析：不能因“可能”就统一使用同一语气；potser與és possible que结构不同。
+
+G3.1 填：És possible que el canvi ___ l’ús del servei.（facilitar）
+
+G3.2 用potser改写：És possible que hi hagi més usuaris.
+
+G4 统计期间与变化量：de…a、entre、des de
+讲解：de gener a febrer界定起终；entre gener i febrer在区间内；des de gener以一月为起点持续到参照时。passar de 30 a 40是起终值；augmentar en 10是增加量；augmentar fins a 40是最终达到值。每一数字的作用必须明确。
+例句：Les respostes van passar de trenta a quaranta: van augmentar en deu. 回复从30到40，增加10。
+易错辨析：不能把fins a 40翻成增加了40；des de不是只发生在那一个月。
+
+G4.1 填：El total va augmentar ___ vuitanta.（最终达到80）
+
+G4.2 用de…a说明一月至二月比例从60%降到50%。
+
+G5 间接疑问：saber / preguntar＋疑问词
+讲解：Voldria saber quan…把问题嵌入请求，保留quan、on、com、quin等，不引入英语式do。一般不把整个陈述式请求写成独立疑问句；若外层本身是问句可有问号，如Em pots dir quan vindrà?。si可引出是否，但不同于条件si。
+例句：Voldria saber quina versió hem d’enviar. 我想知道应该发哪个版本。
+易错辨析：不要把quina换成无性数的固定形式；quina修饰阴性versió。
+
+G5.1 改为Voldria saber开头：Quan arribarà el paquet?
+
+G5.2 译：能告诉我场地是否已确认吗？
+
+
+【情境应用 X1-X5】
+
+1. 纠正“十八报名者”为“十八可用名额”。
+
+2. 转述“L’hora no canvia”，用La coordinadora ha dit…
+
+3. 改为未确定可能：“La tercera sessió serà en línia”。
+
+4. 周五是预计更新，写明用途。
+
+5. 间接问句：“Quantes places hi ha?”
+
+
+【第3课：听力与互动】
+
+听两遍下列对话的加泰语部分，先回答L1-L4，再核对脚本。
+
+1. 最终开课何时？
+
+2. 哪些课面授？
+
+3. 十八是什么意思？
+
+4. 周五是否保证有答复？
+
+
+【角色任务】
+
+A按初稿说周二、二十报名者；B根据访谈更新。追问：周五需要来上课吗？
+
+先回应对方，再解释依据；面对追加条件必须调整回答。可以使用虚构个人资料。
+
+
+【完整对话脚本（12句）】
+
+A: El curs començarà dimarts a les sis, oi?
+
+中文参考：课程周二六点开始，对吗？
+
+B: Dimecres, més ben dit. L’hora continua sent les sis.
+
+中文参考：更准确地说是周三，时间仍六点。
+
+A: I totes les sessions seran presencials?
+
+中文参考：全部面授吗？
+
+B: Les dues primeres sí; la tercera encara s’ha de confirmar.
+
+中文参考：前两次是，第三次待确认。
+
+A: Hi ha vint places?
+
+中文参考：有二十个名额？
+
+B: Vint era la previsió. Ara n’hi ha divuit de confirmades.
+
+中文参考：二十是预计，现在确认十八。
+
+A: Això vol dir que ja hi ha divuit inscrits?
+
+中文参考：表示已报十八人吗？
+
+B: No, parlo de la capacitat disponible, no de les inscripcions.
+
+中文参考：不是，讲可用容量，不是报名数。
+
+A: Quan sabrem el format de la tercera sessió?
+
+中文参考：何时知道第三次形式？
+
+B: Esperem informar-ne divendres, però encara no és segur.
+
+中文参考：希望周五告知，但还不确定。
+
+A: Aleshores anoto el dia corregit i deixo aquella resposta pendent.
+
+中文参考：那我改日期，把那项留待确认。
+
+B: Exacte. No cal canviar l’hora que ja havíem confirmat.
+
+中文参考：对，已经确认的时间不用改。
+
+
+【八行独白】
+
+1. En una entrevista no totes les dades apareixen d’una vegada.
+
+中文参考：访谈信息未必一次说完。
+
+2. Una persona pot corregir un dia sense canviar l’hora.
+
+中文参考：可以改日期而不改时间。
+
+3. També pot distingir una previsió d’una dada confirmada.
+
+中文参考：也可区分预计与确认。
+
+4. Anoto la versió final i marco què s’ha rectificat.
+
+中文参考：我记最终版并标更正项。
+
+5. No converteixo una esperança en una promesa.
+
+中文参考：不把希望改成承诺。
+
+6. Si el referent és ambigu, escolto la resposta següent.
+
+中文参考：指涉不明时继续听下句。
+
+7. Després comprovo les relacions entre persones, dates i quantitats.
+
+中文参考：再核人、日期、数量对应。
+
+8. El resum ha de conservar també allò que encara no se sap.
+
+中文参考：摘要也应保留未知。
+
+独白练习：遮住原文，只留“背景、理由、另一观点、限制、下一步”五个提示说90秒。伙伴指出一项表达清楚的内容及一处应补充的限制。
+
+
+【第4课：短文阅读、长文阅读与独立写作】
+
+短文原文（149词）
+
+Resum de l’entrevista amb la coordinadora. El curs començarà dimecres a les sis de la tarda. Al principi s’ha mencionat dimarts, però la coordinadora ha rectificat el dia i ha mantingut l’hora. Les dues primeres sessions seran presencials. El format de la tercera encara està pendent de confirmació. Pel que fa a la capacitat, la previsió inicial era de vint places, però actualment n’hi ha divuit de confirmades. Aquesta xifra no indica el nombre de persones inscrites. La coordinadora espera poder comunicar el format de la tercera sessió divendres, tot i que no ha garantit aquella data de resposta. Per preparar un avís al grup, podem incloure el dia d’inici, l’hora i el format de les dues primeres sessions. No podem anunciar encara com es farà la tercera ni quantes persones hi assistiran. Si rebem una actualització, caldrà comprovar exactament quina informació substitueix i quines condicions continuen sent vàlides.
+
+中文参考：协调员先说周二后改周三，六点不变；前两次面授、第三待定；容量由预计20改为确认18，不代表报名人数。希望周五告知第三次形式，非保证。通知可写已确认项，不能补未知；更新时只替换被更正的信息。
+
+短文任务 S1：写用途与读者。S2：标出已确认信息和待核问题；若是评论，区分事实与感受。S3：用两句概括对方下一步可做什么，或读者如何使用信息。
+
+
+【独立写作任务】
+
+写140至180词访谈摘要，保留改口、数字对象、已定和未知事项。
+
+长文原文（530词，五段）
+
+
+【长文第1段】
+
+La Mireia escoltava una entrevista per preparar un avís sobre un curs del centre. Durant els primers segons va anotar «dimarts, sis, vint persones». Li semblava que ja tenia la informació principal i va començar a redactar mentalment el missatge. Uns instants després, la coordinadora es va corregir: havia dit dimarts, però el curs començaria dimecres. La Mireia va sentir la rectificació, tot i que no la va incorporar immediatament a les notes. Quan va revisar el que havia escrit, va adonar-se que una dada escoltada al principi podia quedar fixada amb més força que una correcció posterior. Havia de comprovar la versió final abans de donar-la per bona.
+
+中文参考：米蕾娅最初记“周二、六点、二十人”，便开始构思通知。协调员后改周三，她听到却没及时改笔记，发现首印象可能压过后续更正，需核最终版本。
+
+
+【长文第2段】
+
+La correcció afectava el dia, no l’hora. Un company que havia escoltat la mateixa entrevista va proposar eliminar les dues dades per prudència. La Mireia va tornar al fragment i va observar que la coordinadora havia mantingut explícitament les sis de la tarda. Esborrar tot el que envoltava una rectificació tampoc no era una bona estratègia. Van preparar una taula amb una columna per al contingut inicial, una altra per al canvi i una tercera per a la informació vàlida. Així podien actualitzar una part sense perdre les condicions que continuaven confirmades. La taula els obligava a escoltar la relació entre les frases, no només paraules separades.
+
+中文参考：改的是日期而非时间。伙伴建议两项都删，她重听发现六点明确保留。他们列初始、改动、有效信息三栏，避免一处更正导致全删，关注句间关系。
+
+
+【长文第3段】
+
+El nombre vint també necessitava una revisió. En la conversa es distingia una previsió de capacitat i una xifra confirmada de divuit places. Després l’entrevistador preguntava si això volia dir que hi havia divuit persones inscrites. La coordinadora responia que no: parlava de la capacitat disponible. Aquella pregunta de seguiment era tan important com la xifra mateixa. Si la Mireia només hagués apuntat el número final, hauria pogut escriure una dada incorrecta sobre assistència. Va afegir una paraula al costat de cada quantitat per indicar què comptava. «Divuit places» era una nota més útil que un divuit sense cap referència clara dins del resum.
+
+中文参考：二十是预计容量，确认十八名额。追问进一步澄清不是十八人报名。仅记数字仍可能写错出席情况，需给数量加对象标签。
+
+
+【长文第4段】
+
+Una altra part de l’entrevista tractava de la tercera sessió. Les dues primeres eren presencials, però el format de l’última no s’havia decidit. La coordinadora esperava informar-ne divendres. No deia que pogués garantir aquella resposta en una data fixa. El grup va comparar expressions com «esperem», «és possible» i «hem confirmat». No les van ordenar com si totes signifiquessin una mateixa promesa amb paraules diferents. Van discutir què podia afirmar un avís basat en cadascuna. La Mireia va escriure que el format estava pendent i que es preveia una actualització, sense convertir la previsió en una obligació que la font no havia expressat.
+
+中文参考：前两次面授、第三未定，协调员期待周五更新但不保证。他们对比“期待、可能、已确认”，不当同义承诺。通知写待定和预计更新，不强加来源未说的保证。
+
+
+【长文第5段】
+
+Quan va acabar el resum, la Mireia el va llegir a una companya que no havia escoltat l’entrevista. Li va demanar que expliqués quan començava el curs, què significaven les divuit places i quina informació faltava. La companya va respondre correctament, però va preguntar si havia de reservar-se també el divendres per assistir a classe. Aquella confusió va mostrar que calia distingir la data d’una actualització de la data d’una sessió. La Mireia va modificar una frase. Havia après que escoltar bé no acabava en prendre notes: també implicava transmetre les dades de manera que una altra persona pogués interpretar-les sense haver sentit tota la conversa original.
+
+中文参考：未听访谈的伙伴读摘要，能答开始时间和容量，却误以为周五也要上课，于是米蕾娅进一步区分更新日与上课日。听懂还包括让没听原话的人也能准确理解。
+
+
+【长文理解 R1-R6】
+
+1. 最初笔记有何风险？
+
+2. 更正涉及哪项？
+
+3. 十八指什么？
+
+4. 周五属于哪种日期？
+
+5. 第三次形式确定了吗？
+
+6. 最后读者测试发现什么？
+
+
+【第5课：文化、翻译与综合反馈】
+
+听力练习中允许用简写，但每个数要有对象，每个日期要有用途。两遍朗读只读加泰语，改口也完整读出。
+
+T1 加译中：Dimecres, més ben dit; l’hora no canvia.
+
+T2 中译加：更准确说周三，时间不变。
+
+T3 加译中：No parlo d’inscrits, sinó de places.
+
+T4 中译加：我说的不是报名者，而是名额。
+
+T5 加译英：Esperen respondre divendres, però no ho garanteixen.
+
+T6 英译加：They hope to reply on Friday but do not guarantee it.
+
+T7 加译英：Voldria saber què continua pendent.
+
+T8 英译加：I would like to know what remains pending.
+
+综合迁移：把角色任务中的一个费用、时段或条件改掉，重新协商。最后由另一人复述共识、未知与行动人，第一人确认或更正。
+
+
+【答案与详细解析：词汇】
+
+V1 访谈。解析：本单元语境对应词条l’entrevista (f.)；若有多个常用义，按题目语境解释。
+
+V2 更正。解析：本单元语境对应词条la rectificació；若有多个常用义，按题目语境解释。
+
+V3 限定。解析：本单元语境对应词条el matís；若有多个常用义，按题目语境解释。
+
+V4 意图。解析：本单元语境对应词条la intenció；若有多个常用义，按题目语境解释。
+
+V5 la previsió。解析：预计；保留名词冠词与必要重音、间隔点或省音符号。
+
+V6 la certesa。解析：确定性；保留名词冠词与必要重音、间隔点或省音符号。
+
+V7 la dada。解析：数据；保留名词冠词与必要重音、间隔点或省音符号。
+
+V8 la pausa。解析：停顿；保留名词冠词与必要重音、间隔点或省音符号。
+
+
+【答案与详细解析：语法】
+
+G1.1 不是所有志愿者都已确认；可能部分已确认，句子本身不提供具体人数。不能译成没人确认。
+
+G1.2 De moment no s’ha confirmat cap data. cap配可数data，de moment保留目前范围。
+
+G2.1 Ahir la Marta va dir que enviaria el resum avui. 原话明天对应今天，enviaria为过去视角的未来。
+
+G2.2 不等。前者承诺检查库存，后者已确认有库存；转述时须保留证据和动作状态的差别。
+
+G3.1 faciliti。és possible que引现在虚拟式；主体el canvi单数。
+
+G3.2 Potser hi ha més usuaris. 本句用直陈现在ha；仍是推测，不能据此写已确认人数增长。
+
+G4.1 fins a。强调终值80，不是增量80。
+
+G4.2 De gener a febrer, la proporció va passar del seixanta al cinquanta per cent. del/de+el和al/a+el保留冠词缩合。
+
+G5.1 Voldria saber quan arribarà el paquet. 询问信息嵌入句中，arribarà仍表达未来到达。
+
+G5.2 Em pots dir si la sala està confirmada? 外层是提问所以有问号；si表示是否，不是如果。
+
+
+【答案与详细解析：情境应用】
+
+1. 纠正“十八报名者”为“十八可用名额”。
+参考答案：No són divuit inscrits, sinó divuit places disponibles.
+解析：对象纠正。
+
+2. 转述“L’hora no canvia”，用La coordinadora ha dit…
+参考答案：La coordinadora ha dit que l’hora no canvia.
+解析：保留仍有效信息。
+
+3. 改为未确定可能：“La tercera sessió serà en línia”。
+参考答案：És possible que la tercera sessió sigui en línia, però no està confirmat.
+解析：可能性用虚拟式，不擅认已定。
+
+4. 周五是预计更新，写明用途。
+参考答案：Esperen comunicar-ne el format divendres.
+解析：更新日非课程日。
+
+5. 间接问句：“Quantes places hi ha?”
+参考答案：Voldria saber quantes places hi ha.
+解析：quantes配阴性复数。
+
+
+【答案与详细解析：听力】
+
+1. 最终开课何时？
+参考答案：Dimecres a les sis.
+解析：周二被更正，六点保留。
+
+2. 哪些课面授？
+参考答案：Les dues primeres; la tercera està pendent.
+解析：不推广全部。
+
+3. 十八是什么意思？
+参考答案：La capacitat disponible confirmada.
+解析：非报名人数。
+
+4. 周五是否保证有答复？
+参考答案：No, és una previsió.
+解析：esperem不等保证。
+
+
+【答案与详细解析：短文】
+
+S1-S2参考：用途：访谈摘要；对象：通知撰写者。周三六点、前两面授、第三未知；十八容量非报名，周五仅预计更新。
+
+S3两句摘要范例：El curs començarà dimecres a les sis i disposa de divuit places confirmades, que no indiquen el nombre d’inscrits. El format de la tercera sessió continua pendent i divendres només és una previsió d’actualització.
+
+S3解析：最终信息及未知同时保留。
+
+
+【答案与详细解析：长文】
+
+1. 最初笔记有何风险？
+参考答案：Fixar les primeres dades i no incorporar les correccions.
+解析：首条信息未必最终有效。
+
+2. 更正涉及哪项？
+参考答案：El dia: dimecres en lloc de dimarts.
+解析：六点不变。
+
+3. 十八指什么？
+参考答案：Places de capacitat confirmada.
+解析：不是报名人数。
+
+4. 周五属于哪种日期？
+参考答案：Una previsió de comunicació, no una sessió confirmada.
+解析：预计更新非上课。
+
+5. 第三次形式确定了吗？
+参考答案：No.
+解析：不能从前两次面授外推。
+
+6. 最后读者测试发现什么？
+参考答案：Es podia confondre el dia d’actualització amb el dia de classe.
+解析：需按信息用途说明日期。
+
+
+【答案与详细解析：翻译】
+
+T1 加译中
+参考答案：更准确说周三，时间不变。
+解析：局部更正。
+
+T2 中译加
+参考答案：Dimecres, més ben dit; l’hora no canvia.
+解析：局部更正。
+
+T3 加译中
+参考答案：我说的不是报名者，而是名额。
+解析：否定焦点是统计对象。
+
+T4 中译加
+参考答案：No parlo d’inscrits, sinó de places.
+解析：否定焦点是统计对象。
+
+T5 加译英
+参考答案：They hope to reply on Friday but do not guarantee it.
+解析：希望不是承诺。
+
+T6 英译加
+参考答案：Esperen respondre divendres, però no ho garanteixen.
+解析：希望不是承诺。
+
+T7 加译英
+参考答案：I would like to know what remains pending.
+解析：间接问句què带重音。
+
+T8 英译加
+参考答案：Voldria saber què continua pendent.
+解析：间接问句què带重音。
+
+
+【完整独立写作范文与解析】
+
+范文词数：147
+
+Segons l’entrevista, el curs començarà dimecres a les sis de la tarda. La coordinadora havia mencionat dimarts al principi, però després ha corregit el dia sense modificar l’hora. Les dues primeres sessions seran presencials. Encara no s’ha confirmat el format de la tercera, de manera que no convé presentar tot el curs com a presencial. La capacitat disponible és de divuit places confirmades; la xifra de vint corresponia a una previsió anterior. No sabem quantes persones s’hi han inscrit. La coordinadora espera comunicar més informació divendres, però no ha garantit que la resposta arribi aquell dia. Divendres és una previsió d’actualització, no una data de classe. Per preparar l’avís, mantindrem les dades confirmades i indicarem clarament els punts pendents. Quan rebem una resposta nova, revisarem què substitueix i conservarem les condicions que no hagin canviat. Això permetrà informar el grup sense afegir certeses que l’entrevista no ofereix.
+
+中文参考：摘要写周三六点、前两面授、第三未知、18容量非报名、20旧预计，周五仅预计更新；后续只替换改动项。
+
+解析：先最终结论，再解释被替代信息；否定范围、时间用途及情态强度不可丢。
+
+写作20分：必要信息8、组织4、语言4、读者理解与回应4。语言正确但漏关键限制不能给信息满分；接受等义自然句及规范地区变体。
+
+
+【口语角色回应示范与解析】
+
+El dia correcte és dimecres a les sis. Hi ha divuit places de capacitat confirmada, no divuit inscrits. Divendres és una previsió per informar del format pendent, no una data de classe confirmada.
+
+中文参考：改日期、对象、数量与时间用途，保留六点。
+
+示例为可展开的回应主线，并非完整互动的唯一答案。追加问题必须实际回答；只背示例不给互动满分。
+
+学习记录：保存初稿一句、修订一句和修改原因；记一项仍需核实的信息或语言问题。第40单元比较记录，选出最影响沟通的三个改进。
+
+
+==========================================================
+单元34 短口语任务与明确请求 / Dir el que cal amb poques paraules
+==========================================================
+
+交际目标：在短时练习中说清目的、必要信息和请求，并回应追问。
+
+
+【第1课：三语词汇与搭配】
+
+01. la petició | request | 请求
+
+02. la disculpa | apology | 道歉
+
+03. l’objectiu (m.) | goal | 目标
+
+04. el destinatari | recipient | 接收者
+
+05. la resposta | reply | 回应
+
+06. la informació | information | 信息
+
+07. el límit | limit | 限制
+
+08. el missatge | message | 消息
+
+09. la reformulació | rephrasing | 重述
+
+10. el temps | time | 时间
+
+11. demanar | to ask for | 请求
+
+12. disculpar-se | to apologise | 道歉
+
+13. concretar | to specify | 具体说明
+
+14. respondre | to respond | 回应
+
+15. escurçar | to shorten | 缩短
+
+16. breu | brief | 简短的
+
+17. precís | precise | 准确的
+
+18. amable | kind | 友好的
+
+19. necessari | necessary | 必要的
+
+20. si us plau | please | 请
+
+名词连冠词学习；l’之后的(m.)或(f.)标性别。条目含固定搭配和复现词，不表示全部是首次出现的新词。
+
+
+【搭配示范】
+
+Voldria saber si encara em podeu atendre.
+
+中文参考：我想知道你们还能否接待我。
+
+No vull canviar de dia de moment.
+
+中文参考：目前不想改日期。
+
+Us aviso perquè pugueu reorganitzar l’horari.
+
+中文参考：我通知以便你们调整安排。
+
+Esperaré la confirmació, no només el justificant.
+
+中文参考：我会等确认，而不只等收件凭据。
+
+
+【词汇练习 V1-V8】
+
+V1 写出中文：la petició
+
+V2 写出中文：la disculpa
+
+V3 写出中文：l’objectiu (m.)
+
+V4 写出中文：el destinatari
+
+V5 写出加泰语（名词带冠词）：回应
+
+V6 写出加泰语（名词带冠词）：信息
+
+V7 写出加泰语（名词带冠词）：限制
+
+V8 写出加泰语（名词带冠词）：消息
+
+朗读：把四句搭配按“来源或背景／主要信息／条件或限制”分成意群。保留no、només、encara、tot i que等改变范围或逻辑的词。搭档复述实际含义，再交换角色。
+
+
+【第2课：五项语法与练习】
+
+G1 礼貌请求与有限承诺
+讲解：podries/podria、et voldria demanar、seria possible等可缓和请求，但要保具体动作与期限。答复可Puc fer X, però no Y，说明可承担范围。礼貌不等用含糊语气接受做不到的全部工作；请求也不自动让对方承担责任。
+例句：Podries revisar el resum abans de dijous? 能周四前审摘要吗？
+易错辨析：podria是我/他/她，podries是你；不能按中文“可以”全部固定用podria。
+
+G1.1 向tu礼貌请求明天前确认日期。
+
+G1.2 写接受摘要、不能全审并给替代的两句。
+
+G2 允许、不必要与禁止
+讲解：poder可表能力或许可，要由情境判断；no cal＋不定式表不必要，no es pot在规则中表不允许。No cal activar不是No es pot activar。权限是否必需须看具体服务。
+例句：No cal compartir els contactes per continuar. 继续不必共享联系人。
+易错辨析：不能把“不必”译为“禁止”，也不能把可以访问当必须授权。
+
+G2.1 译：你可以手动填写社区。
+
+G2.2 解释No cal donar accés / No es pot donar accés。
+
+G3 目的：per＋不定式与perquè＋虚拟式
+讲解：相同主体可用per＋不定式说明目的，如Escric per confirmar l’hora；当需明确另一行动者，用perquè＋虚拟式：T’escric perquè confirmis l’hora。perquè＋直陈式往往说明原因。此处选常见教学结构，不把per/per a的所有地区与语体用法一概归为错误。
+例句：He deixat les instruccions perquè puguis continuar. 留说明以便你继续。
+易错辨析：目的尚待实现，不用因为有中文“因为”就一律直陈；先判断“为什么已经做”还是“为了什么”。
+
+G3.1 填：Us avisarem perquè ___ preparar-vos.（poder，vosaltres）
+
+G3.2 对比Ho faig perquè puc / Ho faig perquè puguis continuar。
+
+G4 数据说明中的主谓与性数
+讲解：明确主语再选动词：el nombre de respostes augmenta中核心nombre单数；les respostes augmenten复数。复数数项40 respostes representen…；la proporció és més baixa，形容词配proporció阴性。百分比＋集体名词的配合可随语境变化，本册先练明确核心主语句。
+例句：El nombre de participants és més alt; les proporcions són diferents. 人数更高，比例不同。
+易错辨析：不要因de后respostes复数把el nombre配augmenten。
+
+G4.1 填：El nombre de respostes ___ augmentat.（haver）
+
+G4.2 改错：Les dades està confirmat.
+
+G5 口头修正：vull dir、més ben dit、em refereixo a
+讲解：用Vull dir…或Més ben dit…替换刚才不准确的信息；Em refereixo a…澄清对象。修正只覆盖相关部分，若时间未改应明说。礼貌可用Potser no m’he explicat bé，不必把所有误解归给听者。
+例句：Dimecres, més ben dit; a les sis, com havíem dit. 更正为周三，仍是六点。
+易错辨析：不能把改口自动理解为整段失效；也不能只道歉却不说正确内容。
+
+G5.1 把“Dimarts a les sis”中的周二改为周三，时间不变。
+
+G5.2 对方以为你要取消，其实只是查询改期，写澄清句。
+
+
+【情境应用 X1-X5】
+
+1. 将“告诉我能否接待”改礼貌请求。
+
+2. 解释“No cal cancel·lar ara”。
+
+3. 填：Us aviso perquè ___ reorganitzar-vos.（poder，vosaltres）
+
+4. 修正“Us envio un missatge perquè em responguis”为vosaltres一致。
+
+5. 对方误以为改日，写澄清。
+
+
+【第3课：听力与互动】
+
+听两遍下列对话的加泰语部分，先回答L1-L4，再核对脚本。
+
+1. 原预约几点？
+
+2. 迟多久？
+
+3. 她立即要求改日了吗？
+
+4. 收件是否保证超时接待？
+
+
+【角色任务】
+
+A约五点、预计迟十分钟；B问是否改日。先用约20秒给必要信息，再不限时回应B。
+
+先回应对方，再解释依据；面对追加条件必须调整回答。可以使用虚构个人资料。
+
+
+【完整对话脚本（12句）】
+
+A: Bon dia. Tinc una reserva per a les cinc.
+
+中文参考：您好，我有五点的预约。
+
+B: Em podeu dir el nom?
+
+中文参考：请告诉我姓名？
+
+A: Júlia Serra. Arribaré uns deu minuts tard.
+
+中文参考：朱莉娅·塞拉，我会晚十分钟。
+
+B: Voleu canviar de dia?
+
+中文参考：想改日期吗？
+
+A: No, voldria saber si encara em podeu atendre avui.
+
+中文参考：不是，想知道今天还能否接待我。
+
+B: Ho he de consultar. Em podeu deixar un telèfon?
+
+中文参考：我得问一下，能留电话吗？
+
+A: Sí. Us el dic ara mateix.
+
+中文参考：可以，马上告诉您。
+
+B: Us trucarem quan tinguem resposta.
+
+中文参考：有答复会打给您。
+
+A: Gràcies. Mentrestant mantinc la reserva original?
+
+中文参考：谢谢，期间保留原预约吗？
+
+B: Sí, però no us puc garantir l’atenció fora d’hora.
+
+中文参考：是，但不能保证超时接待。
+
+A: Ho entenc. Esperaré la confirmació.
+
+中文参考：明白，我等确认。
+
+B: D’acord. Hem anotat l’avís, no un canvi de dia.
+
+中文参考：好，登记的是迟到通知，不是改期。
+
+
+【八行独白】
+
+1. Abans de parlar, penso què necessita saber l’altra persona.
+
+中文参考：说前想对方需要知道什么。
+
+2. Començo pel motiu de la trucada.
+
+中文参考：先说来电目的。
+
+3. Dono la referència que permet trobar la reserva.
+
+中文参考：给能找到预约的资料。
+
+4. Explico el canvi amb una quantitat o una hora concreta.
+
+中文参考：用具体数量或时间说明变化。
+
+5. Formulo una petició que es pugui respondre.
+
+中文参考：提出能回答的请求。
+
+6. Escolto la resposta abans de continuar amb el meu guió.
+
+中文参考：先听回应，不只照稿念。
+
+7. Si m’he explicat malament, corregeixo només el punt necessari.
+
+中文参考：说错时只修正必要点。
+
+8. Acabo confirmant què s’ha acordat i què falta saber.
+
+中文参考：最后确认约定和未知。
+
+独白练习：遮住原文，只留“背景、理由、另一观点、限制、下一步”五个提示说90秒。伙伴指出一项表达清楚的内容及一处应补充的限制。
+
+
+【第4课：短文阅读、长文阅读与独立写作】
+
+短文原文（144词）
+
+Bon dia. Soc la Júlia Serra i tinc una reserva per avui a les cinc. El meu autobús s’ha aturat i calculo que arribaré uns deu minuts tard. Us demano disculpes per l’avís amb tan poc temps. Voldria saber si encara em podreu atendre avui o si he de buscar una altra hora. No vull cancel·lar la reserva sense saber quines opcions hi ha. Si cal que espereu una confirmació de la persona que m’ha d’atendre, em podeu trucar al número que consta al meu compte. Mentrestant continuaré el trajecte, però no donaré per fet que el retard estigui acceptat. Si finalment no és possible mantenir la visita, us agrairé que m’indiqueu com acordar una nova data. Gràcies per comprovar-ho i per explicar-me què he de fer. Quan tingui la resposta, confirmaré l’opció escollida perquè no hi hagi dubtes sobre l’estat de la reserva.
+
+中文参考：朱莉娅通知五点预约将迟十分钟，致歉并问当天能否接待或需另约，不擅自取消。可用账户电话回电，途中不假定迟到获准；若不能接待，询问改期办法，收到答复再确认选择。
+
+短文任务 S1：写用途与读者。S2：标出已确认信息和待核问题；若是评论，区分事实与感受。S3：用两句概括对方下一步可做什么，或读者如何使用信息。
+
+
+【独立写作任务】
+
+写140至180词完整迟到通知，可比口头短版多说明后续安排。
+
+长文原文（520词，五段）
+
+
+【长文第1段】
+
+En una sessió de pràctica oral, la professora va demanar al grup que comuniqués un retard en aproximadament vint segons. Va explicar que aquell límit era una eina d’entrenament, no una norma d’un examen oficial. La Júlia va començar descrivint el trajecte de l’autobús, el trànsit i el que havia fet abans de sortir de casa. Quan es va acabar el temps, encara no havia dit quina reserva tenia ni què demanava. Havia utilitzat moltes paraules correctes, però el destinatari no podia actuar. La professora li va proposar pensar primer en les preguntes que la persona que rebia la trucada necessitava resoldre per poder ajudar-la.
+
+中文参考：二十秒为训练窗口，非官方考试规定。朱莉娅讲交通和出门经过，却没说预约和请求；词句虽对，接听者无从行动。教师请她先想对方需要什么。
+
+
+【长文第2段】
+
+Van reduir la preparació a quatre punts: identificació, reserva, canvi i petició. La Júlia va dir el nom, l’hora prevista, els deu minuts de retard i una pregunta sobre la possibilitat de mantenir la visita. La segona versió era més curta i molt més útil. No havia desaparegut tota la cortesia; hi havia una salutació, una disculpa breu i un agraïment. El que s’havia eliminat era informació que no ajudava a decidir en aquell moment. Van comparar les dues gravacions i van observar que parlar de manera concisa no significava parlar de pressa. Una petita pausa abans de la pregunta feia el missatge més fàcil de seguir.
+
+中文参考：准备缩为身份、预约、变化、请求四点；保留问候、简短致歉和感谢，删的是不利于当下决定的细节。简洁不等说快，问句前稍停反而清楚。
+
+
+【长文第3段】
+
+Després la professora va afegir una resposta inesperada. La persona del taulell preguntava si la Júlia volia canviar de dia. En la primera prova, ella va continuar repetint el missatge que havia preparat. En la segona, va respondre directament que no volia canviar-lo encara i que primer necessitava saber si la podien atendre aquell mateix dia. Aquell pas va transformar un discurs memoritzat en una conversa. El grup va practicar maneres de confirmar una interpretació sense sonar acusador: «Em refereixo a avui» o «Potser no m’he explicat bé». No calia reconstruir tota la història cada vegada que apareixia una pregunta nova durant l’intercanvi.
+
+中文参考：教师加入意外追问“要改天吗”。起初她只重复稿，后来直接回应“暂不改，先问今天可否”。用“我是指今天”“也许我没说清”修正，不必每遇追问都重讲全故事。
+
+
+【长文第4段】
+
+També van treballar amb situacions en què no hi havia una resposta immediata. Una persona podia haver de consultar un horari o una disponibilitat. La Júlia havia d’escoltar si li confirmaven una possibilitat, una decisió o només la recepció de l’avís. En una pràctica va dir «Perfecte, doncs m’esperareu» quan l’altra persona només havia promès consultar-ho. La professora va aturar l’activitat i li va demanar que reformulés el final. Va triar «Esperaré la confirmació». La diferència semblava petita, però canviava el compromís atribuït a l’altra persona. Una resposta breu podia ser precisa sense exigir una certesa que encara no existia.
+
+中文参考：无即时答复时，需区分可能性、决定和收件。对方只说去问，她却说“那你们会等我”，遂改成“我等确认”，不把不存在的承诺加给对方。
+
+
+【长文第5段】
+
+Al final de la classe, cada parella va crear una situació nova amb una petició, una disculpa o una proposta. Primer la van explicar sense límit de temps i després en van fer una versió breu. La persona que escoltava havia de dir quin era el problema, què se li demanava i quin pas seguia. Si no ho podia resumir, revisaven el contingut abans de mirar la velocitat. La Júlia va guardar les dues gravacions i va anotar una regla personal: començar per allò que permet actuar. Encara podia cometre errors de llengua, però ara sabia ordenar la informació perquè un interlocutor real pogués respondre-li.
+
+中文参考：最后先不限时讲新情境，再缩短，由听者复述问题、请求与下一步。不能复述就先改内容再看速度。她保存录音，学会先说让人能行动的信息。
+
+
+【长文理解 R1-R6】
+
+1. 二十秒是什么性质？
+
+2. 首版遗漏什么？
+
+3. 四点顺序是什么？
+
+4. 遇追问怎样改进？
+
+5. 为什么改为等待确认？
+
+6. 最后测试什么？
+
+
+【第5课：文化、翻译与综合反馈】
+
+礼貌不必依赖冗长客套。先完成实际请求，再按对象使用tu、vostè或vosaltres等称呼，整段保持一致。
+
+T1 加译中：Voldria saber si encara em podeu atendre.
+
+T2 中译加：我想知道你们还能否接待我。
+
+T3 加译中：No vull canviar de dia de moment.
+
+T4 中译加：目前不想改日期。
+
+T5 加译英：Us aviso perquè pugueu reorganitzar l’horari.
+
+T6 英译加：I am notifying you so that you can reorganise the schedule.
+
+T7 加译英：Esperaré la confirmació, no només el justificant.
+
+T8 英译加：I will wait for confirmation, not just an acknowledgement.
+
+综合迁移：把角色任务中的一个费用、时段或条件改掉，重新协商。最后由另一人复述共识、未知与行动人，第一人确认或更正。
+
+
+【答案与详细解析：词汇】
+
+V1 请求。解析：本单元语境对应词条la petició；若有多个常用义，按题目语境解释。
+
+V2 道歉。解析：本单元语境对应词条la disculpa；若有多个常用义，按题目语境解释。
+
+V3 目标。解析：本单元语境对应词条l’objectiu (m.)；若有多个常用义，按题目语境解释。
+
+V4 接收者。解析：本单元语境对应词条el destinatari；若有多个常用义，按题目语境解释。
+
+V5 la resposta。解析：回应；保留名词冠词与必要重音、间隔点或省音符号。
+
+V6 la informació。解析：信息；保留名词冠词与必要重音、间隔点或省音符号。
+
+V7 el límit。解析：限制；保留名词冠词与必要重音、间隔点或省音符号。
+
+V8 el missatge。解析：消息；保留名词冠词与必要重音、间隔点或省音符号。
+
+
+【答案与详细解析：语法】
+
+G1.1 Podries confirmar la data abans de demà? 条件式缓和，动作与期限明确。
+
+G1.2 Puc revisar el resum, però no totes les dades. Podríem demanar a una altra persona que les comprovés. 条件式提协商，不把另一人当已答应；也可用demanar…que les comprovi。
+
+G2.1 Pots escriure el barri manualment. poder在这里表示可采用的操作方式。
+
+G2.2 前者不必给访问权限；后者在规则语境下不允许给权限。否定作用于不同情态意义。
+
+G3.1 pugueu。目的从句，vosaltres现在虚拟式；不是podeu直陈。
+
+G3.2 前者因我能做，是原因直陈puc；后者为让你继续，是目的虚拟puguis。主语和事实状态都不同。
+
+G4.1 ha。核心nombre单数，不看最近名词respostes决定。
+
+G4.2 Les dades estan confirmades. 主语阴性复数，动词estan及分词confirmades都配合。
+
+G5.1 Dimecres, més ben dit, a les sis. 清楚替换日期并保留时间。
+
+G5.2 Em refereixo a consultar una altra data, no a cancel·lar la reserva de moment. 同时给正确信息与否定范围。
+
+
+【答案与详细解析：情境应用】
+
+1. 将“告诉我能否接待”改礼貌请求。
+参考答案：Em podríeu dir si encara em podeu atendre?
+解析：条件式礼貌，si表示是否。
+
+2. 解释“No cal cancel·lar ara”。
+参考答案：现在不必取消。
+解析：不等禁止取消，也不等已取消。
+
+3. 填：Us aviso perquè ___ reorganitzar-vos.（poder，vosaltres）
+参考答案：pugueu
+解析：目的虚拟式，与us对象一致。
+
+4. 修正“Us envio un missatge perquè em responguis”为vosaltres一致。
+参考答案：Us envio un missatge perquè em respongueu.
+解析：受话者复数，respongueu。
+
+5. 对方误以为改日，写澄清。
+参考答案：Em refereixo a saber si em podeu atendre avui; de moment no vull canviar de dia.
+解析：给真实目的与范围。
+
+
+【答案与详细解析：听力】
+
+1. 原预约几点？
+参考答案：A les cinc.
+解析：不要答预计晚到后的时间。
+
+2. 迟多久？
+参考答案：Uns deu minuts.
+解析：估计值保留uns。
+
+3. 她立即要求改日了吗？
+参考答案：No, pregunta si la poden atendre avui.
+解析：请求目标不能误读。
+
+4. 收件是否保证超时接待？
+参考答案：No, falta confirmar-ho.
+解析：第10至12句区分通知与决定。
+
+
+【答案与详细解析：短文】
+
+S1-S2参考：用途：迟到咨询；对象：预约接待方。五点原约、估计晚十分钟、请求当天能否接待，尚未改日，等答后确认。
+
+S3两句摘要范例：La Júlia comunica un retard d’uns deu minuts per a la reserva de les cinc i pregunta si encara la poden atendre avui. Esperarà la resposta abans de confirmar qualsevol canvi de data.
+
+S3解析：请求而非擅自决定，uns保留估计。
+
+
+【答案与详细解析：长文】
+
+1. 二十秒是什么性质？
+参考答案：Una eina d’entrenament.
+解析：不是官方考试时限。
+
+2. 首版遗漏什么？
+参考答案：La reserva i la petició concreta.
+解析：交通细节不能替代任务要素。
+
+3. 四点顺序是什么？
+参考答案：Identificació, reserva, canvi i petició.
+解析：可自然调整，但均需清楚。
+
+4. 遇追问怎样改进？
+参考答案：Respondre-la abans de continuar el guió.
+解析：互动不是复读。
+
+5. 为什么改为等待确认？
+参考答案：Encara no havien acceptat el retard.
+解析：不能扩张对方承诺。
+
+6. 最后测试什么？
+参考答案：Si l’oient pot identificar el problema, la petició i el pas següent.
+解析：先沟通效果，后速度。
+
+
+【答案与详细解析：翻译】
+
+T1 加译中
+参考答案：我想知道你们还能否接待我。
+解析：请求明确。
+
+T2 中译加
+参考答案：Voldria saber si encara em podeu atendre.
+解析：请求明确。
+
+T3 加译中
+参考答案：目前不想改日期。
+解析：de moment保留后续可能。
+
+T4 中译加
+参考答案：No vull canviar de dia de moment.
+解析：de moment保留后续可能。
+
+T5 加译英
+参考答案：I am notifying you so that you can reorganise the schedule.
+解析：目的虚拟式pugueu。
+
+T6 英译加
+参考答案：Us aviso perquè pugueu reorganitzar l’horari.
+解析：目的虚拟式pugueu。
+
+T7 加译英
+参考答案：I will wait for confirmation, not just an acknowledgement.
+解析：区分结果层级。
+
+T8 英译加
+参考答案：Esperaré la confirmació, no només el justificant.
+解析：区分结果层级。
+
+
+【完整独立写作范文与解析】
+
+范文词数：146
+
+Bon dia. Soc la Júlia Serra i tinc una reserva per avui a les cinc de la tarda. El transport que utilitzo porta retard i calculo que arribaré uns deu minuts després de l’hora prevista. Em sap greu avisar-vos amb tan poc marge. Voldria saber si encara em podreu atendre avui. Si necessiteu consultar-ho abans de respondre, em podeu trucar al número del meu compte. No demano canviar de dia de moment; primer voldria conèixer les opcions disponibles. Continuaré el trajecte mentre espero la resposta, però entenc que això no garanteix que em pugueu atendre fora d’hora. Si cal reservar una altra visita, us agrairé que m’indiqueu com fer-ho i si he de cancel·lar abans la reserva actual. Quan rebi la vostra resposta, confirmaré què faré. Moltes gràcies per comprovar la situació i per ajudar-me a evitar que quedi una reserva amb un estat poc clar.
+
+中文参考：完整通知给身份、五点预约、估计迟十分钟、明确请求，保留等咨询与原预约状态，若需改期问步骤并确认。
+
+解析：短口语的必要信息保留，书面增加联系方式和分支；不声称迟到已获准。
+
+写作20分：必要信息8、组织4、语言4、读者理解与回应4。语言正确但漏关键限制不能给信息满分；接受等义自然句及规范地区变体。
+
+
+【口语角色回应示范与解析】
+
+Soc la Júlia Serra i tinc reserva a les cinc. Arribaré uns deu minuts tard. Em podríeu dir si encara em podeu atendre avui? No demano canviar de dia de moment; esperaré la vostra resposta.
+
+中文参考：计时仅训练；身份、预约、变化、请求齐全，追加回应不用强塞原窗口。
+
+示例为可展开的回应主线，并非完整互动的唯一答案。追加问题必须实际回答；只背示例不给互动满分。
+
+学习记录：保存初稿一句、修订一句和修改原因；记一项仍需核实的信息或语言问题。第40单元比较记录，选出最影响沟通的三个改进。
+
+
+==========================================================
+单元35 中等口语任务与理由展开 / Donar raons i respondre
+==========================================================
+
+交际目标：用观点、理由、例子和条件组织短陈述，并回应反例。
+
+
+【第1课：三语词汇与搭配】
+
+01. la raó | reason | 理由
+
+02. l’exemple (m.) | example | 例子
+
+03. l’alternativa (f.) | alternative | 替代方案
+
+04. el criteri | criterion | 标准
+
+05. la preferència | preference | 偏好
+
+06. l’objecció (f.) | objection | 异议
+
+07. l’avantatge (m.) | advantage | 优点
+
+08. l’inconvenient (m.) | disadvantage | 缺点
+
+09. la comparació | comparison | 比较
+
+10. la conclusió | conclusion | 结论
+
+11. preferir | to prefer | 更喜欢
+
+12. comparar | to compare | 比较
+
+13. defensar | to support | 支持
+
+14. reconèixer | to acknowledge | 承认
+
+15. ajustar | to adjust | 调整
+
+16. viable | feasible | 可行的
+
+17. suficient | sufficient | 足够的
+
+18. concret | specific | 具体的
+
+19. per exemple | for example | 例如
+
+20. per aquest motiu | for this reason | 因此
+
+名词连冠词学习；l’之后的(m.)或(f.)标性别。条目含固定搭配和复现词，不表示全部是首次出现的新词。
+
+
+【搭配示范】
+
+La prefereixo perquè facilita la conversa.
+
+中文参考：我选它因为便于交谈。
+
+Per exemple, podem repartir millor els torns.
+
+中文参考：例如，我们能更好分配发言轮次。
+
+Si som més de dotze, canviarem de sala.
+
+中文参考：超过十二人就换房。
+
+D’una banda és còmoda; de l’altra té poca capacitat.
+
+中文参考：一方面舒适，另一方面容量小。
+
+
+【词汇练习 V1-V8】
+
+V1 写出中文：la raó
+
+V2 写出中文：l’exemple (m.)
+
+V3 写出中文：l’alternativa (f.)
+
+V4 写出中文：el criteri
+
+V5 写出加泰语（名词带冠词）：偏好
+
+V6 写出加泰语（名词带冠词）：异议
+
+V7 写出加泰语（名词带冠词）：优点
+
+V8 写出加泰语（名词带冠词）：缺点
+
+朗读：把四句搭配按“来源或背景／主要信息／条件或限制”分成意群。保留no、només、encara、tot i que等改变范围或逻辑的词。搭档复述实际含义，再交换角色。
+
+
+【第2课：五项语法与练习】
+
+G1 原因、后果与理由的强度
+讲解：perquè＋直陈式说明已断言原因；per això引出后果；de manera que可引出结果。原因先后都可，但连接词不能替证据。主观经历中he notat…不自动允许下结论està demostrat que…；应区分观察、解释、证明。
+例句：La frase era llarga; per això l’he dividida. 句子太长，因此拆开了。
+易错辨析：per què分写用于询问为什么；perquè连写用于回答原因或目的，需看语气。
+
+G1.1 合并：He repetit la pregunta. No l’havien entesa. 用perquè。
+
+G1.2 把“我感觉更好”改成谨慎观察，不声称唯一原因。
+
+G2 平行对照：d’una banda…de l’altra、mentre que
+讲解：d’una banda…de l’altra组织两个角度；mentre que可表示对照，也可随上下文表示同时。对比应保持标准清楚，不把一个方案的价格与另一个的参与人数直接当同一指标。
+例句：D’una banda facilita l’accés; de l’altra exigeix més organització. 一面方便参与，一面需更多组织。
+易错辨析：不要以对照连接词暗示两个方面必然互相否定；它们可能同时成立。
+
+G2.1 用mentre que连接：La primera opció és fixa. La segona alterna horaris.
+
+G2.2 写一句“一方面更灵活，另一方面需要更多协调”。
+
+G3 真实可行条件：si＋现在，主句未来
+讲解：Si rebem la resposta, confirmarem表示未来可能条件，si从句用现在直陈式，主句可用未来或命令。条件不表示结果已经发生，阅读须保留“若”。si同时也能表示“是否”，需看句法功能。
+例句：Si hi ha més persones, buscarem una altra sala. 若人更多，另找房。
+易错辨析：本目标句不要写Si hi haurà…或Si hi hauria…；不把真实条件与假设Si hi hagués…混用。
+
+G3.1 填：Si demà ___, farem l’activitat a dins.（ploure）
+
+G3.2 译：若十二点还未收到回复，请打电话。
+
+G4 理由、例子与结论的关系
+讲解：perquè介绍理由，per exemple把一般标准具体化，per tant引结论。例子应支持前述标准；一个个体例子不能证明所有人都如此。理由与同义重复不同：és millor perquè m’agrada més并未说明对任务有什么帮助。
+例句：És més fàcil conversar; per exemple, ens podem veure al voltant d’una taula. 更易交谈，例如围桌彼此可见。
+易错辨析：不能把“更好，因为更好”当展开；例子不宜偏离任务或替代全部论证。
+
+G4.1 给“这房间便于互动”补一个具体例子。
+
+G4.2 纠正“一个参与者满意，所以人人满意”。
+
+G5 篇章指代链：la、ho、això、en
+讲解：la/les等与明确名词性数对应；ho常代整件内容；això可概括前述事件，en常代de补语或数量范围。连续句不能只求省词，应让读者知道所指；有两个同类先行词时可重写名词。
+例句：La proposta és provisional; la revisarem dijous. 方案暂定，周四复查它。
+易错辨析：两份提议都出现时一个la可能不清楚，应写la proposta del matí等。
+
+G5.1 替换第二个la proposta：Hem rebut la proposta i revisarem la proposta demà.
+
+G5.2 改清楚：Hem llegit la consulta i la proposta. La revisarem dijous.（要复查提案）
+
+
+【情境应用 X1-X5】
+
+1. 给偏好小房间一个理由，不能只写“更好”。
+
+2. 用mentre que比较容量。
+
+3. 填：Si ___ més de dotze, canviarem de sala.（ser，nosaltres）
+
+4. 给“互动方便”一个例子。
+
+5. 两间都提到后，改清楚“La confirmarem demà”，指大房间。
+
+
+【第3课：听力与互动】
+
+听两遍下列对话的加泰语部分，先回答L1-L4，再核对脚本。
+
+1. 为什么偏好小房间？
+
+2. 容量和现确认数？
+
+3. 超过容量怎么办？
+
+4. 何时决定？
+
+
+【角色任务】
+
+A偏好小房；B新增最终13人且小房容量12。用约30秒说明改方案的理由，后接受追问。
+
+先回应对方，再解释依据；面对追加条件必须调整回答。可以使用虚构个人资料。
+
+
+【完整对话脚本（12句）】
+
+A: Quina sala prefereixes per al grup?
+
+中文参考：小组你更喜欢哪个房间？
+
+B: La petita, perquè ens permet conversar sense micròfon.
+
+中文参考：小的，能不用话筒交流。
+
+A: Però només hi caben dotze persones.
+
+中文参考：但只能容十二人。
+
+B: És veritat. Ara som deu, però encara hi ha dues consultes pendents.
+
+中文参考：对，现在十人，另有两项咨询待回复。
+
+A: I si s’hi afegeixen més persones?
+
+中文参考：若更多人加入？
+
+B: Si passem de dotze, haurem de triar l’altra sala.
+
+中文参考：超过十二就得选另一个。
+
+A: La gran és més sorollosa.
+
+中文参考：大的更吵。
+
+B: Podríem repartir-nos en grups petits i provar la distribució.
+
+中文参考：可分小组并试摆放。
+
+A: Aleshores no defenses sempre la sala petita.
+
+中文参考：所以你不是永远支持小房间。
+
+B: No. La meva preferència depèn del nombre final i de l’activitat.
+
+中文参考：不是，要看最终人数和活动。
+
+A: Quan decidim?
+
+中文参考：何时决定？
+
+B: Demà, després de revisar les respostes que falten.
+
+中文参考：明天核完待回复后。
+
+
+【八行独白】
+
+1. Prefereixo la sala petita per a una conversa de deu persones.
+
+中文参考：十人会话我倾向小房间。
+
+2. Hi podem parlar sense micròfon i veure’ns millor.
+
+中文参考：不用话筒，也更易看见彼此。
+
+3. Per exemple, és més fàcil repartir els torns al voltant d’una taula.
+
+中文参考：例如围桌更易安排轮流说话。
+
+4. Tanmateix, la capacitat és limitada.
+
+中文参考：但容量有限。
+
+5. Si el grup supera les dotze persones, canviarem d’opció.
+
+中文参考：超过十二就换方案。
+
+6. La sala gran permetria dividir-nos en grups petits.
+
+中文参考：大房间可分小组。
+
+7. Caldria comprovar-hi el soroll abans de confirmar-la.
+
+中文参考：确认前需核噪声。
+
+8. La decisió ha de respondre a l’activitat, no només al meu gust.
+
+中文参考：决定需适合活动，不只满足偏好。
+
+独白练习：遮住原文，只留“背景、理由、另一观点、限制、下一步”五个提示说90秒。伙伴指出一项表达清楚的内容及一处应补充的限制。
+
+
+【第4课：短文阅读、长文阅读与独立写作】
+
+短文原文（150词）
+
+Per a la propera trobada de conversa, proposo utilitzar la sala petita si el grup final no supera les dotze persones. Ara tenim deu confirmacions i dues consultes pendents. Aquesta sala facilita veure les cares i parlar sense micròfon, cosa que ens ajudaria a repartir els torns. La sala gran ofereix més capacitat, però hi hem observat més soroll quan coincideixen altres activitats. Això no vol dir que sigui inútil: podríem organitzar-hi grups petits i provar una altra distribució de les taules. Abans de decidir, hem de revisar les respostes que falten i comprovar si hi haurà activitats al costat. La meva preferència és provisional i depèn d’aquestes dades. Si demà tenim més de dotze participants, triarem l’espai amb prou capacitat i adaptarem la dinàmica. M’agradaria que confirméssim l’opció abans d’enviar la informació definitiva, perquè totes les persones rebin el mateix lloc i no hagin de corregir un avís anterior.
+
+中文参考：暂建议不超十二人用小房，现确认十、两咨询待复。小房易看见彼此、分轮次，大房容量高但可能吵，可调整桌子分组。先核最终人数和邻近活动，再定地点，避免先发再改。
+
+短文任务 S1：写用途与读者。S2：标出已确认信息和待核问题；若是评论，区分事实与感受。S3：用两句概括对方下一步可做什么，或读者如何使用信息。
+
+
+【独立写作任务】
+
+写140至180词方案意见：具体标准、例子、异议、条件和核实步骤。
+
+长文原文（527词，五段）
+
+
+【长文第1段】
+
+En una pràctica de conversa, l’Ona havia d’explicar en aproximadament trenta segons quina sala triaria per a una activitat. La primera resposta deia que preferia la petita perquè li agradava més i perquè era millor. Quan va escoltar la gravació, va veure que havia repetit la mateixa preferència amb paraules diferents. No havia explicat què millorava ni per a qui. La professora li va demanar que relacionés la tria amb una activitat concreta. El grup volia practicar conversa en català amb deu participants. A partir d’aquell objectiu, l’Ona va poder buscar criteris que una altra persona també pogués entendre i valorar sense compartir necessàriament el seu gust.
+
+中文参考：三十秒练习中，奥娜只说喜欢小房、它更好，实为重复偏好。她改从十人加泰语会话的目标出发，寻找他人可理解的标准。
+
+
+【长文第2段】
+
+Va triar dos criteris: sentir-se sense utilitzar un micròfon i veure les cares de totes les persones. Després va afegir un exemple sobre com repartir els torns al voltant d’una taula. L’exemple no havia de convertir-se en una història llarga; havia de mostrar per què la característica de la sala era útil per a aquella activitat. La segona resposta ja tenia una idea principal i una explicació. Tot i així, la professora li va demanar que considerés una dificultat de la seva opció preferida. La sala petita només tenia capacitat per a dotze persones. Reconèixer aquell límit feia la proposta més realista, no menys clara ni menys defensable.
+
+中文参考：标准是不需话筒、彼此可见，以围桌轮流发言为例。例子应服务理由，不扩成长故事。承认小房仅十二人，使方案更现实而非削弱它。
+
+
+【长文第3段】
+
+Un company va introduir una objecció: encara hi havia dues consultes pendents i potser s’hi afegirien més persones. L’Ona va sentir la necessitat de defensar la seva primera resposta, però es va aturar. Si apareixia una dada nova, repetir la mateixa conclusió no demostrava coherència; podia demostrar que no escoltava. Va formular una condició: si el grup superava la capacitat de la sala petita, caldria utilitzar la gran. Després va proposar una adaptació per mantenir l’objectiu de conversa. Podrien repartir les persones en grups més petits. Així conservava el criteri principal sense convertir una preferència inicial en una regla que no admetia cap canvi.
+
+中文参考：同伴提出可能更多人，奥娜不机械捍卫旧结论，而设条件：超容量改大房，用分组保留会话目标。听到新事实后调整也是连贯性。
+
+
+【长文第4段】
+
+Van repetir l’exercici amb altres situacions, com triar un horari o una manera de compartir materials. En cada cas, l’oient havia de poder identificar quatre elements: la proposta, una raó, un exemple i una limitació. No sempre calia utilitzar quatre frases exactes ni seguir un guió rígid. El model servia per assegurar que hi hagués contingut, no per impedir una conversa natural. També van practicar connectors senzills. «Perquè» introduïa una raó; «per exemple» mostrava un cas; «tanmateix» marcava una dificultat. La professora els recordava que afegir un connector no corregia una relació mal pensada entre dues idees que no es justificaven l’una a l’altra.
+
+中文参考：换情境练习提案、理由、例子、限制四要素，但不规定刚好四句。连接词说明关系，不能弥补两想法之间本无依据的关系。
+
+
+【长文第5段】
+
+Quan l’Ona va comparar la primera gravació amb l’última, va observar que no parlava gaire més estona. Havia canviat sobretot la qualitat de la informació. La seva companya podia discrepar de la tria, però entenia en què es basava i en quines condicions canviaria. Al final, el grup va decidir revisar les respostes pendents abans d’enviar el lloc definitiu de la trobada. La pràctica oral havia produït una decisió útil fora de l’exercici. L’Ona va anotar que donar raons no era acumular frases a favor d’una idea. Era fer visible un criteri i escoltar si continuava sent adequat quan apareixien necessitats o dades diferents.
+
+中文参考：最终录音没有更长，但标准和改判条件更清晰。小组决定查完待复再发地点；论证不只是堆支持句，而是公开标准并检验新情况。
+
+
+【长文理解 R1-R6】
+
+1. “更喜欢、因为更好”缺什么？
+
+2. 她选哪两标准？
+
+3. 例子应起何作用？
+
+4. 超过十二人怎么办？
+
+5. 四要素是否固定四句？
+
+6. 最终决定何时发地点？
+
+
+【第5课：文化、翻译与综合反馈】
+
+本单元30秒仅作信息组织训练。允许停顿和自我修正；说得快不能弥补没有理由或未回应异议。
+
+T1 加译中：La prefereixo perquè facilita la conversa.
+
+T2 中译加：我选它因为便于交谈。
+
+T3 加译中：Per exemple, podem repartir millor els torns.
+
+T4 中译加：例如，我们能更好分配发言轮次。
+
+T5 加译英：Si som més de dotze, canviarem de sala.
+
+T6 英译加：If there are more than twelve of us, we will change rooms.
+
+T7 加译英：D’una banda és còmoda; de l’altra té poca capacitat.
+
+T8 英译加：On the one hand it is comfortable; on the other, it has limited capacity.
+
+综合迁移：把角色任务中的一个费用、时段或条件改掉，重新协商。最后由另一人复述共识、未知与行动人，第一人确认或更正。
+
+
+【答案与详细解析：词汇】
+
+V1 理由。解析：本单元语境对应词条la raó；若有多个常用义，按题目语境解释。
+
+V2 例子。解析：本单元语境对应词条l’exemple (m.)；若有多个常用义，按题目语境解释。
+
+V3 替代方案。解析：本单元语境对应词条l’alternativa (f.)；若有多个常用义，按题目语境解释。
+
+V4 标准。解析：本单元语境对应词条el criteri；若有多个常用义，按题目语境解释。
+
+V5 la preferència。解析：偏好；保留名词冠词与必要重音、间隔点或省音符号。
+
+V6 l’objecció (f.)。解析：异议；保留名词冠词与必要重音、间隔点或省音符号。
+
+V7 l’avantatge (m.)。解析：优点；保留名词冠词与必要重音、间隔点或省音符号。
+
+V8 l’inconvenient (m.)。解析：缺点；保留名词冠词与必要重音、间隔点或省音符号。
+
+
+【答案与详细解析：语法】
+
+G1.1 He repetit la pregunta perquè no l’havien entesa. 不理解先于重问；原因用直陈式。也可用entès，前置阴性宾语分词配合有变体。
+
+G1.2 He notat una millora, però no sé si és només per aquest canvi. 表达观察并限制因果，不能写Aquest canvi ho ha resolt tot而没有证据。
+
+G2.1 La primera opció és fixa, mentre que la segona alterna horaris. 此处对比方案，不表示两个动作同时发生。
+
+G2.2 D’una banda és més flexible; de l’altra, necessita més coordinació. 同一方案的两面，主语可省略。
+
+G3.1 plou。尽管指明天，si从句用现在直陈式，主句farem未来。
+
+G3.2 Si a les dotze encara no tens resposta, truca. 条件现在tens，主句命令truca，仍符合可行条件。
+
+G4.1 Per exemple, podem veure les cares i repartir els torns sense micròfon. 行为例子支持互动标准。
+
+G4.2 Una persona està satisfeta, però no sabem què pensa la resta. 个体例子可说明一种体验，不能推出全体结论。
+
+G5.1 Hem rebut la proposta i la revisarem demà. la代阴性单数名词，不用ho。
+
+G5.2 Hem llegit la consulta i la proposta. Revisarem la proposta dijous. 重复名词在此提升清晰度，不能把避免重复置于明确指代之上。
+
+
+【答案与详细解析：情境应用】
+
+1. 给偏好小房间一个理由，不能只写“更好”。
+参考答案：La prefereixo perquè podem conversar sense micròfon.
+解析：说明与活动关联的标准。
+
+2. 用mentre que比较容量。
+参考答案：La sala petita admet dotze persones, mentre que l’altra té més capacitat.
+解析：此处为对比，非同时进行。
+
+3. 填：Si ___ més de dotze, canviarem de sala.（ser，nosaltres）
+参考答案：som
+解析：真实未来条件从句现在直陈。
+
+4. 给“互动方便”一个例子。
+参考答案：Per exemple, ens podem veure les cares al voltant d’una taula.
+解析：例子支撑标准而非另起话题。
+
+5. 两间都提到后，改清楚“La confirmarem demà”，指大房间。
+参考答案：Confirmarem la sala gran demà, si en comprovem les condicions.
+解析：重复名词消歧义；确认仍取决核查。
+
+
+【答案与详细解析：听力】
+
+1. 为什么偏好小房间？
+参考答案：Permet conversar sense micròfon.
+解析：与用途相关的理由。
+
+2. 容量和现确认数？
+参考答案：Dotze de capacitat; deu confirmats.
+解析：另有两咨询不算确认。
+
+3. 超过容量怎么办？
+参考答案：Triar l’altra sala.
+解析：第6句条件分支。
+
+4. 何时决定？
+参考答案：Demà, després de revisar les respostes pendents.
+解析：依信息核实而定。
+
+
+【答案与详细解析：短文】
+
+S1-S2参考：用途：方案建议；对象：组织团队。十确认两待复，小房容量十二；超限用大房，需核噪声，未完成核查不发确定地点。
+
+S3两句摘要范例：La proposta prefereix la sala petita si el grup no supera dotze persones i ofereix una alternativa per a un grup més gran. Abans d’enviar el lloc definitiu, cal comprovar les respostes pendents i el soroll de l’altre espai.
+
+S3解析：偏好带容量前提，准备与确认分开。
+
+
+【答案与详细解析：长文】
+
+1. “更喜欢、因为更好”缺什么？
+参考答案：Un criteri concret.
+解析：重复评价不是理由。
+
+2. 她选哪两标准？
+参考答案：Parlar sense micròfon i veure les cares.
+解析：均与会话用途相关。
+
+3. 例子应起何作用？
+参考答案：Mostrar com el criteri ajuda l’activitat.
+解析：不是占满时间的旁枝故事。
+
+4. 超过十二人怎么办？
+参考答案：Triar la sala gran i adaptar els grups.
+解析：容量约束优先。
+
+5. 四要素是否固定四句？
+参考答案：No, són una guia de contingut.
+解析：避免把训练框架当机械模板。
+
+6. 最终决定何时发地点？
+参考答案：Després de revisar les respostes pendents.
+解析：尚未确定不可当确定通知。
+
+
+【答案与详细解析：翻译】
+
+T1 加译中
+参考答案：我选它因为便于交谈。
+解析：la须有明确房间先行词。
+
+T2 中译加
+参考答案：La prefereixo perquè facilita la conversa.
+解析：la须有明确房间先行词。
+
+T3 加译中
+参考答案：例如，我们能更好分配发言轮次。
+解析：例子解释标准。
+
+T4 中译加
+参考答案：Per exemple, podem repartir millor els torns.
+解析：例子解释标准。
+
+T5 加译英
+参考答案：If there are more than twelve of us, we will change rooms.
+解析：si现在＋主句未来。
+
+T6 英译加
+参考答案：Si som més de dotze, canviarem de sala.
+解析：si现在＋主句未来。
+
+T7 加译英
+参考答案：On the one hand it is comfortable; on the other, it has limited capacity.
+解析：两面可同时成立。
+
+T8 英译加
+参考答案：D’una banda és còmoda; de l’altra té poca capacitat.
+解析：两面可同时成立。
+
+
+【完整独立写作范文与解析】
+
+范文词数：148
+
+Per a una trobada de deu persones, prefereixo la sala petita. Ens permet parlar sense micròfon i veure millor les cares, dos aspectes importants per practicar conversa. Per exemple, al voltant d’una taula podem repartir els torns amb més facilitat. Tanmateix, reconec que la sala només té capacitat per a dotze persones i encara no coneixem el nombre final de participants. Si el grup supera aquest límit, haurem d’utilitzar la sala gran. En aquell espai podríem dividir-nos en grups petits, sempre que el soroll ens permeti sentir-nos bé. Abans de confirmar la tria, proposo revisar les consultes pendents i preguntar quines altres activitats hi haurà al costat. La meva preferència no és una defensa de la sala petita en qualsevol situació. Es basa en les necessitats d’aquesta trobada i pot canviar amb les dades. Quan tinguem tota la informació necessària, enviarem un únic avís amb el lloc definitiu.
+
+中文参考：十人会话优先小房，例子是围桌轮次；承认十二人限额，若超则大房分组并核噪声。查待回复及邻近活动后统一发地点，偏好随数据可变。
+
+解析：观点后给可评估理由，承认限制并提供替代；si真实条件，sempre que保留适用前提。
+
+写作20分：必要信息8、组织4、语言4、读者理解与回应4。语言正确但漏关键限制不能给信息满分；接受等义自然句及规范地区变体。
+
+
+【口语角色回应示范与解析】
+
+Inicialment preferia la sala petita perquè facilita la conversa. Ara som tretze i supera la capacitat de dotze. Triaria la gran i provaria una distribució en grups petits, després de comprovar el soroll.
+
+中文参考：新事实改变选择，不能坚持超容量；更换方案保留交流目标。
+
+示例为可展开的回应主线，并非完整互动的唯一答案。追加问题必须实际回答；只背示例不给互动满分。
+
+学习记录：保存初稿一句、修订一句和修改原因；记一项仍需核实的信息或语言问题。第40单元比较记录，选出最影响沟通的三个改进。
+
+
+==========================================================
+阶段测评一：时间、理由与确认
+==========================================================
+
+总分40：听力8、阅读8、口语12、写作12。听读各两题，每题4分，多信息点平均分配。口写按必要信息5、组织或互动3、可理解度4评分。建议35至45分钟，口语另计。
+
+
+【听力题（先不看后面的脚本）】
+
+1. 最终时间地点？
+
+2. 小厅已订了吗？
+
+
+【阅读原文】
+
+La visita de dissabte és oberta a persones adultes. Cal enviar la petició abans de dimecres al migdia. Dijous s’enviarà la confirmació. Si només heu rebut el justificant automàtic, espereu la resposta abans de desplaçar-vos.
+
+1. 申请期限与活动日？
+
+2. 只收自动回执能出发吗？
+
+
+【口语任务】
+
+九人拟订上限十人的小厅；说理由。追加两人参加后怎么办？
+
+
+【写作任务】
+
+写100至130词给小组：周六11点图书馆、旧10点已改、九人确认、小厅容量10但未订、人数增加需换。
+
+
+【阶段答案：完整听力脚本】
+
+La trobada serà dissabte a les onze, no a les deu com havíem dit. El lloc no canvia: la biblioteca. Hi ha nou persones confirmades. La sala petita admet deu persones. Abans de reservar-la, preguntarem si està disponible. Si el grup creix, buscarem una sala més gran.
+
+中文参考：周六11点取代10点，图书馆不变；九人确认，小厅上限10，尚待查询可用。
+
+1. 最终时间地点？
+参考答案：Dissabte a les onze, a la biblioteca.
+解析：更正时间不更改地点。
+
+2. 小厅已订了吗？
+参考答案：No; falta consultar-ne la disponibilitat.
+解析：容量合适不证明可预订。
+
+
+【阅读参考与详解】
+
+成人参观周六，周三中午前申请，周四发确认；自动收件不是确认。
+
+1. 申请期限与活动日？
+参考答案：Dimecres al migdia; dissabte.
+解析：两个功能分开。
+
+2. 只收自动回执能出发吗？
+参考答案：Cal esperar la confirmació.
+解析：信息尚不足。
+
+
+【口语主线示例】
+
+Per a nou persones la sala petita sembla adequada, però encara hem de confirmar que estigui disponible. Si s’hi afegeixen dues persones, serem onze i superarem la capacitat. En aquest cas buscarem una sala més gran.
+
+中文参考：九人暂合适但可用性待确认，增至11须换厅。
+
+
+【写作完整范文】
+
+词数：104
+
+Hola a tothom, us escric per aclarir l’horari de la trobada. Ens veurem dissabte a les onze del matí a la biblioteca. L’hora de les deu que apareixia al primer missatge ja no és vàlida, però el lloc no ha canviat. De moment som nou persones confirmades. La sala petita admet un màxim de deu persones, de manera que podria anar-nos bé. Tot i això, encara no l’hem reservada: primer hem de preguntar si està disponible. Si s’hi afegeixen més persones i superem la capacitat, buscarem una sala més gran. Us enviaré la resposta de la biblioteca abans de donar la reserva per confirmada.
+
+中文参考：周六11点图书馆，撤销10点；九人确认，小厅10尚未订，超容量换厅，收到图书馆回复再确认。
+
+解析：更新与保留分别说明，podria表示可能合适，encara no标未完成。
+
+建议达到28/40且口写各不少于6分再推进；此为教学参考线，非官方认证标准。失分任务修改后换资料重做。
+
+
+==========================================================
+单元36 句子写作与结构控制 / Construir frases que funcionin
+==========================================================
+
+交际目标：按语境补全句子，检查主谓配合、补语、否定与信息完整性。
+
+
+【第1课：三语词汇与搭配】
+
+01. la frase | sentence | 句子
+
+02. el subjecte | subject | 主语
+
+03. el verb | verb | 动词
+
+04. el complement | complement | 补语
+
+05. la concordança | agreement | 一致关系
+
+06. el participi | participle | 分词
+
+07. l’infinitiu (m.) | infinitive | 不定式
+
+08. la negació | negation | 否定
+
+09. el context | context | 语境
+
+10. la correcció | correction | 修改
+
+11. completar | to complete | 补全
+
+12. concordar | to agree grammatically | 配合
+
+13. substituir | to replace | 替换
+
+14. negar | to negate | 否定
+
+15. revisar | to review | 检查
+
+16. singular | singular | 单数的
+
+17. plural | plural | 复数的
+
+18. coherent | coherent | 连贯的
+
+19. incomplet | incomplete | 不完整的
+
+20. segons el context | according to context | 根据语境
+
+名词连冠词学习；l’之后的(m.)或(f.)标性别。条目含固定搭配和复现词，不表示全部是首次出现的新词。
+
+
+【搭配示范】
+
+S’han rebut dues sol·licituds.
+
+中文参考：收到两份申请。
+
+No tots han confirmat; sis sí i dos encara no.
+
+中文参考：并非都确认，六人确认，两人尚未。
+
+T’escric perquè revisis la llista.
+
+中文参考：我写信请你检查名单。
+
+Abans d’enviar-lo, comprovaré el resum.
+
+中文参考：发送前我会检查摘要。
+
+
+【词汇练习 V1-V8】
+
+V1 写出中文：la frase
+
+V2 写出中文：el subjecte
+
+V3 写出中文：el verb
+
+V4 写出中文：el complement
+
+V5 写出加泰语（名词带冠词）：一致关系
+
+V6 写出加泰语（名词带冠词）：分词
+
+V7 写出加泰语（名词带冠词）：不定式
+
+V8 写出加泰语（名词带冠词）：否定
+
+朗读：把四句搭配按“来源或背景／主要信息／条件或限制”分成意群。保留no、només、encara、tot i que等改变范围或逻辑的词。搭档复述实际含义，再交换角色。
+
+
+【第2课：五项语法与练习】
+
+G1 数据说明中的主谓与性数
+讲解：明确主语再选动词：el nombre de respostes augmenta中核心nombre单数；les respostes augmenten复数。复数数项40 respostes representen…；la proporció és més baixa，形容词配proporció阴性。百分比＋集体名词的配合可随语境变化，本册先练明确核心主语句。
+例句：El nombre de participants és més alt; les proporcions són diferents. 人数更高，比例不同。
+易错辨析：不要因de后respostes复数把el nombre配augmenten。
+
+G1.1 填：El nombre de respostes ___ augmentat.（haver）
+
+G1.2 改错：Les dades està confirmat.
+
+G2 被动、无人称与动作状态
+讲解：ser＋分词可突出受事：La documentació ha estat rebuda，分词与主语配合；es＋第三人称可隐去执行者，如S’ha enviat el programa，复数S’han enviat els documents。estar＋分词常突出结果状态：El text està revisat。三者不能完全不看语境互换。
+例句：Les peces han estat enviades. 零件已经寄出。
+易错辨析：被动的enviades与阴性复数peces配合；不能写Les peces ha estat enviat。
+
+G2.1 改为被动：L’empresa ha enviat les peces.
+
+G2.2 填：S’___ enviat els documents.
+
+G3 同一主语不定式与不同主语从句
+讲解：Vull millorar主语是我，希望改善者也是我，直接不定式；Vull que m’ajudis希望你帮助，需要que和有变位从句。类似necessito revisar / necessito que ho revisis。选择不是为了使句子显得复杂，而是清楚标出行动者。
+例句：Necessito comparar les versions. / Necessito que comparis les versions. 我需比较／我需你比较。
+易错辨析：不要在不同主语任务中省略que后的人称关系，也不把所有不定式前都加a。
+
+G3.1 合并同主语：Vull una cosa: jo practicaré més.
+
+G3.2 译：我需要你解释这个变化。
+
+G4 否定与范围：no tots、cap、encara no
+讲解：No tots…表示并非全部，不能译成全部都不；cap用于否定或疑问中的可数单项，res指没有任何东西或事情；encara no表示截至目前尚未发生。només限定范围。读通知时连同时间地点保留，避免部分事实变整体断言。
+例句：No totes les peces han arribat. 還不是所有零件都到了。
+易错辨析：No totes不等于No ha arribat cap peça。no…encara不是永远不。
+
+G4.1 解释No tots els voluntaris han confirmat。
+
+G4.2 译：目前尚未确认任何日期。
+
+G5 主句与从句：谁做什么、何种关系
+讲解：加泰语从句保留明确的动作关系，不照搬荷兰语动词后置规则。需要时写出主语或拆句。Espero que la Marta confirmi la sala中希望者与确认者不同；Vull confirmar la sala通常同一主体。
+例句：Escric perquè la Marta confirmi l’hora. 我写信以便玛尔塔确认时间。
+易错辨析：不要凭中文“希望”就不管主体地把所有句子接不定式；也不因有que就一律用虚拟式。
+
+G5.1 将“我想确认时间”与“我希望玛尔塔确认时间”各写一句。
+
+G5.2 改清楚：La Marta parla amb la Júlia perquè revisi la llista.（指定朱莉娅检查）
+
+
+【情境应用 X1-X5】
+
+1. 改错：Les dues propostes és clara.
+
+2. 改错：Les sol·licituds ha estat rebut.
+
+3. 用不定式表达“发送前我核名单”。
+
+4. 解释No tots han confirmat与Ningú no ha confirmat。
+
+5. “我想让玛尔塔检查名单”用que从句。
+
+
+【第3课：听力与互动】
+
+听两遍下列对话的加泰语部分，先回答L1-L4，再核对脚本。
+
+1. 正确被动形式是什么？
+
+2. 凭据能证明接受吗？
+
+3. 八人中多少确认？
+
+4. 怎样比no tots更准确？
+
+
+【角色任务】
+
+A只改语法；B指出收件并非批准。一起给出语法正确且事实准确的句子，并解释六确认两待复。
+
+先回应对方，再解释依据；面对追加条件必须调整回答。可以使用虚构个人资料。
+
+
+【完整对话脚本（12句）】
+
+A: He escrit «Les sol·licituds s’ha rebut». És correcte?
+
+中文参考：我写“Les sol·licituds s’ha rebut”，对吗？
+
+B: En aquesta frase cal «s’han rebut». El subjecte és plural.
+
+中文参考：这句要s’han rebut，主语复数。
+
+A: I ja puc dir que les han acceptades?
+
+中文参考：那能说已接受吗？
+
+B: No. La gramàtica corregida no canvia el que sabem.
+
+中文参考：不能，改对语法不改变已知事实。
+
+A: Només tenim un justificant.
+
+中文参考：我们只有收件凭据。
+
+B: Aleshores explica que s’han rebut, però falta una resposta.
+
+中文参考：那就说已收到，但待答复。
+
+A: També he escrit «No tots han confirmat».
+
+中文参考：我还写“并非所有人确认”。
+
+B: Quantes persones han confirmat?
+
+中文参考：几人确认了？
+
+A: Sis de les vuit.
+
+中文参考：八人中六人。
+
+B: La frase és possible, però aquesta xifra és més precisa.
+
+中文参考：原句可以，但这个数更准确。
+
+A: Escriuré que sis han confirmat i dues encara no.
+
+中文参考：我会写六人已确认，两人尚未。
+
+B: Així controles tant la forma com el contingut.
+
+中文参考：这样兼顾形式和内容。
+
+
+【八行独白】
+
+1. Quan corregeixo una frase, començo pel que vol dir.
+
+中文参考：改句子时，我先看要表达什么。
+
+2. Busco el subjecte i comprovo el nombre del verb.
+
+中文参考：找主语并核动词单复数。
+
+3. Miro si falta un complement necessari.
+
+中文参考：看是否缺必要补语。
+
+4. Després reviso els pronoms i les preposicions.
+
+中文参考：再查代词与介词。
+
+5. Si hi ha una negació, comprovo quin element afecta.
+
+中文参考：有否定时核作用范围。
+
+6. No afegeixo una decisió que el context no confirma.
+
+中文参考：不加语境未确认的决定。
+
+7. Llegeixo la frase dins del missatge complet.
+
+中文参考：将句子放回整段读。
+
+8. Una forma correcta només és útil si conserva el sentit.
+
+中文参考：形式正确还须保留意思。
+
+独白练习：遮住原文，只留“背景、理由、另一观点、限制、下一步”五个提示说90秒。伙伴指出一项表达清楚的内容及一处应补充的限制。
+
+
+【第4课：短文阅读、长文阅读与独立写作】
+
+短文原文（146词）
+
+Abans d’enviar el resum de les inscripcions, reviseu tres punts. Primer, comproveu que les quantitats coincideixin amb la llista actual: sis persones han confirmat i dues encara no han respost. No escriviu que ningú no ha confirmat. Segon, distingiu la recepció de les sol·licituds de la seva acceptació. Tenim un justificant que indica que s’han rebut els formularis, però encara falta una resposta sobre les places. Tercer, reviseu les frases amb pronoms perquè el destinatari entengui a què es refereixen. Si en una frase apareixen la llista i la proposta, una forma com «la revisarem» pot resultar ambigua. En aquest cas és millor repetir el nom necessari. La revisió no consisteix només a buscar faltes de llengua: també ha de comprovar que el missatge no transformi una informació parcial en una afirmació general. Després de corregir-lo, llegiu-lo una vegada més com si no coneguéssiu la situació.
+
+中文参考：发送报名摘要前核三点：六确认两未答，不能说无人确认；只收到表，名额仍待答；代词可能同时指名单或提案，应明确。修改不只是语法，还要避免以局部代整体，最后以陌生读者角度重读。
+
+短文任务 S1：写用途与读者。S2：标出已确认信息和待核问题；若是评论，区分事实与感受。S3：用两句概括对方下一步可做什么，或读者如何使用信息。
+
+
+【独立写作任务】
+
+给同伴写140至180词修改建议，解释形式错误、范围错误和事实错误的差别。
+
+长文原文（527词，五段）
+
+
+【长文第1段】
+
+En una classe de repàs, en Pau va rebre vuit frases relacionades amb una activitat del barri. Havia de completar-les, corregir-les o explicar-ne el sentit. Al principi es va concentrar en la forma dels verbs, perquè pensava que cada buit tenia una única resposta mecànica. La primera frase parlava de dues sol·licituds i contenia un verb en singular. Va corregir-lo ràpidament. A la segona, però, havia de triar entre dir que les sol·licituds s’havien rebut o que s’havien acceptat. Les dues opcions podien formar frases gramaticals. Només el context permetia saber quina descrivia realment la situació que constava al justificant del centre.
+
+中文参考：保罗做八类句子题，原以为填空只须机械变位。单复数能直接改，但“收到”与“接受”都能造合语法句，必须靠凭据语境判断。
+
+
+【长文第2段】
+
+La professora va demanar al grup que separés tres preguntes: la frase està ben formada, té sentit i respon a la informació disponible? En Pau va veure que una resposta podia superar la primera comprovació i fallar en les altres. En el document només es confirmava la recepció dels formularis. Escriure que les places estaven concedides introduïa una decisió que no s’havia comunicat. Van reformular la frase amb una segona part que mantenia el punt pendent. Aquesta pràctica els va ajudar a entendre que la revisió gramatical no havia de funcionar com una excusa per completar les dades que faltaven amb una suposició còmoda.
+
+中文参考：教师分三问：形式成立吗、意思合理吗、符合已知吗。收表不等分配名额，需写待处理部分，不能用语法修改之名补造事实。
+
+
+【长文第3段】
+
+Després van treballar la negació. Una frase deia que no totes les persones havien confirmat. En Pau l’havia interpretada com si ningú no hagués respost. La llista mostrava sis confirmacions i dues respostes pendents. Van comparar «no tots», «ningú», «cap» i «encara no» dins de situacions concretes. No es tractava de memoritzar una traducció aïllada, sinó de veure què quedava negat en cada cas. També van observar que donar una quantitat podia ser més útil que una expressió general. Si el destinatari havia de preparar cadires, saber quantes persones havien confirmat l’ajudava més que una frase que només anunciava una falta de confirmacions.
+
+中文参考：他把“非全部确认”误作“无人回复”，实际六确认两待复。比较否定表达时要看范围。若读者需备椅，给数字比笼统说缺确认更有用。
+
+
+【长文第4段】
+
+Una altra activitat consistia a unir frases sense perdre el subjecte de cada acció. Quan dues accions tenien el mateix responsable, sovint podien utilitzar un infinitiu. Si el missatge introduïa una altra persona o una finalitat amb un subjecte diferent, havien de construir una subordinada adequada. Van practicar amb una petició perquè una companya revisés la llista. En Pau va provar una frase massa llarga i va acabar barrejant els papers. La professora li va suggerir dues frases més curtes. La claredat no depenia de mostrar la construcció més complicada possible. Depenia de deixar visible qui feia què i amb quina relació entre les accions.
+
+中文参考：合句需保各行动主体；同主体常用不定式，不同主体目的用合适从句。他长句混角色，改两短句反而清晰，不必炫复杂结构。
+
+
+【长文第5段】
+
+Al final, en Pau va preparar una llista de revisió personal. Hi havia la concordança, els complements necessaris, els pronoms, les preposicions, els temps, la negació, els connectors i la fidelitat a les dades. No esperava aplicar totes les categories de manera rígida a cada frase, però la llista l’ajudava a detectar els seus errors habituals. Va guardar una versió inicial i una de corregida, amb una nota sobre el canvi de significat. Quan va tornar a escriure un missatge semblant una setmana després, va començar pel contingut i va revisar la forma al final. La correcció s’havia convertit en una eina per comunicar millor, no només en una manera de marcar errors.
+
+中文参考：他整理一致、补语、代词、介词、时态、否定、连接、数据八项检查，保存初稿改稿和意义变化。一周后先写清内容再查形式，修改成为沟通工具而非只标错。
+
+
+【长文理解 R1-R6】
+
+1. 两种动词形式都合语法时凭什么选？
+
+2. 凭据确认了什么？
+
+3. 实际确认情况？
+
+4. 为何有时拆长句？
+
+5. 个人检查表含多少类？
+
+6. 保存两版的目的？
+
+
+【第5课：文化、翻译与综合反馈】
+
+错题分析应说明误解如何发生。单一句子的正确答案可能不唯一，只要形式自然并保留任务事实与条件即可。
+
+T1 加译中：S’han rebut dues sol·licituds.
+
+T2 中译加：收到两份申请。
+
+T3 加译中：No tots han confirmat; sis sí i dos encara no.
+
+T4 中译加：并非都确认，六人确认，两人尚未。
+
+T5 加译英：T’escric perquè revisis la llista.
+
+T6 英译加：I am writing so that you review the list.
+
+T7 加译英：Abans d’enviar-lo, comprovaré el resum.
+
+T8 英译加：Before sending it, I will check the summary.
+
+综合迁移：把角色任务中的一个费用、时段或条件改掉，重新协商。最后由另一人复述共识、未知与行动人，第一人确认或更正。
+
+
+【本单元专项任务】
+
+专项任务：八类句子控制。先独立改写，不改变题中事实。
+1. 性数：改正 Les peticions ha estat rebudes.
+2. 被动与状态：把 Han rebut les peticions 改为以les peticions为主语，并说明是否已批准。
+3. 同主语目的：合并 Reviso el text. Vull evitar errors，用per。
+4. 异主语目的：合并 Envio el resum. Vull que vosaltres confirmeu les dades，用perquè。
+5. 否定范围：八人中六人确认、两人未答，用No tots概括，再补精确信息。
+6. 关系句：合并 La sala és petita. Hem reservat aquesta sala.
+7. 弱代词：用代词替换 Revisarem les dues propostes demà 中宾语。
+8. 逻辑：已收到申请但未审核，用però连接两事实，不得写成批准。
+
+
+【答案与详细解析：词汇】
+
+V1 句子。解析：本单元语境对应词条la frase；若有多个常用义，按题目语境解释。
+
+V2 主语。解析：本单元语境对应词条el subjecte；若有多个常用义，按题目语境解释。
+
+V3 动词。解析：本单元语境对应词条el verb；若有多个常用义，按题目语境解释。
+
+V4 补语。解析：本单元语境对应词条el complement；若有多个常用义，按题目语境解释。
+
+V5 la concordança。解析：一致关系；保留名词冠词与必要重音、间隔点或省音符号。
+
+V6 el participi。解析：分词；保留名词冠词与必要重音、间隔点或省音符号。
+
+V7 l’infinitiu (m.)。解析：不定式；保留名词冠词与必要重音、间隔点或省音符号。
+
+V8 la negació。解析：否定；保留名词冠词与必要重音、间隔点或省音符号。
+
+
+【答案与详细解析：语法】
+
+G1.1 ha。核心nombre单数，不看最近名词respostes决定。
+
+G1.2 Les dades estan confirmades. 主语阴性复数，动词estan及分词confirmades都配合。
+
+G2.1 Les peces han estat enviades per l’empresa. han随复数，enviades阴性复数；执行者可按信息需要省去。
+
+G2.2 han。此处es被动结构，documents复数，s’han enviat；不可用单数ha配此目标句。
+
+G3.1 Vull practicar més. 意愿与行动主语相同，用不定式最自然。
+
+G3.2 Necessito que expliquis aquest canvi. 我需要、你解释，故que＋expliquis。
+
+G4.1 不是所有志愿者都已确认；可能部分已确认，句子本身不提供具体人数。不能译成没人确认。
+
+G4.2 De moment no s’ha confirmat cap data. cap配可数data，de moment保留目前范围。
+
+G5.1 Vull confirmar l’hora. / Vull que la Marta confirmi l’hora. 第一同主体不定式，第二不同主体que＋虚拟式。
+
+G5.2 La Marta parla amb la Júlia i li demana que revisi la llista. 或拆句说明La Júlia ha de revisar la llista；明确行动者，不能只靠含混单数主语。
+
+
+【答案与详细解析：情境应用】
+
+1. 改错：Les dues propostes és clara.
+参考答案：Les dues propostes són clares.
+解析：主语、动词与形容词复数配合。
+
+2. 改错：Les sol·licituds ha estat rebut.
+参考答案：Les sol·licituds han estat rebudes.
+解析：ser被动分词阴性复数，han随主语。
+
+3. 用不定式表达“发送前我核名单”。
+参考答案：Abans d’enviar-la, comprovaré la llista.
+解析：同主体，la回指名单。
+
+4. 解释No tots han confirmat与Ningú no ha confirmat。
+参考答案：前者并非全部确认；后者无人确认。
+解析：不可因都有no就等同。
+
+5. “我想让玛尔塔检查名单”用que从句。
+参考答案：Vull que la Marta revisi la llista.
+解析：不同主体愿望从句虚拟式。
+
+
+【答案与详细解析：听力】
+
+1. 正确被动形式是什么？
+参考答案：S’han rebut les sol·licituds.
+解析：复数配han。
+
+2. 凭据能证明接受吗？
+参考答案：No, només recepció.
+解析：改语法不改事实。
+
+3. 八人中多少确认？
+参考答案：Sis.
+解析：第9句另两未确认。
+
+4. 怎样比no tots更准确？
+参考答案：Sis han confirmat i dues persones encara no.
+解析：给数量与状态。
+
+
+【答案与详细解析：短文】
+
+S1-S2参考：用途：摘要修订指导；对象：写作者。六确认两未答，申请收件不等名额批准，代词有歧义时重复名词。
+
+S3两句摘要范例：La revisió ha de mantenir separades les sis confirmacions i les dues respostes pendents, així com la recepció i l’acceptació de les sol·licituds. També cal aclarir els pronoms perquè el lector sàpiga quin document es revisarà.
+
+S3解析：数量、阶段、指代三层检查。
+
+
+【答案与详细解析：长文】
+
+1. 两种动词形式都合语法时凭什么选？
+参考答案：El context i la informació disponible.
+解析：句法正确不保证事实正确。
+
+2. 凭据确认了什么？
+参考答案：La recepció dels formularis.
+解析：不是名额获批。
+
+3. 实际确认情况？
+参考答案：Sis persones han confirmat i dues encara no.
+解析：no tots不等无人。
+
+4. 为何有时拆长句？
+参考答案：Per deixar clar qui fa cada acció.
+解析：复杂度不是目的。
+
+5. 个人检查表含多少类？
+参考答案：Vuit.
+解析：需能解释用途，不只背数。
+
+6. 保存两版的目的？
+参考答案：Observar com la correcció conserva o aclareix el sentit.
+解析：不是只计红色标记。
+
+
+【答案与详细解析：翻译】
+
+T1 加译中
+参考答案：收到两份申请。
+解析：复数主语配han。
+
+T2 中译加
+参考答案：S’han rebut dues sol·licituds.
+解析：复数主语配han。
+
+T3 加译中
+参考答案：并非都确认，六人确认，两人尚未。
+解析：否定范围清楚。
+
+T4 中译加
+参考答案：No tots han confirmat; sis sí i dos encara no.
+解析：否定范围清楚。
+
+T5 加译英
+参考答案：I am writing so that you review the list.
+解析：不同主体目的虚拟式。
+
+T6 英译加
+参考答案：T’escric perquè revisis la llista.
+解析：不同主体目的虚拟式。
+
+T7 加译英
+参考答案：Before sending it, I will check the summary.
+解析：不定式代词回指摘要。
+
+T8 英译加
+参考答案：Abans d’enviar-lo, comprovaré el resum.
+解析：不定式代词回指摘要。
+
+
+【完整独立写作范文与解析】
+
+范文词数：148
+
+He revisat el teu missatge sobre les inscripcions i et proposo tres canvis. Primer, a la frase sobre les dues sol·licituds cal posar el verb en plural: s’han rebut. Segon, el justificant només confirma la recepció, de manera que encara no podem dir que les places estiguin acceptades. Podem afegir que esperem una resposta del centre. Tercer, la llista mostra sis confirmacions i dues respostes pendents. Per això no escriuria que ningú no ha confirmat. És més útil donar les dues quantitats que utilitzar una negació general. També repetiria el nom de la llista en l’última frase, perquè el pronom pot referir-se igualment a la proposta. Aquests canvis no busquen fer el text més complicat, sinó evitar interpretacions diferents de les dades. Quan hagis preparat la nova versió, la podem llegir com si fóssim els destinataris i comprovar si queda clar què està fet i què continua pendent.
+
+中文参考：建议改复数s’han、收件非批准、六确认两待复，并明确末句指名单；修改目标是避免误读，改好后从读者角度核已做与待做。
+
+解析：形式、逻辑范围、事实状态分开解释；目的不是堆术语。
+
+写作20分：必要信息8、组织4、语言4、读者理解与回应4。语言正确但漏关键限制不能给信息满分；接受等义自然句及规范地区变体。
+
+
+【口语角色回应示范与解析】
+
+Podem escriure que s’han rebut les sol·licituds, però que falta la resposta sobre les places. A la llista de participants hi ha sis confirmacions i dues respostes pendents. Això no vol dir que ningú no hagi confirmat.
+
+中文参考：两个流程分开，不把小组出席确认与中心名额审批混同。
+
+示例为可展开的回应主线，并非完整互动的唯一答案。追加问题必须实际回答；只背示例不给互动满分。
+
+
+【专项任务答案、解析与评分】
+
+1. Les peticions han estat rebudes. 复数主语要求han，分词被动与阴性复数主语呼应。
+2. Les peticions han estat rebudes. 只表达已收到，不能据此写han estat aprovades。
+3. Reviso el text per evitar errors. 同一施事，目的可用per加不定式。
+4. Envio el resum perquè confirmeu les dades. 接收者承担确认，perquè引目的从句用现在虚拟式；confirmeu在该人称与直陈式同形，判断依赖句法。
+5. No tots han confirmat l’assistència: sis ho han fet i dos encara no han respost. 部分否定不是无人确认；ho指确认出席这件事。
+6. La sala que hem reservat és petita. que在关系从句作直接宾语，不重复加la。
+7. Les revisarem demà. 两个阴性复数方案用les，置变位动词前。
+8. Hem rebut les peticions, però encara no les hem revisades. 也可用revisat；前置阴性复数宾语代词后的分词一致可接受。接收与审核不同，句子不提供批准事实。
+每题2分：结构1、事实及意义1；能表达等义的规范变体可接受。
+
+学习记录：保存初稿一句、修订一句和修改原因；记一项仍需核实的信息或语言问题。第40单元比较记录，选出最影响沟通的三个改进。
+
+
+==========================================================
+单元37 局部写作、表格与短消息 / Passar de les dades al missatge
+==========================================================
+
+交际目标：将表格和消息转换为可行动文本，准确填写字段并保留未知项。
+
+
+【第1课：三语词汇与搭配】
+
+01. el camp | field | 字段
+
+02. la casella | box | 填写格
+
+03. la fila | row | 行
+
+04. la columna | column | 列
+
+05. la referència | reference | 编号
+
+06. el destinatari | recipient | 收件人
+
+07. la disponibilitat | availability | 可用时间
+
+08. la reserva | booking | 预约
+
+09. la versió | version | 版本
+
+10. el termini | deadline | 截止期
+
+11. emplenar | to fill in | 填写
+
+12. traslladar | to transfer | 转写
+
+13. adjuntar | to attach | 附上
+
+14. actualitzar | to update | 更新
+
+15. resumir | to summarise | 概括
+
+16. obligatori | required | 必填的
+
+17. opcional | optional | 可选的
+
+18. pendent | pending | 待确认的
+
+19. confirmat | confirmed | 已确认的
+
+20. abans de | before | 在……之前
+
+名词连冠词学习；l’之后的(m.)或(f.)标性别。条目含固定搭配和复现词，不表示全部是首次出现的新词。
+
+
+【搭配示范】
+
+La sala B substitueix la proposta anterior.
+
+中文参考：B室替代先前提案。
+
+Les dues respostes continuen pendents.
+
+中文参考：两项答复仍待定。
+
+Cal respondre abans de dijous a les dotze.
+
+中文参考：需周四十二点前回复。
+
+Voldria saber on hem d’enviar el formulari.
+
+中文参考：我想知道表该发到哪里。
+
+
+【词汇练习 V1-V8】
+
+V1 写出中文：el camp
+
+V2 写出中文：la casella
+
+V3 写出中文：la fila
+
+V4 写出中文：la columna
+
+V5 写出加泰语（名词带冠词）：编号
+
+V6 写出加泰语（名词带冠词）：收件人
+
+V7 写出加泰语（名词带冠词）：可用时间
+
+V8 写出加泰语（名词带冠词）：预约
+
+朗读：把四句搭配按“来源或背景／主要信息／条件或限制”分成意群。保留no、només、encara、tot i que等改变范围或逻辑的词。搭档复述实际含义，再交换角色。
+
+
+【第2课：五项语法与练习】
+
+G1 篇章指代链：la、ho、això、en
+讲解：la/les等与明确名词性数对应；ho常代整件内容；això可概括前述事件，en常代de补语或数量范围。连续句不能只求省词，应让读者知道所指；有两个同类先行词时可重写名词。
+例句：La proposta és provisional; la revisarem dijous. 方案暂定，周四复查它。
+易错辨析：两份提议都出现时一个la可能不清楚，应写la proposta del matí等。
+
+G1.1 替换第二个la proposta：Hem rebut la proposta i revisarem la proposta demà.
+
+G1.2 改清楚：Hem llegit la consulta i la proposta. La revisarem dijous.（要复查提案）
+
+G2 描述中的形容词性数配合
+讲解：形容词通常与名词性数配合：escena lenta、escenes lentes；有些两性同形，如interessant，但仍有复数interessants。名词后形容词常分类或描述，位置有时影响语义；本册先用清晰中性表达。
+例句：Les interpretacions eren clares i expressives. 表演清楚而有表现力。
+易错辨析：不要因中文无性数变化而写escenes lent；也别把interessant误造阴性。
+
+G2.1 填：unes escenes ___ i ___.（lent、interessant）
+
+G2.2 将un diàleg clar改成复数。
+
+G3 统计期间与变化量：de…a、entre、des de
+讲解：de gener a febrer界定起终；entre gener i febrer在区间内；des de gener以一月为起点持续到参照时。passar de 30 a 40是起终值；augmentar en 10是增加量；augmentar fins a 40是最终达到值。每一数字的作用必须明确。
+例句：Les respostes van passar de trenta a quaranta: van augmentar en deu. 回复从30到40，增加10。
+易错辨析：不能把fins a 40翻成增加了40；des de不是只发生在那一个月。
+
+G3.1 填：El total va augmentar ___ vuitanta.（最终达到80）
+
+G3.2 用de…a说明一月至二月比例从60%降到50%。
+
+G4 间接疑问：saber / preguntar＋疑问词
+讲解：Voldria saber quan…把问题嵌入请求，保留quan、on、com、quin等，不引入英语式do。一般不把整个陈述式请求写成独立疑问句；若外层本身是问句可有问号，如Em pots dir quan vindrà?。si可引出是否，但不同于条件si。
+例句：Voldria saber quina versió hem d’enviar. 我想知道应该发哪个版本。
+易错辨析：不要把quina换成无性数的固定形式；quina修饰阴性versió。
+
+G4.1 改为Voldria saber开头：Quan arribarà el paquet?
+
+G4.2 译：能告诉我场地是否已确认吗？
+
+G5 语域与称呼一致：tu、vosaltres、vostè
+讲解：选择合适称呼并保持动词、代词配合：tu pots／et；vosaltres podeu／us；vostè pot／li。机构邮件可用一致的us形式；不同规范习惯存在，避免半句tu半句vostè。礼貌不是更改事实状态。
+例句：Em podríeu indicar l’horari? 能告知时间吗？
+易错辨析：不要把tu的pots与us混成同一受话者；也不因写正式信就擅称申请已批准。
+
+G5.1 将Em pots enviar la resposta?改为vosaltres礼貌请求。
+
+G5.2 把“Us envio la proposta perquè la revisis”改为全句对vosaltres。
+
+
+【情境应用 X1-X5】
+
+1. 改清楚“La proposta i la llista són aquí. La revisaré”，指名单。
+
+2. 填：Les dues respostes estan ___.（pendent）
+
+3. 分别写活动时间与回复期限。
+
+4. 礼貌询问“表发哪里”。
+
+5. 把熟人tu请求改机构vosaltres请求：Em pots confirmar la sala?
+
+
+【第3课：听力与互动】
+
+听两遍下列对话的加泰语部分，先回答L1-L4，再核对脚本。
+
+1. 有效地点是什么？
+
+2. 时间是否变动？
+
+3. 人数如何分栏？
+
+4. 周四十二点指什么？
+
+
+【角色任务】
+
+A拟复制旧A室；B依据周三消息改B室。追问：周四十二点是否聚会？
+
+先回应对方，再解释依据；面对追加条件必须调整回答。可以使用虚构个人资料。
+
+
+【完整对话脚本（12句）】
+
+A: Què posem al camp «lloc»?
+
+中文参考：“地点”栏填什么？
+
+B: Sala B. La confirmació és d’aquest matí.
+
+中文参考：B室，今早确认的。
+
+A: El missatge d’ahir deia sala A.
+
+中文参考：昨天消息写A室。
+
+B: Era una proposta. Avui s’ha confirmat la B.
+
+中文参考：那是提议，今天确认B。
+
+A: I l’hora continua sent les sis?
+
+中文参考：仍六点吗？
+
+B: Sí. Només ha canviat la sala.
+
+中文参考：是，只改房间。
+
+A: Quantes persones hi posem?
+
+中文参考：填多少人？
+
+B: Deu confirmades i dues pendents, en camps separats.
+
+中文参考：十确认、两待复，分栏。
+
+A: Hem d’enviar les dades abans de dijous?
+
+中文参考：周四前发资料吗？
+
+B: Abans de dijous a les dotze. No és l’hora de la trobada.
+
+中文参考：周四中午十二点前，不是聚会时间。
+
+A: Escric «divendres a les sis, sala B».
+
+中文参考：我写“周五六点，B室”。
+
+B: I a la nota interna deixa les dues respostes pendents.
+
+中文参考：内部备注保留两项待回复。
+
+
+【八行独白】
+
+1. Llegeixo totes les files abans de redactar el missatge.
+
+中文参考：起草前先读各行。
+
+2. Comprovo la data de cada font.
+
+中文参考：核每条来源日期。
+
+3. Distingeixo una proposta d’una confirmació.
+
+中文参考：区分提案与确认。
+
+4. Associo cada número amb el que compta.
+
+中文参考：每个数对应所计对象。
+
+5. No confonc el termini d’enviament amb l’hora de l’activitat.
+
+中文参考：不混提交期限与活动时间。
+
+6. En el missatge públic només poso les dades necessàries.
+
+中文参考：公开消息只放必要信息。
+
+7. Conservo els punts pendents en el seguiment intern.
+
+中文参考：内部跟进保留未知。
+
+8. Després comparo el text final amb la taula original.
+
+中文参考：最后将成稿与原表核对。
+
+独白练习：遮住原文，只留“背景、理由、另一观点、限制、下一步”五个提示说90秒。伙伴指出一项表达清楚的内容及一处应补充的限制。
+
+
+【第4课：短文阅读、长文阅读与独立写作】
+
+短文原文（143词）
+
+Missatge per al grup: la trobada serà divendres a les sis de la tarda a la sala B. Aquesta és la sala confirmada pel centre aquest matí i substitueix la proposta anterior de la sala A. L’hora no ha canviat. Si heu guardat l’avís d’ahir, actualitzeu-hi només el lloc. Per preparar els materials, necessitem saber si finalment podreu assistir-hi. Les persones que encara no han respost poden fer-ho abans de dijous a les dotze del migdia. Aquest termini serveix per enviar la informació, no indica quan es fa la trobada. De moment hi ha deu assistències confirmades i dues respostes pendents. No hem comptat aquestes dues persones com a confirmades. Si rebeu una informació diferent, compareu-ne la data i consulteu-nos abans de reenviar-la. Així podrem mantenir un únic missatge actualitzat i evitar que dues versions continuïn circulant com si totes dues fossin vàlides.
+
+中文参考：周五18点B室，今早确认替代昨日A室提案，时间不变。未答者周四中午前答，这是回复截止非活动时间。现十确认两待复，不能把待复算已确认；遇异说核日期并先问，避免旧版继续传播。
+
+短文任务 S1：写用途与读者。S2：标出已确认信息和待核问题；若是评论，区分事实与感受。S3：用两句概括对方下一步可做什么，或读者如何使用信息。
+
+
+【独立写作任务】
+
+写140至180词给内部同伴说明如何把表格转为参与者通知，列关键数据与复核步骤。
+
+长文原文（529词，五段）
+
+
+【长文第1段】
+
+La Sílvia havia de preparar un avís a partir d’una taula i de tres missatges breus. La taula tenia una columna per al dia de l’activitat, una altra per a l’hora i una tercera per a l’estat de la sala. En un missatge del dilluns es proposava la sala A. En el del dimarts es deia que encara calia consultar-ne la disponibilitat. Finalment, el centre confirmava la sala B el dimecres al matí. La Sílvia va veure que no podia copiar simplement la primera fila que trobés. Havia de reconstruir quina informació era actual i quina havia quedat substituïda per una resposta posterior.
+
+中文参考：西尔维娅据表与三条消息写通知：周一提A，周二待查，周三上午确认B。不能复制首行，需判断当前有效信息。
+
+
+【长文第2段】
+
+Va començar marcant els elements que no havien canviat. La trobada continuava prevista per al divendres a les sis. Només s’havia modificat el lloc. Després va revisar una altra dada temporal: dijous a les dotze. Aquella hora apareixia en una nota sobre el termini per respondre, no en la casella de l’activitat. Si la copiava sense llegir l’encapçalament, podia anunciar una trobada el dia equivocat. Va escriure una etiqueta al costat de cada data per indicar-ne la funció. Era una manera senzilla de reduir errors quan diversos moments apareixien junts en un espai petit i semblaven igualment importants a primera vista.
+
+中文参考：周五六点不变，只改地点；另一个周四十二点是回复期限。忽略栏标题就会填错。给每个日期标用途，减少紧凑资料中的混淆。
+
+
+【长文第3段】
+
+La llista de persones també requeria una lectura atenta. Hi havia deu confirmacions i dues respostes pendents. Una suma de dotze no era incorrecta com a recompte de contactes, però resultava enganyosa si es presentava com el nombre d’assistents confirmats. La Sílvia va mantenir les dues categories separades. Al formulari intern va indicar les quantitats amb el seu estat; al missatge al grup va recordar el termini a qui encara no havia respost. No va afegir noms ni dades personals que no feien falta per entendre l’avís. Convertir una taula en un text no significava copiar totes les cel·les, sinó seleccionar-les segons el destinatari i l’ús del missatge.
+
+中文参考：十确认两待复，合计十二可说联络对象却非已确认出席。内表分状态，群通知提醒待答者；不加无必要姓名，转写不是复制全部格子。
+
+
+【长文第4段】
+
+Després va preparar dues versions. La primera era una nota interna amb la referència de la reserva, les fonts consultades i els punts pendents. La segona era un missatge breu per als participants, amb el dia, l’hora, la sala i la petició de resposta. Va adaptar la salutació i el to sense canviar els fets. Quan una companya li va preguntar per què no hi incloïa tota la història de la sala A, va explicar que el públic necessitava saber quin lloc era vàlid. N’hi havia prou amb una frase que indiqués que la nova sala substituïa la proposta anterior. La resta podia quedar en el registre de seguiment.
+
+中文参考：她做内部记录和参与者消息两版，语气按对象变，事实不变。公众需知道有效地点，可用一句说明B替代A，不必列所有查询经过，历史留内部。
+
+
+【长文第5段】
+
+Abans d’enviar res, la Sílvia va llegir el missatge en veu alta mentre una altra persona mirava la taula. Van comprovar cada número, cada dia i cada nom de sala. També van mirar si el text permetia distingir una data límit d’una data de trobada. La revisió va detectar una última ambigüitat: «hi podeu respondre» no indicava prou clarament a quin canal es referia. Van substituir aquella expressió per una instrucció concreta dins del mateix missatge. El resultat era curt, però havia exigit diverses decisions de lectura. Escriure poc no volia dir treballar amb menys cura; volia dir seleccionar amb més precisió la informació que necessitava cada lector.
+
+中文参考：发送前一人朗读、一人核表，逐个核数字日期房间，发现回复渠道指涉不清，改具体指令。短消息同样需严谨选信息。
+
+
+【长文理解 R1-R6】
+
+1. 最终有效房间？
+
+2. 什么没有改变？
+
+3. 周四十二点指什么？
+
+4. 能否说十二人确认？
+
+5. 两版本为何不同？
+
+6. 最后发现什么歧义？
+
+
+【第5课：文化、翻译与综合反馈】
+
+公开消息与内部记录可以长短不同，但事实不能随语气变化。填写未知字段时标待确认，不用看似合理的信息补空白。
+
+T1 加译中：La sala B substitueix la proposta anterior.
+
+T2 中译加：B室替代先前提案。
+
+T3 加译中：Les dues respostes continuen pendents.
+
+T4 中译加：两项答复仍待定。
+
+T5 加译英：Cal respondre abans de dijous a les dotze.
+
+T6 英译加：Please reply before twelve on Thursday.
+
+T7 加译英：Voldria saber on hem d’enviar el formulari.
+
+T8 英译加：I would like to know where we should send the form.
+
+综合迁移：把角色任务中的一个费用、时段或条件改掉，重新协商。最后由另一人复述共识、未知与行动人，第一人确认或更正。
+
+
+【本单元专项任务】
+
+专项任务：把记录变成表格与通知。
+资料表（竖线分列）：
+更新时间 | 地点 | 状态 | 活动时间
+周一 | A厅 | 提案，待回复 | 周五18:00
+周三 | B厅 | 已确认，替代A厅 | 周五18:00
+参与信息：10人确认；2人未回复。发送小组通知期限：周四12:00前。
+内部记录另有工作人员私人电话；对外通知无需该号码。
+填写六格：①当前地点；②活动时间；③通知期限；④确认人数；⑤待答人数；⑥A厅记录状态。
+写两句加泰语公开通知，再写一句仅供内部的待办事项。不得把周四当活动日，不得添加电话。
+
+
+【答案与详细解析：词汇】
+
+V1 字段。解析：本单元语境对应词条el camp；若有多个常用义，按题目语境解释。
+
+V2 填写格。解析：本单元语境对应词条la casella；若有多个常用义，按题目语境解释。
+
+V3 行。解析：本单元语境对应词条la fila；若有多个常用义，按题目语境解释。
+
+V4 列。解析：本单元语境对应词条la columna；若有多个常用义，按题目语境解释。
+
+V5 la referència。解析：编号；保留名词冠词与必要重音、间隔点或省音符号。
+
+V6 el destinatari。解析：收件人；保留名词冠词与必要重音、间隔点或省音符号。
+
+V7 la disponibilitat。解析：可用时间；保留名词冠词与必要重音、间隔点或省音符号。
+
+V8 la reserva。解析：预约；保留名词冠词与必要重音、间隔点或省音符号。
+
+
+【答案与详细解析：语法】
+
+G1.1 Hem rebut la proposta i la revisarem demà. la代阴性单数名词，不用ho。
+
+G1.2 Hem llegit la consulta i la proposta. Revisarem la proposta dijous. 重复名词在此提升清晰度，不能把避免重复置于明确指代之上。
+
+G2.1 lentes、interessants。前者变阴性复数，后者两性同形但加复数s。
+
+G2.2 Uns diàlegs clars. 冠词、名词和形容词都改复数，不能只改名词。
+
+G3.1 fins a。强调终值80，不是增量80。
+
+G3.2 De gener a febrer, la proporció va passar del seixanta al cinquanta per cent. del/de+el和al/a+el保留冠词缩合。
+
+G4.1 Voldria saber quan arribarà el paquet. 询问信息嵌入句中，arribarà仍表达未来到达。
+
+G4.2 Em pots dir si la sala està confirmada? 外层是提问所以有问号；si表示是否，不是如果。
+
+G5.1 Em podríeu enviar la resposta? podeu的礼貌条件式podríeu，em仍指说话人。
+
+G5.2 Us envio la proposta perquè la reviseu. us与reviseu指同一复数受话者；目的从句现在虚拟式。
+
+
+【答案与详细解析：情境应用】
+
+1. 改清楚“La proposta i la llista són aquí. La revisaré”，指名单。
+参考答案：La proposta i la llista són aquí. Revisaré la llista.
+解析：同类先行词不明时重复名词。
+
+2. 填：Les dues respostes estan ___.（pendent）
+参考答案：pendents
+解析：阴性复数主语，词形复数s。
+
+3. 分别写活动时间与回复期限。
+参考答案：La trobada és divendres a les sis. Cal respondre abans de dijous a les dotze.
+解析：两个日期作用分开。
+
+4. 礼貌询问“表发哪里”。
+参考答案：Voldria saber on hem d’enviar el formulari.
+解析：on问渠道或地点。
+
+5. 把熟人tu请求改机构vosaltres请求：Em pots confirmar la sala?
+参考答案：Em podríeu confirmar la sala?
+解析：称呼与动词一致，事实不改变。
+
+
+【答案与详细解析：听力】
+
+1. 有效地点是什么？
+参考答案：Sala B.
+解析：今早确认替代旧提案。
+
+2. 时间是否变动？
+参考答案：No, continua a les sis.
+解析：只改房间。
+
+3. 人数如何分栏？
+参考答案：Deu confirmades i dues pendents.
+解析：不得统写十二确认。
+
+4. 周四十二点指什么？
+参考答案：El termini d’enviament o de resposta.
+解析：不是聚会时间。
+
+
+【答案与详细解析：短文】
+
+S1-S2参考：用途：新版通知；对象：参与者。周五六点B室，替代A室提案；周四十二点回复截止，十确认两待复；更新须核来源日期。
+
+S3两句摘要范例：La trobada es farà divendres a les sis a la sala B, que substitueix la proposta de la sala A. Les persones que encara no han respost poden fer-ho abans de dijous a les dotze, sense confondre aquest termini amb l’hora de l’activitat.
+
+S3解析：两个日期各带用途。
+
+
+【答案与详细解析：长文】
+
+1. 最终有效房间？
+参考答案：La sala B, confirmada dimecres.
+解析：A仅旧提案。
+
+2. 什么没有改变？
+参考答案：Divendres a les sis.
+解析：只改房间不改时间。
+
+3. 周四十二点指什么？
+参考答案：El termini de resposta.
+解析：非活动开始。
+
+4. 能否说十二人确认？
+参考答案：No, deu confirmades i dues pendents.
+解析：十二是总联络数。
+
+5. 两版本为何不同？
+参考答案：Els destinataris necessiten informacions diferents.
+解析：语域改变不等改事实。
+
+6. 最后发现什么歧义？
+参考答案：El canal al qual calia respondre.
+解析：代词需明确指涉。
+
+
+【答案与详细解析：翻译】
+
+T1 加译中
+参考答案：B室替代先前提案。
+解析：状态来源明确。
+
+T2 中译加
+参考答案：La sala B substitueix la proposta anterior.
+解析：状态来源明确。
+
+T3 加译中
+参考答案：两项答复仍待定。
+解析：性数配合。
+
+T4 中译加
+参考答案：Les dues respostes continuen pendents.
+解析：性数配合。
+
+T5 加译英
+参考答案：Please reply before twelve on Thursday.
+解析：日期用途为回复期限。
+
+T6 英译加
+参考答案：Cal respondre abans de dijous a les dotze.
+解析：日期用途为回复期限。
+
+T7 加译英
+参考答案：I would like to know where we should send the form.
+解析：地点间接问句。
+
+T8 英译加
+参考答案：Voldria saber on hem d’enviar el formulari.
+解析：地点间接问句。
+
+
+【完整独立写作范文与解析】
+
+范文词数：150
+
+He revisat la taula i els missatges abans de preparar l’avís. La dada actual és sala B, confirmada dimecres al matí. La sala A només era una proposta anterior. La trobada continua sent divendres a les sis, de manera que no hem de modificar el dia ni l’hora. Dijous a les dotze és el termini perquè responguin les persones que encara no ho han fet. A la llista hi ha deu confirmacions i dues respostes pendents; no presentaré el total com si totes dotze persones haguessin confirmat. Per al grup escriuré un missatge amb les dades de la trobada i la petició de resposta. En la nota interna conservaré la referència de la reserva i l’estat de les dues consultes. Abans d’enviar-ho, et proposo que comparem cada número i cada data amb la font. També comprovarem que s’entengui on cal respondre i que l’avís nou substitueixi clarament la versió antiga.
+
+中文参考：内部说明有效B室、周五六点不变、周四十二点回复限期、十确认两待复，公众版与内部版分用途，发送前逐项核来源和渠道。
+
+解析：同一数值必须带状态；不把更新一项扩大成全部信息失效。
+
+写作20分：必要信息8、组织4、语言4、读者理解与回应4。语言正确但漏关键限制不能给信息满分；接受等义自然句及规范地区变体。
+
+
+【口语角色回应示范与解析】
+
+La sala confirmada és la B i substitueix la proposta de la A. La trobada continua sent divendres a les sis. Dijous a les dotze és el termini per respondre; mantinguem separades les deu confirmacions i les dues respostes pendents.
+
+中文参考：准确转写，不删尚有效时间。
+
+示例为可展开的回应主线，并非完整互动的唯一答案。追加问题必须实际回答；只背示例不给互动满分。
+
+
+【专项任务答案、解析与评分】
+
+六格答案：①Sala B；②Divendres a les 18 h；③Abans de dijous a les 12 h；④10；⑤2；⑥Proposta substituïda。
+公开示范：La trobada serà divendres a les sis de la tarda a la sala B. Tenim deu participants confirmats i dues respostes pendents.
+内部待办：Cal demanar una resposta a les dues persones pendents i enviar l’avís abans de dijous al migdia.
+解析：同一周内的日期承担不同功能。A厅是历史，不应删除成“从未提议”，也不应与当前B厅并列为两个可选场地。未回复不是明确拒绝，不能记成dues baixes。公开通知不复制与参加活动无关的私人号码。六格各1分；公开消息事实与组织各2分；内部待办2分，共12分。
+
+学习记录：保存初稿一句、修订一句和修改原因；记一项仍需核实的信息或语言问题。第40单元比较记录，选出最影响沟通的三个改进。
+
+
+==========================================================
+单元38 短文写作与修改流程 / Escriure, revisar i tornar a escriure
+==========================================================
+
+交际目标：按读者与任务写完整短文，先修内容和结构，再修语言。
+
+
+【第1课：三语词汇与搭配】
+
+01. l’esborrany (m.) | draft | 初稿
+
+02. la revisió | revision | 修订
+
+03. el retorn | feedback | 反馈
+
+04. la coherència | coherence | 连贯性
+
+05. el propòsit | purpose | 目的
+
+06. el lector | reader | 读者
+
+07. el paràgraf | paragraph | 段落
+
+08. la versió | version | 版本
+
+09. la millora | improvement | 改进
+
+10. el criteri | criterion | 标准
+
+11. planificar | to plan | 规划
+
+12. redactar | to draft | 起草
+
+13. reordenar | to reorder | 重排
+
+14. justificar | to explain reasons | 说明理由
+
+15. comprovar | to verify | 核实
+
+16. adequat | appropriate | 合适的
+
+17. clar | clear | 清楚的
+
+18. rellevant | relevant | 相关的
+
+19. precís | precise | 准确的
+
+20. en primer lloc | firstly | 首先
+
+名词连冠词学习；l’之后的(m.)或(f.)标性别。条目含固定搭配和复现词，不表示全部是首次出现的新词。
+
+
+【搭配示范】
+
+La reserva que volem modificar és la V-84.
+
+中文参考：要修改的是V-84预约。
+
+Hem rebut un canvi; per això demanem una alternativa.
+
+中文参考：收到变动，因此请求替代方案。
+
+La petició s’ha enviat, però no s’ha aprovat.
+
+中文参考：请求已发送，但未批准。
+
+Us agrairíem que ens indiquéssiu les opcions.
+
+中文参考：如能告知可选方案，不胜感谢。
+
+
+【词汇练习 V1-V8】
+
+V1 写出中文：l’esborrany (m.)
+
+V2 写出中文：la revisió
+
+V3 写出中文：el retorn
+
+V4 写出中文：la coherència
+
+V5 写出加泰语（名词带冠词）：目的
+
+V6 写出加泰语（名词带冠词）：读者
+
+V7 写出加泰语（名词带冠词）：段落
+
+V8 写出加泰语（名词带冠词）：版本
+
+朗读：把四句搭配按“来源或背景／主要信息／条件或限制”分成意群。保留no、només、encara、tot i que等改变范围或逻辑的词。搭档复述实际含义，再交换角色。
+
+
+【第2课：五项语法与练习】
+
+G1 原因、后果与理由的强度
+讲解：perquè＋直陈式说明已断言原因；per això引出后果；de manera que可引出结果。原因先后都可，但连接词不能替证据。主观经历中he notat…不自动允许下结论està demostrat que…；应区分观察、解释、证明。
+例句：La frase era llarga; per això l’he dividida. 句子太长，因此拆开了。
+易错辨析：per què分写用于询问为什么；perquè连写用于回答原因或目的，需看语气。
+
+G1.1 合并：He repetit la pregunta. No l’havien entesa. 用perquè。
+
+G1.2 把“我感觉更好”改成谨慎观察，不声称唯一原因。
+
+G2 介词关系句：en què、de què、amb què
+讲解：先还原基础关系：parlar de la proposta→la proposta de què parlem；treballar amb una eina→l’eina amb què treballem。介词后事物关系代词què带重音；可用介词＋el qual等配合形式。地点on常替en què，但不可把所有介词关系都换on。
+例句：El document en què es descriu el procés és aquí. 描述流程的文件在这里。
+易错辨析：本结构不是de que无重音；避免把已有关系代词的同一补语又重复为en。
+
+G2.1 合并：Parlem d’una proposta. La proposta és viable.
+
+G2.2 改为关系句：Utilitzem una eina. Treballem amb aquesta eina.
+
+G3 叙事中的事件、背景和当前回顾
+讲解：外围过去vaig fer把动作作为已完成事件推进；未完成过去feia描写习惯、状态或正在展开的背景；perfet he fet常连接当前回顾。选择取决于叙述视角，不是中文有没有“了”。本册采用常见中部用法；不同地区perfet和外围过去分布可有差异。
+例句：Quan treballava al centre, vaig conèixer la Marta. Des d’aleshores hem col·laborat sovint. 当时在中心工作，认识了玛尔塔；此后常合作。
+易错辨析：不把所有过去动作都换成同一种形式；也不能把vaig conèixer读成将要认识。
+
+G3.1 选：Mentre (preparava / vaig preparar) el sopar, va sonar el telèfon.
+
+G3.2 将“以前常独自学习；昨天与伙伴复习了”译成加泰语。
+
+G4 被动、无人称与动作状态
+讲解：ser＋分词可突出受事：La documentació ha estat rebuda，分词与主语配合；es＋第三人称可隐去执行者，如S’ha enviat el programa，复数S’han enviat els documents。estar＋分词常突出结果状态：El text està revisat。三者不能完全不看语境互换。
+例句：Les peces han estat enviades. 零件已经寄出。
+易错辨析：被动的enviades与阴性复数peces配合；不能写Les peces ha estat enviat。
+
+G4.1 改为被动：L’empresa ha enviat les peces.
+
+G4.2 填：S’___ enviat els documents.
+
+G5 语域与称呼一致：tu、vosaltres、vostè
+讲解：选择合适称呼并保持动词、代词配合：tu pots／et；vosaltres podeu／us；vostè pot／li。机构邮件可用一致的us形式；不同规范习惯存在，避免半句tu半句vostè。礼貌不是更改事实状态。
+例句：Em podríeu indicar l’horari? 能告知时间吗？
+易错辨析：不要把tu的pots与us混成同一受话者；也不因写正式信就擅称申请已批准。
+
+G5.1 将Em pots enviar la resposta?改为vosaltres礼貌请求。
+
+G5.2 把“Us envio la proposta perquè la revisis”改为全句对vosaltres。
+
+
+【情境应用 X1-X5】
+
+1. 交通变动是申请理由，写一句但勿暗示对方必须同意。
+
+2. 用介词关系表达“我们所说的预约”。
+
+3. 写“原先已订12日，现在请求14日”。
+
+4. 用被动写“申请已发，但变更未批”。
+
+5. 礼貌请求告知替代日期。
+
+
+【第3课：听力与互动】
+
+听两遍下列对话的加泰语部分，先回答L1-L4，再核对脚本。
+
+1. 邮件想让读者做什么？
+
+2. 主要请求放在哪里了？
+
+3. 漏了哪些日期？
+
+4. 先修什么再修什么？
+
+
+【角色任务】
+
+A初稿冗长且末尾才请求；B先问读者行动。协商改写顺序，追问：需不需要先改全部语法？
+
+先回应对方，再解释依据；面对追加条件必须调整回答。可以使用虚构个人资料。
+
+
+【完整对话脚本（12句）】
+
+A: Pots revisar el meu correu?
+
+中文参考：能检查我的邮件吗？
+
+B: Sí. Què vols que faci el destinatari?
+
+中文参考：可以，你要收件人做什么？
+
+A: Confirmar si podem canviar la visita de dia.
+
+中文参考：确认能否改参观日期。
+
+B: Ho preguntes a l’última línia. Potser convé dir-ho abans.
+
+中文参考：最后一行才问，或该先说。
+
+A: He explicat tot el problema del transport.
+
+中文参考：我解释了所有交通问题。
+
+B: Una raó breu seria suficient. Falta la data de la reserva actual.
+
+中文参考：简短理由够了，却缺原预约日期。
+
+A: Tens raó. També falta la nova data que proposem.
+
+中文参考：对，也缺建议新日期。
+
+B: I no escriguis que el canvi està fet si encara el demanes.
+
+中文参考：还在请求就别说改好了。
+
+A: Primer reorganitzo el contingut i després reviso els verbs.
+
+中文参考：我先重组内容，再查动词。
+
+B: Després el llegiré sense mirar les instruccions.
+
+中文参考：之后我不看任务要求来读。
+
+A: Així sabrem si el correu s’explica tot sol.
+
+中文参考：这样看邮件能否独立说明白。
+
+B: Exacte. Corregir és ajudar el lector a actuar.
+
+中文参考：对，修改要帮读者行动。
+
+
+【八行独白】
+
+1. Abans d’escriure, anoto el destinatari i el propòsit.
+
+中文参考：先记读者和目的。
+
+2. Faig una llista curta de la informació obligatòria.
+
+中文参考：列必要信息。
+
+3. Ordeno els paràgrafs segons el que el lector necessita.
+
+中文参考：按读者需要排段落。
+
+4. Escric una primera versió sense buscar la frase perfecta.
+
+中文参考：先写，不追求每句完美。
+
+5. Després comprovo si falta alguna dada essencial.
+
+中文参考：再查是否漏关键数据。
+
+6. Reviso la coherència i només després els errors de forma.
+
+中文参考：先查连贯，再改形式。
+
+7. Demano a una persona que expliqui què ha entès.
+
+中文参考：请别人复述理解。
+
+8. Guardo el canvi més important i la raó de la revisió.
+
+中文参考：记最重要改动及理由。
+
+独白练习：遮住原文，只留“背景、理由、另一观点、限制、下一步”五个提示说90秒。伙伴指出一项表达清楚的内容及一处应补充的限制。
+
+
+【第4课：短文阅读、长文阅读与独立写作】
+
+短文原文（144词）
+
+Bon dia. Tenim una visita reservada per al dimarts 12 a les deu, amb la referència V-84. Us escric per demanar si seria possible traslladar-la al dijous 14 a la mateixa hora. Una part del grup ha rebut un canvi en el transport i no podrà arribar a temps el dimarts. No donem per fet que la nova data estigui disponible i mantindrem la reserva actual fins que ens indiqueu com procedir. Som dotze persones, igual que en la petició inicial. Si dijous no és possible, ens aniria bé conèixer alguna alternativa de matí durant aquella setmana. Us agrairem que ens confirmeu també si el canvi afectaria les condicions que ja havíem acordat. Podem respondre al mateix correu per deixar constància de l’opció final. Moltes gràcies per comprovar la disponibilitat i explicar-nos quin pas hem de fer abans d’enviar un avís definitiu als participants.
+
+中文参考：V-84原约12日周二10点，申请改14日周四同刻，因部分人交通变动。十二人不变，新日未定，原约待指引；周四不行请给同周上午替代，并问条件是否改变，收到答复后再通知。日期为虚构练习安排。
+
+短文任务 S1：写用途与读者。S2：标出已确认信息和待核问题；若是评论，区分事实与感受。S3：用两句概括对方下一步可做什么，或读者如何使用信息。
+
+
+【独立写作任务】
+
+写140至180词改期邮件：原约12日10点、V-84、拟改14日同刻、12人不变，保留待确认。
+
+长文原文（529词，五段）
+
+
+【长文第1段】
+
+L’Arnau havia d’escriure un correu per demanar un canvi de data d’una visita. Va començar explicant el trajecte dels participants, les dificultats del transport i les converses que havia tingut amb el grup. El text era llarg i contenia diverses formes verbals correctes, però la petició apareixia només al final. Quan una companya el va llegir, no va saber quina reserva calia buscar. L’Arnau havia donat per fet que el destinatari coneixia el context perquè ell el tenia molt present. La primera revisió va mostrar que un text no s’organitza només segons l’ordre en què l’escriptor ha viscut els fets, sinó segons el que necessita saber qui el rep.
+
+中文参考：阿尔瑙写改期邮件，先长谈交通和讨论，末尾才请求；同伴找不到原预约。作者熟悉背景不代表读者熟悉，应按读者所需组织。
+
+
+【长文第2段】
+
+Abans de corregir paraules, van tornar a les instruccions. El missatge havia d’identificar la reserva actual, proposar una nova data, explicar breument el motiu i preguntar per les condicions. L’Arnau va escriure aquests quatre punts en un full separat. Després va comprovar si cada punt apareixia en la primera versió. Faltaven la referència de la reserva i el nombre de participants, que continuava sent el mateix. També hi havia una frase que anunciava la nova data com si ja estigués confirmada. Aquell error de contingut era més important que una petita falta de concordança, perquè podia fer que el grup actués sobre una decisió que encara no existia.
+
+中文参考：先核四要素：原约、新日期、理由、条件。发现漏编号和不变人数，还有一句把申请写成已定；此事实错误比小配合错误影响更大。
+
+
+【长文第3段】
+
+Van reorganitzar el correu en tres parts. A la primera, l’Arnau identificava la visita i formulava la petició. A la segona, explicava el motiu amb prou informació, sense reconstruir cada conversa anterior. A la tercera, preguntava per una alternativa i indicava que esperaria una resposta abans d’avisar els participants. Aquesta estructura no era una plantilla obligatòria per a qualsevol missatge, però funcionava per a aquella situació. La companya va poder resumir la petició després d’una sola lectura. Ja no necessitava consultar l’enunciat de l’exercici per entendre què havia de fer la persona del centre que rebés el correu i quines dades havia de comprovar.
+
+中文参考：改为三部分：识别并请求、足够但简短理由、替代与等答复再通知。这不是万能模板，但使读者不看题目也能理解行动。
+
+
+【长文第4段】
+
+Només llavors van revisar la llengua. Van mirar els temps verbals per separar la reserva existent de la proposta futura, els pronoms que remetien a la visita i les formes de cortesia. L’Arnau havia barrejat dues maneres de tractar el destinatari i va escollir una opció coherent. També va eliminar un connector que suggeria una conclusió massa forta. No volia escriure que el centre havia d’acceptar el canvi perquè hi havia un problema de transport; volia explicar per què el demanaven. La justificació era una raó per considerar la petició, no una prova que l’altra part tingués l’obligació d’acceptar totes les condicions proposades.
+
+中文参考：再查时态、代词、称呼一致，删掉暗示“交通有问题所以中心必须答应”的强推论。理由解释请求，不自动创造对方接受的义务。
+
+
+【长文第5段】
+
+En l’última lectura, van utilitzar quatre criteris: informació, organització, llengua i efecte sobre el lector. La segona versió no era necessàriament més llarga, però era més útil. L’Arnau va guardar les dues versions i va escriure una nota sobre el canvi principal: havia posat la petició i la referència al començament. Una setmana després va rebre una tasca diferent i va aplicar el mateix procés sense copiar el correu anterior. Va entendre que aprendre a revisar no significava memoritzar una carta perfecta. Significava saber detectar què faltava, què podia confondre el destinatari i quines modificacions ajudaven a completar una acció comunicativa concreta amb més autonomia.
+
+中文参考：用信息、组织、语言、读者效果四标准复核，保存两版并记最关键改动。下次换任务沿用流程而非照抄信，目标是自主发现遗漏和歧义。
+
+
+【长文理解 R1-R6】
+
+1. 初稿为什么难懂？
+
+2. 先检查哪类问题？
+
+3. 最危险的内容错误？
+
+4. 理由能迫使对方同意吗？
+
+5. 四评分维度？
+
+6. 方法迁移意味着什么？
+
+
+【第5课：文化、翻译与综合反馈】
+
+所有日期属于练习设定，不指当前真实日历。写作反馈先关注读者能否行动，再改语言；不用把每个小错误都改成复杂表达。
+
+T1 加译中：La reserva que volem modificar és la V-84.
+
+T2 中译加：要修改的是V-84预约。
+
+T3 加译中：Hem rebut un canvi; per això demanem una alternativa.
+
+T4 中译加：收到变动，因此请求替代方案。
+
+T5 加译英：La petició s’ha enviat, però no s’ha aprovat.
+
+T6 英译加：The request has been sent but has not been approved.
+
+T7 加译英：Us agrairíem que ens indiquéssiu les opcions.
+
+T8 英译加：We would be grateful if you could tell us the options.
+
+综合迁移：把角色任务中的一个费用、时段或条件改掉，重新协商。最后由另一人复述共识、未知与行动人，第一人确认或更正。
+
+
+【本单元专项任务】
+
+专项任务：诊断初稿并修订。
+任务事实：预订V-84，12人，原12日周二10点；因部分人班次调整，请求改14日周四10点；若不行周四11点亦可。日期均为教学设定。
+以下是故意带错的初稿，不可作为范文：
+Hola, tenim un problema amb els horaris i alguns no poden venir. Ja hem canviat la visita a dijous. Som un grup i volem venir al matí. Confirmeu-ho. Gràcies.
+找出至少五个妨碍接收者办理的问题。写一段更清楚、礼貌、事实准确的消息。给初稿和修稿分别按信息8、组织4、语言4、行动清晰4评分，并说明依据。
+
+
+【答案与详细解析：词汇】
+
+V1 初稿。解析：本单元语境对应词条l’esborrany (m.)；若有多个常用义，按题目语境解释。
+
+V2 修订。解析：本单元语境对应词条la revisió；若有多个常用义，按题目语境解释。
+
+V3 反馈。解析：本单元语境对应词条el retorn；若有多个常用义，按题目语境解释。
+
+V4 连贯性。解析：本单元语境对应词条la coherència；若有多个常用义，按题目语境解释。
+
+V5 el propòsit。解析：目的；保留名词冠词与必要重音、间隔点或省音符号。
+
+V6 el lector。解析：读者；保留名词冠词与必要重音、间隔点或省音符号。
+
+V7 el paràgraf。解析：段落；保留名词冠词与必要重音、间隔点或省音符号。
+
+V8 la versió。解析：版本；保留名词冠词与必要重音、间隔点或省音符号。
+
+
+【答案与详细解析：语法】
+
+G1.1 He repetit la pregunta perquè no l’havien entesa. 不理解先于重问；原因用直陈式。也可用entès，前置阴性宾语分词配合有变体。
+
+G1.2 He notat una millora, però no sé si és només per aquest canvi. 表达观察并限制因果，不能写Aquest canvi ho ha resolt tot而没有证据。
+
+G2.1 La proposta de què parlem és viable. de由parlar de决定；也可de la qual。
+
+G2.2 Utilitzem una eina amb què treballem. 练介词保留；实际行文可更具体：L’eina amb què treballem permet revisar versions。
+
+G3.1 preparava。准备饭作为正在展开背景，电话响是边界明确的新事件；另一选项不符合此题设定的背景视角。
+
+G3.2 Abans estudiava sol; ahir vaig repassar amb un company. 女性说话者用sola，伙伴女性可用una companya；习惯与单次动作分别处理。
+
+G4.1 Les peces han estat enviades per l’empresa. han随复数，enviades阴性复数；执行者可按信息需要省去。
+
+G4.2 han。此处es被动结构，documents复数，s’han enviat；不可用单数ha配此目标句。
+
+G5.1 Em podríeu enviar la resposta? podeu的礼貌条件式podríeu，em仍指说话人。
+
+G5.2 Us envio la proposta perquè la reviseu. us与reviseu指同一复数受话者；目的从句现在虚拟式。
+
+
+【答案与详细解析：情境应用】
+
+1. 交通变动是申请理由，写一句但勿暗示对方必须同意。
+参考答案：Com que ha canviat el transport, voldríem demanar una altra data.
+解析：原因引出请求，非接受义务。
+
+2. 用介词关系表达“我们所说的预约”。
+参考答案：La reserva de què parlem.
+解析：parlar de决定de què。
+
+3. 写“原先已订12日，现在请求14日”。
+参考答案：Havíem reservat el dia 12 i ara demanem el dia 14.
+解析：过去已定与现在请求不同。
+
+4. 用被动写“申请已发，但变更未批”。
+参考答案：La petició s’ha enviat, però el canvi no s’ha aprovat.
+解析：两个对象及阶段不能合并。
+
+5. 礼貌请求告知替代日期。
+参考答案：Us agrairíem que ens indiquéssiu una data alternativa.
+解析：条件式请求，不直接宣称对方保证。
+
+
+【答案与详细解析：听力】
+
+1. 邮件想让读者做什么？
+参考答案：Confirmar si es pot canviar la visita de dia.
+解析：不是自行宣布改期。
+
+2. 主要请求放在哪里了？
+参考答案：A l’última línia.
+解析：结构不利于读者。
+
+3. 漏了哪些日期？
+参考答案：La reserva actual i la nova data proposada.
+解析：两者都要明确。
+
+4. 先修什么再修什么？
+参考答案：Primer contingut i organització; després els verbs.
+解析：第9句，不能只查语法。
+
+
+【答案与详细解析：短文】
+
+S1-S2参考：用途：预约改期申请；对象：中心。V-84，12日10点拟改14日同刻，12人不变；新日和条件待确认，不能提前宣布。
+
+S3两句摘要范例：El grup demana traslladar la visita V-84 del dia 12 al 14 a les deu, mantenint dotze participants. El centre ha de confirmar la disponibilitat i les condicions abans que es modifiqui l’avís definitiu.
+
+S3解析：已约、拟改及确认前提不混。
+
+
+【答案与详细解析：长文】
+
+1. 初稿为什么难懂？
+参考答案：Donava massa context i no identificava aviat la reserva.
+解析：长不等信息足。
+
+2. 先检查哪类问题？
+参考答案：El compliment de la tasca i les dades essencials.
+解析：不先逐字美化。
+
+3. 最危险的内容错误？
+参考答案：Presentar la data proposada com a confirmada.
+解析：会让人错误行动。
+
+4. 理由能迫使对方同意吗？
+参考答案：No, justifica la petició però no garanteix l’acceptació.
+解析：理由与权利承诺分开。
+
+5. 四评分维度？
+参考答案：Informació, organització, llengua i efecte sobre el lector.
+解析：各自检查不同问题。
+
+6. 方法迁移意味着什么？
+参考答案：Aplicar el procés a una tasca nova, no copiar una carta.
+解析：避免背稿代替任务。
+
+
+【答案与详细解析：翻译】
+
+T1 加译中
+参考答案：要修改的是V-84预约。
+解析：限定关系定位对象。
+
+T2 中译加
+参考答案：La reserva que volem modificar és la V-84.
+解析：限定关系定位对象。
+
+T3 加译中
+参考答案：收到变动，因此请求替代方案。
+解析：原因说明请求，不保证获准。
+
+T4 中译加
+参考答案：Hem rebut un canvi; per això demanem una alternativa.
+解析：原因说明请求，不保证获准。
+
+T5 加译英
+参考答案：The request has been sent but has not been approved.
+解析：完成阶段不同。
+
+T6 英译加
+参考答案：La petició s’ha enviat, però no s’ha aprovat.
+解析：完成阶段不同。
+
+T7 加译英
+参考答案：We would be grateful if you could tell us the options.
+解析：条件式与礼貌虚拟形式搭配。
+
+T8 英译加
+参考答案：Us agrairíem que ens indiquéssiu les opcions.
+解析：条件式与礼貌虚拟形式搭配。
+
+
+【完整独立写作范文与解析】
+
+范文词数：152
+
+Bon dia. Us escric sobre la visita V-84, reservada per al dia 12 a les deu del matí per a dotze persones. Voldríem saber si es podria traslladar al dia 14 a la mateixa hora. Una part del grup ha rebut un canvi en el transport i no podrà arribar a temps en la data inicial. El nombre de participants continua sent el mateix. Entenem que cal comprovar la disponibilitat i no considerem la nova data confirmada. Si el dia 14 no és possible, agrairíem que ens indiquéssiu alguna alternativa de matí durant aquella setmana. També voldríem saber si el canvi afectaria les condicions de la reserva. Abans de modificar l’avís als participants, esperarem la vostra resposta i confirmarem l’opció escollida. Si hem de fer alguna gestió addicional per mantenir o canviar la reserva actual, expliqueu-nos els passos, si us plau. Moltes gràcies per l’atenció i per ajudar-nos a coordinar la visita.
+
+中文参考：原约、拟改、原因、人数和条件问题齐全；不先改公告，等答后确认并按指引办。
+
+解析：开头提供可定位信息；条件式礼貌；过去已定与未来请求分开。
+
+写作20分：必要信息8、组织4、语言4、读者理解与回应4。语言正确但漏关键限制不能给信息满分；接受等义自然句及规范地区变体。
+
+
+【口语角色回应示范与解析】
+
+Primer posem la reserva actual i la nova data que demanem. Després resumim el motiu i preguntem per les condicions. Corregirem la llengua quan el contingut sigui complet; no direm que el canvi està confirmat si encara l’estem demanant.
+
+中文参考：先任务内容和组织，再语言，不是忽略语言。
+
+示例为可展开的回应主线，并非完整互动的唯一答案。追加问题必须实际回答；只背示例不给互动满分。
+
+
+【专项任务答案、解析与评分】
+
+问题：缺V-84；缺原日期时间；缺确切新日期时间；缺12人不变；缺11点替代方案；把申请写成已改；命令式语气在初次请求中生硬。
+修稿：Bon dia, us escric sobre la reserva V-84 per a dotze persones, prevista per al dimarts dia dotze a les deu. Per un canvi d’horari d’alguns participants, voldríem passar la visita al dijous dia catorze a les deu. El nombre de persones no canvia. Si aquesta hora no és possible, també ens aniria bé a les onze del mateix dijous. Ens podríeu confirmar si es pot fer el canvi? Moltes gràcies.
+示范评分：初稿信息1/8、组织2/4、语言3/4、行动1/4，共7/20；修稿8/8、4/4、4/4、4/4，共20/20。初稿基本语法可理解，但读者无法定位预约，且已改的表述错误。评分为本书教学量表，其他有依据的分数亦可。修稿先定位再提出请求，条件式表达意愿，是否批准仍由接收者确认。
+
+学习记录：保存初稿一句、修订一句和修改原因；记一项仍需核实的信息或语言问题。第40单元比较记录，选出最影响沟通的三个改进。
+
+
+==========================================================
+单元39 综合模拟与证据复盘 / Fer una prova i aprendre dels resultats
+==========================================================
+
+交际目标：完成原创四技能综合模拟，按错误原因制定补练，而非只看总分。
+
+
+【第1课：三语词汇与搭配】
+
+01. la simulació | simulation | 模拟
+
+02. la prova | test | 测试
+
+03. el resultat | result | 结果
+
+04. l’error (m.) | error | 错误
+
+05. la causa | cause | 原因
+
+06. l’evidència (f.) | evidence | 证据
+
+07. la puntuació | score | 分数
+
+08. la revisió | review | 复盘
+
+09. la transferència | transfer | 迁移
+
+10. la prioritat | priority | 优先事项
+
+11. avaluar | to assess | 评估
+
+12. classificar | to classify | 分类
+
+13. justificar | to justify | 提供依据
+
+14. repetir | to repeat | 重复
+
+15. transferir | to transfer | 迁移
+
+16. comparable | comparable | 可比的
+
+17. concret | concrete | 具体的
+
+18. provisional | provisional | 暂定的
+
+19. autònom | independent | 自主的
+
+20. amb ajuda | with help | 有帮助地
+
+名词连冠词学习；l’之后的(m.)或(f.)标性别。条目含固定搭配和复现词，不表示全部是首次出现的新词。
+
+
+【搭配示范】
+
+La resposta era correcta, però l’havia memoritzada.
+
+中文参考：答案对，但此前已背熟。
+
+Cal indicar quina ajuda s’ha rebut.
+
+中文参考：需说明得到何种帮助。
+
+No sabem si la millora es mantindrà amb materials nous.
+
+中文参考：不知换材料后进步是否保持。
+
+Segons la gravació, falta respondre a l’objecció.
+
+中文参考：据录音，还未回应异议。
+
+
+【词汇练习 V1-V8】
+
+V1 写出中文：la simulació
+
+V2 写出中文：la prova
+
+V3 写出中文：el resultat
+
+V4 写出中文：l’error (m.)
+
+V5 写出加泰语（名词带冠词）：原因
+
+V6 写出加泰语（名词带冠词）：证据
+
+V7 写出加泰语（名词带冠词）：分数
+
+V8 写出加泰语（名词带冠词）：复盘
+
+朗读：把四句搭配按“来源或背景／主要信息／条件或限制”分成意群。保留no、només、encara、tot i que等改变范围或逻辑的词。搭档复述实际含义，再交换角色。
+
+
+【第2课：五项语法与练习】
+
+G1 叙事中的事件、背景和当前回顾
+讲解：外围过去vaig fer把动作作为已完成事件推进；未完成过去feia描写习惯、状态或正在展开的背景；perfet he fet常连接当前回顾。选择取决于叙述视角，不是中文有没有“了”。本册采用常见中部用法；不同地区perfet和外围过去分布可有差异。
+例句：Quan treballava al centre, vaig conèixer la Marta. Des d’aleshores hem col·laborat sovint. 当时在中心工作，认识了玛尔塔；此后常合作。
+易错辨析：不把所有过去动作都换成同一种形式；也不能把vaig conèixer读成将要认识。
+
+G1.1 选：Mentre (preparava / vaig preparar) el sopar, va sonar el telèfon.
+
+G1.2 将“以前常独自学习；昨天与伙伴复习了”译成加泰语。
+
+G2 间接疑问：saber / preguntar＋疑问词
+讲解：Voldria saber quan…把问题嵌入请求，保留quan、on、com、quin等，不引入英语式do。一般不把整个陈述式请求写成独立疑问句；若外层本身是问句可有问号，如Em pots dir quan vindrà?。si可引出是否，但不同于条件si。
+例句：Voldria saber quina versió hem d’enviar. 我想知道应该发哪个版本。
+易错辨析：不要把quina换成无性数的固定形式；quina修饰阴性versió。
+
+G2.1 改为Voldria saber开头：Quan arribarà el paquet?
+
+G2.2 译：能告诉我场地是否已确认吗？
+
+G3 篇章指代链：la、ho、això、en
+讲解：la/les等与明确名词性数对应；ho常代整件内容；això可概括前述事件，en常代de补语或数量范围。连续句不能只求省词，应让读者知道所指；有两个同类先行词时可重写名词。
+例句：La proposta és provisional; la revisarem dijous. 方案暂定，周四复查它。
+易错辨析：两份提议都出现时一个la可能不清楚，应写la proposta del matí等。
+
+G3.1 替换第二个la proposta：Hem rebut la proposta i revisarem la proposta demà.
+
+G3.2 改清楚：Hem llegit la consulta i la proposta. La revisarem dijous.（要复查提案）
+
+G4 归属与确定性：segons、sembla、confirmar
+讲解：Segons l’avís表明信息来源；sembla que表示推测或表象；s’ha confirmat que声称已核实。来源标签不保证内容正确，仍要核日期和适用范围。未知项用Encara no sabem si…具体点名，不必把整段都说成可能。
+例句：Segons l’avís actualitzat, el servei continuarà obert. 据更新通知，服务继续开放。
+易错辨析：不把某人转发过写成s’ha confirmat；no sé si不是肯定没有。
+
+G4.1 把“全馆关门”改为仅依据通知且限自习室的表达。
+
+G4.2 解释Encara no sabem si les reserves es mantindran。
+
+G5 必要与责任：cal、haver de
+讲解：cal＋不定式表示一般必要：Cal confirmar。cal que＋虚拟式明确行动者：Cal que confirmis。haver de＋不定式可说明个人责任：La Clara ha de confirmar。no cal表示无需，不等于禁止；禁止应使用no＋相应虚拟式命令。
+例句：No cal que refacis la llista. 无需重做名单。
+易错辨析：不要把no cal译成“不准”；cal que后不能直接放不定式。
+
+G5.1 填：Cal que nosaltres ___ l’adjunt.（comprovar）
+
+G5.2 区分No cal que l’enviïs / No l’enviïs。
+
+
+【情境应用 X1-X5】
+
+1. 用更早过去说明“答案对，因为以前记住了”。
+
+2. 问自己“在哪句找到依据”，用Vull saber…
+
+3. 修正含糊“修好了”，明确修改了日期用途。
+
+4. 将“我肯定口语全好了”改为据录音的有限结论。
+
+5. 写“必须记录用了什么帮助”。
+
+
+【第3课：听力与互动】
+
+听两遍下列对话的加泰语部分，先回答L1-L4，再核对脚本。
+
+1. 为什么高分不只表进步？
+
+2. 听力的错是什么？
+
+3. 写作漏了什么？
+
+4. 怎样更好验证？
+
+
+【角色任务】
+
+A重做熟题分数高，认为已达所有目标；B解释证据限制。共同定一次新材料复测和两项检查。
+
+先回应对方，再解释依据；面对追加条件必须调整回答。可以使用虚构个人资料。
+
+
+【完整对话脚本（12句）】
+
+A: He tret més punts que la setmana passada.
+
+中文参考：我比上周分数高。
+
+B: Has fet la mateixa prova?
+
+中文参考：做的同一卷吗？
+
+A: Sí, i recordava algunes respostes.
+
+中文参考：是，还记得一些答案。
+
+B: Aleshores el resultat no mesura només una millora de llengua.
+
+中文参考：那分数不只反映语言进步。
+
+A: Com ho puc comprovar millor?
+
+中文参考：怎样更好核实？
+
+B: Amb una tasca nova de dificultat semblant.
+
+中文参考：换难度相近的新任务。
+
+A: A l’escolta he confós el termini amb el dia de l’activitat.
+
+中文参考：听力把截止与活动日混了。
+
+B: Practica aquestes dues funcions amb dades diferents.
+
+中文参考：换资料练这两种用途。
+
+A: A l’escriptura no havia dit què demanava.
+
+中文参考：写作没说清请求。
+
+B: Revisa primer la informació necessària, després la forma.
+
+中文参考：先核必要信息，再形式。
+
+A: Guardaré un exemple de cada error i de la correcció.
+
+中文参考：我会保存每类错误和改法。
+
+B: Això et donarà un pla més útil que mirar només la nota.
+
+中文参考：比只看分数更能形成计划。
+
+
+【八行独白】
+
+1. He completat una simulació amb materials nous.
+
+中文参考：我完成了一次新材料模拟。
+
+2. He separat els resultats de les quatre habilitats.
+
+中文参考：分开看四技能结果。
+
+3. En cada error he buscat una causa probable.
+
+中文参考：每处错找可能原因。
+
+4. Alguns venien de la llengua i altres de llegir massa de pressa.
+
+中文参考：一些来自语言，一些读太快。
+
+5. No he comptat una resposta memoritzada com una prova d’autonomia.
+
+中文参考：没把背答案当自主证据。
+
+6. He triat dues prioritats per a la setmana vinent.
+
+中文参考：选下周两重点。
+
+7. Després faré una tasca diferent amb condicions semblants.
+
+中文参考：之后在相似条件下做新题。
+
+8. Compararé el que puc fer, no només els punts totals.
+
+中文参考：比较能做什么，不只总分。
+
+独白练习：遮住原文，只留“背景、理由、另一观点、限制、下一步”五个提示说90秒。伙伴指出一项表达清楚的内容及一处应补充的限制。
+
+
+【第4课：短文阅读、长文阅读与独立写作】
+
+短文原文（140词）
+
+Després de la simulació, no reviseu només les preguntes que tenen una marca vermella. Mireu també les respostes encertades per casualitat o perquè recordàveu un exemple anterior. Per a cada dificultat, anoteu la tasca, la informació que faltava i una possible causa. A l’escolta, distingiu entre no reconèixer una paraula i no incorporar una rectificació que sí que havíeu sentit. A la lectura, busqueu el fragment que justifica la resposta. A l’expressió oral, escolteu si heu respost realment a la pregunta afegida. A l’escriptura, comproveu si el destinatari pot actuar amb la informació que li doneu. Trieu dues prioritats i prepareu una activitat breu per a cadascuna. La comprovació següent ha d’utilitzar materials diferents, però amb exigències semblants. Repetir el mateix text pot ajudar a practicar, però no demostra per si sol que pugueu resoldre una situació nova sense ajuda.
+
+中文参考：模拟后不仅看红叉，也看猜对和记忆答对。逐项记任务、漏信息、可能原因；听力分生词与未更新改口，阅读找依据，口语看追问，写作看能否行动。选两重点，换相似要求的新材料复测；原题重复可练习，却不能单证迁移。
+
+短文任务 S1：写用途与读者。S2：标出已确认信息和待核问题；若是评论，区分事实与感受。S3：用两句概括对方下一步可做什么，或读者如何使用信息。
+
+
+【独立写作任务】
+
+写140至180词模拟复盘，列两重点、各一练习及新的验证条件。
+
+长文原文（534词，五段）
+
+
+【长文第1段】
+
+Després de completar una simulació, la Berta va mirar la puntuació total i va sentir que havia millorat molt. Havia fet menys errors que en una activitat de la setmana anterior. El tutor li va preguntar si les condicions eren comparables. En la primera prova havia escoltat els textos dues vegades; en la segona, havia tornat a sentir un fragment i ja coneixia una de les situacions. Aquella diferència no anul·lava el treball fet, però limitava la conclusió que en podia treure. Van decidir conservar el resultat amb una nota sobre les condicions, en lloc de presentar-lo com una mesura exacta i aïllada de tota la seva competència.
+
+中文参考：贝尔塔分数提高，但前次听两遍、此次重听片段且熟悉情境。努力仍有价值，结果却不可直接当同条件能力精确提升，应记录帮助条件。
+
+
+【长文第2段】
+
+Van començar la revisió per l’escolta. En una pregunta, la Berta havia anotat correctament un número, però l’havia associat al dia de l’activitat en lloc del termini per respondre. En una altra, havia sentit una correcció i, tanmateix, havia mantingut la primera data a la resposta. Les dues dificultats demanaven pràctiques diferents. Per a la primera, podia escriure una etiqueta al costat de cada dada temporal. Per a la segona, havia de deixar espai per substituir informació i confirmar la versió final. Repetir només una llista de números no hauria resolt tot el problema, perquè part de l’error estava en la relació entre les dades.
+
+中文参考：听力一题数字听对却归错用途，一题听到改口仍留旧日期。分别练日期标签与更新记录，单背数字不足。
+
+
+【长文第3段】
+
+A la lectura, la Berta havia contestat una pregunta a partir d’una idea general que coneixia, però que no apareixia al text. El tutor li va demanar que indiqués la frase que justificava la resposta. No la va trobar. Van revisar la diferència entre entendre un tema i respondre una pregunta sobre una font concreta. També van mirar una resposta correcta que havia triat sense estar-ne segura. La Berta va poder localitzar-ne finalment la prova i explicar per què les altres opcions no encaixaven. Aquella explicació mostrava més informació sobre el seu procés que una marca d’encert sense cap comentari sobre com havia arribat a la decisió.
+
+中文参考：阅读一题凭常识而非来源作答，找不到证据。另一猜对题能事后定位并排除其他项，比单一对勾更能揭示过程。
+
+
+【长文第4段】
+
+En la gravació oral, les primeres frases eren clares, però la resposta a una objecció no tenia relació amb la pregunta. La Berta havia continuat el discurs preparat. Van practicar una pausa breu per identificar què li demanaven abans de contestar. En el text escrit, en canvi, hi havia diversos errors petits, però el problema principal era que faltava la data de la reserva. Van prioritzar aquesta omissió abans de corregir tots els detalls de llengua. La revisió no pretenia donar menys importància a la forma, sinó ordenar els canvis segons l’efecte que tenien sobre la comprensió i sobre la possibilitat de completar la tasca.
+
+中文参考：口语开头清楚但追问答非所问；写作小错多，主要却漏预约日期。练听追问、先补关键数据，再处理形式，并非忽略语言。
+
+
+【长文第5段】
+
+La Berta va preparar un pla amb dues prioritats: distingir la funció de les dates i respondre directament a una pregunta inesperada. Per a cadascuna va triar una activitat curta i una manera de comprovar el resultat. Una setmana després faria una tasca nova amb el mateix nombre d’escoltes i un temps de preparació semblant. Va conservar els textos inicials, les correccions i una nota sobre l’ajuda rebuda. Així podria comparar actuacions reals, no només impressions. Va acabar la revisió amb una idea més precisa del seu progrés: algunes habilitats ja eren estables, mentre que d’altres encara depenien del context, de la familiaritat del material o del suport disponible.
+
+中文参考：她选日期用途与回应意外问题两重点，安排短练和同听次、新材料复测，保存原作、改稿、帮助记录。进步应看哪些能力稳定，哪些仍依赖熟悉度和支持。
+
+
+【长文理解 R1-R6】
+
+1. 两次总分为何不可直接比？
+
+2. 两个听力错误分别是什么？
+
+3. 阅读答案依据在哪里？
+
+4. 口语主要问题？
+
+5. 写作先补什么？
+
+6. 下一次用什么材料？
+
+
+【第5课：文化、翻译与综合反馈】
+
+本册模拟为原创教学测评，不称官方真题，也不把本书时间窗口或分值当任何认证考试的现行规则。正式报考应查看所选机构资料。
+
+T1 加译中：La resposta era correcta, però l’havia memoritzada.
+
+T2 中译加：答案对，但此前已背熟。
+
+T3 加译中：Cal indicar quina ajuda s’ha rebut.
+
+T4 中译加：需说明得到何种帮助。
+
+T5 加译英：No sabem si la millora es mantindrà amb materials nous.
+
+T6 英译加：We do not know whether the improvement will hold with new materials.
+
+T7 加译英：Segons la gravació, falta respondre a l’objecció.
+
+T8 英译加：According to the recording, the objection has not been addressed.
+
+综合迁移：把角色任务中的一个费用、时段或条件改掉，重新协商。最后由另一人复述共识、未知与行动人，第一人确认或更正。
+
+
+【本单元专项任务】
+
+专项任务：执行第一轮完整模拟。
+请使用册末“原创B1第四册四技能结册测评”。听力由伙伴朗读加泰语两遍，不读中文及答案。独立完成后再核对。
+为每个错误填：题号 | 原答 | 文本证据 | 错误原因 | 修订 | 新材料验证。
+错误原因可选：词义未知、数字标签混淆、漏听更正、推断过度、时间不足、写作遗漏要求。不可只填“粗心”。
+从所有错误只选两个高影响问题，写三天训练安排。复测使用册末第二轮新材料短卷，题量不同，勿把两卷原始总分直接相比。
+
+
+【答案与详细解析：词汇】
+
+V1 模拟。解析：本单元语境对应词条la simulació；若有多个常用义，按题目语境解释。
+
+V2 测试。解析：本单元语境对应词条la prova；若有多个常用义，按题目语境解释。
+
+V3 结果。解析：本单元语境对应词条el resultat；若有多个常用义，按题目语境解释。
+
+V4 错误。解析：本单元语境对应词条l’error (m.)；若有多个常用义，按题目语境解释。
+
+V5 la causa。解析：原因；保留名词冠词与必要重音、间隔点或省音符号。
+
+V6 l’evidència (f.)。解析：证据；保留名词冠词与必要重音、间隔点或省音符号。
+
+V7 la puntuació。解析：分数；保留名词冠词与必要重音、间隔点或省音符号。
+
+V8 la revisió。解析：复盘；保留名词冠词与必要重音、间隔点或省音符号。
+
+
+【答案与详细解析：语法】
+
+G1.1 preparava。准备饭作为正在展开背景，电话响是边界明确的新事件；另一选项不符合此题设定的背景视角。
+
+G1.2 Abans estudiava sol; ahir vaig repassar amb un company. 女性说话者用sola，伙伴女性可用una companya；习惯与单次动作分别处理。
+
+G2.1 Voldria saber quan arribarà el paquet. 询问信息嵌入句中，arribarà仍表达未来到达。
+
+G2.2 Em pots dir si la sala està confirmada? 外层是提问所以有问号；si表示是否，不是如果。
+
+G3.1 Hem rebut la proposta i la revisarem demà. la代阴性单数名词，不用ho。
+
+G3.2 Hem llegit la consulta i la proposta. Revisarem la proposta dijous. 重复名词在此提升清晰度，不能把避免重复置于明确指代之上。
+
+G4.1 Segons l’avís, només tancarà la sala d’estudi. 限来源、限范围；若题目提供日期还应补日期。
+
+G4.2 目前未知预约是否保留。既不能推出全部取消，也不能保证全部有效，应继续查询。
+
+G5.1 comprovem。我们现在虚拟式与直陈现在形式同形，要由cal que功能识别。
+
+G5.2 前者没有发送必要，后者要求不要发送；enviïs均为虚拟式形式，但情态不同。
+
+
+【答案与详细解析：情境应用】
+
+1. 用更早过去说明“答案对，因为以前记住了”。
+参考答案：La resposta era correcta perquè l’havia memoritzada abans.
+解析：准确解释记忆来源，不当迁移证据。
+
+2. 问自己“在哪句找到依据”，用Vull saber…
+参考答案：Vull saber en quina frase es troba la prova.
+解析：quin配frase为quina。
+
+3. 修正含糊“修好了”，明确修改了日期用途。
+参考答案：He distingit el termini de resposta del dia de l’activitat.
+解析：明确改进对象。
+
+4. 将“我肯定口语全好了”改为据录音的有限结论。
+参考答案：Segons aquesta gravació, he respost millor a la pregunta afegida.
+解析：限来源与任务，不扩大到全部口语。
+
+5. 写“必须记录用了什么帮助”。
+参考答案：Cal anotar quina ajuda s’ha utilitzat.
+解析：必要不定式＋间接疑问。
+
+
+【答案与详细解析：听力】
+
+1. 为什么高分不只表进步？
+参考答案：Era la mateixa prova i recordava respostes.
+解析：熟悉度影响结果。
+
+2. 听力的错是什么？
+参考答案：Confondre el termini amb el dia de l’activitat.
+解析：不是没听到数字。
+
+3. 写作漏了什么？
+参考答案：La petició.
+解析：缺沟通目的。
+
+4. 怎样更好验证？
+参考答案：Amb una tasca nova de dificultat semblant.
+解析：不是反复背答案。
+
+
+【答案与详细解析：短文】
+
+S1-S2参考：用途：模拟复盘指引；对象：学习者。错误与猜对均查原因，按技能找证据；两重点、新材料同条件复测，重复原题不单证迁移。
+
+S3两句摘要范例：La revisió relaciona cada dificultat amb una causa probable i amb una pràctica concreta. La comprovació posterior ha d’utilitzar materials nous i condicions semblants per valorar la transferència amb més precisió.
+
+S3解析：方法与下一步各一句，不只重复分数。
+
+
+【答案与详细解析：长文】
+
+1. 两次总分为何不可直接比？
+参考答案：Les condicions d’escolta i la familiaritat eren diferents.
+解析：分数受支持条件影响。
+
+2. 两个听力错误分别是什么？
+参考答案：Confondre la funció d’una data i no actualitzar una rectificació.
+解析：补练需对应错因。
+
+3. 阅读答案依据在哪里？
+参考答案：En el text concret de la tasca.
+解析：常识不能代替文本证据。
+
+4. 口语主要问题？
+参考答案：No respondre a l’objecció.
+解析：流利背稿不代表互动完成。
+
+5. 写作先补什么？
+参考答案：La data de la reserva.
+解析：关键遗漏优先。
+
+6. 下一次用什么材料？
+参考答案：Una tasca nova amb condicions semblants.
+解析：记忆效应不当迁移证据。
+
+
+【答案与详细解析：翻译】
+
+T1 加译中
+参考答案：答案对，但此前已背熟。
+解析：过去完成说明更早准备。
+
+T2 中译加
+参考答案：La resposta era correcta, però l’havia memoritzada.
+解析：过去完成说明更早准备。
+
+T3 加译中
+参考答案：需说明得到何种帮助。
+解析：cal＋不定式。
+
+T4 中译加
+参考答案：Cal indicar quina ajuda s’ha rebut.
+解析：cal＋不定式。
+
+T5 加译英
+参考答案：We do not know whether the improvement will hold with new materials.
+解析：si表示是否。
+
+T6 英译加
+参考答案：No sabem si la millora es mantindrà amb materials nous.
+解析：si表示是否。
+
+T7 加译英
+参考答案：According to the recording, the objection has not been addressed.
+解析：来源支持具体发现。
+
+T8 英译加
+参考答案：Segons la gravació, falta respondre a l’objecció.
+解析：来源支持具体发现。
+
+
+【完整独立写作范文与解析】
+
+范文词数：150
+
+Després de la simulació he identificat dues prioritats. La primera és distingir la funció de les dates. En una resposta havia confós el termini per confirmar amb el dia de l’activitat, encara que havia sentit bé el número. Practicaré amb missatges curts i escriuré una etiqueta al costat de cada data abans de redactar el resum. La segona prioritat és respondre directament a una pregunta inesperada. A la gravació havia continuat el meu discurs sense atendre l’objecció. Faré pràctiques amb una companya que afegirà una condició nova després de la meva primera resposta. D’aquí a una setmana utilitzarem materials diferents, amb el mateix nombre d’escoltes i un temps de preparació semblant. Guardaré les dues actuacions i indicaré l’ajuda rebuda. No interpretaré una millora en una tasca memoritzada com una prova suficient d’autonomia. Vull comprovar si puc aplicar les estratègies a una situació nova i explicar amb exemples què ha canviat.
+
+中文参考：重点是日期用途与直接答追问，各配练习，一周后同条件新材料，记帮助并保存表现，不把熟题得分提高当自主能力充分证据。
+
+解析：计划含错因、行动、时间和可观察标准；不是泛写“多听多说”。
+
+写作20分：必要信息8、组织4、语言4、读者理解与回应4。语言正确但漏关键限制不能给信息满分；接受等义自然句及规范地区变体。
+
+
+【口语角色回应示范与解析】
+
+El resultat és útil per practicar, però ja coneixies respostes. Fem una tasca nova amb les mateixes escoltes i un temps semblant. Comprovarem si distingeixes les dates i si respons a la pregunta afegida.
+
+中文参考：记录条件，选可观察技能，不能只说多努力。
+
+示例为可展开的回应主线，并非完整互动的唯一答案。追加问题必须实际回答；只背示例不给互动满分。
+
+
+【专项任务答案、解析与评分】
+
+记录示例：L2第1题 | 18人确认 | setze inscripcions confirmades；divuit是容量 | 混淆数字标签 | 改16人确认、18容量 | 第二轮记录会议时间与期限两种标签。
+三天方案示例：第一天给五条通知的日期标“提交/活动/回复”；第二天听伙伴读两份带更正的通知，保留旧值并划掉，用箭头记新值；第三天做陌生短卷，两遍听力、固定时间、不看词典，逐题写证据。
+解析：错误分类必须能导向行动。重听同一材料能巩固，但不能单独证明迁移。第二轮题型覆盖较少，比较应看同类错误是否再现、支持条件及信息完整度，不宣布两卷百分比等价。开放训练计划按具体目标、可执行步骤、新材料验证各2分，共6分。
+
+学习记录：保存初稿一句、修订一句和修改原因；记一项仍需核实的信息或语言问题。第40单元比较记录，选出最影响沟通的三个改进。
+
+
+==========================================================
+单元40 B1结业项目与B2衔接 / Mostrar què sabem fer i continuar aprenent
+==========================================================
+
+交际目标：用作品和新任务展示四技能，说明支持条件、剩余困难与后续目标。
+
+
+【第1课：三语词汇与搭配】
+
+01. el dossier | portfolio | 作品档案
+
+02. la mostra | sample | 样本
+
+03. l’autonomia (f.) | independence | 自主性
+
+04. el suport | support | 支持
+
+05. el progrés | progress | 进步
+
+06. la dificultat | difficulty | 困难
+
+07. l’objectiu (m.) | objective | 目标
+
+08. la continuïtat | continuity | 持续学习
+
+09. la valoració | assessment | 评价
+
+10. el compromís | commitment | 承诺
+
+11. seleccionar | to select | 选择
+
+12. documentar | to document | 记录
+
+13. demostrar | to demonstrate | 展示
+
+14. transferir | to transfer | 迁移
+
+15. planificar | to plan | 规划
+
+16. estable | stable | 稳定的
+
+17. variable | variable | 变化的
+
+18. assolit | achieved | 已达到的
+
+19. pendent | pending | 待完成的
+
+20. pas següent | next step | 下一步
+
+名词连冠词学习；l’之后的(m.)或(f.)标性别。条目含固定搭配和复现词，不表示全部是首次出现的新词。
+
+
+【搭配示范】
+
+Aquesta mostra demostra una capacitat de revisió.
+
+中文参考：这份样本显示修订能力。
+
+Puc explicar-ho, tot i que encara necessito temps.
+
+中文参考：我能解释，但仍需时间。
+
+Més ben dit, la sala encara no està reservada.
+
+中文参考：更准确地说，房间尚未预订。
+
+He resumit les condicions perquè el grup les entengui.
+
+中文参考：我概括条件以便小组理解。
+
+
+【词汇练习 V1-V8】
+
+V1 写出中文：el dossier
+
+V2 写出中文：la mostra
+
+V3 写出中文：l’autonomia (f.)
+
+V4 写出中文：el suport
+
+V5 写出加泰语（名词带冠词）：进步
+
+V6 写出加泰语（名词带冠词）：困难
+
+V7 写出加泰语（名词带冠词）：目标
+
+V8 写出加泰语（名词带冠词）：持续学习
+
+朗读：把四句搭配按“来源或背景／主要信息／条件或限制”分成意群。保留no、només、encara、tot i que等改变范围或逻辑的词。搭档复述实际含义，再交换角色。
+
+
+【第2课：五项语法与练习】
+
+G1 归属与确定性：segons、sembla、confirmar
+讲解：Segons l’avís表明信息来源；sembla que表示推测或表象；s’ha confirmat que声称已核实。来源标签不保证内容正确，仍要核日期和适用范围。未知项用Encara no sabem si…具体点名，不必把整段都说成可能。
+例句：Segons l’avís actualitzat, el servei continuarà obert. 据更新通知，服务继续开放。
+易错辨析：不把某人转发过写成s’ha confirmat；no sé si不是肯定没有。
+
+G1.1 把“全馆关门”改为仅依据通知且限自习室的表达。
+
+G1.2 解释Encara no sabem si les reserves es mantindran。
+
+G2 平行对照：d’una banda…de l’altra、mentre que
+讲解：d’una banda…de l’altra组织两个角度；mentre que可表示对照，也可随上下文表示同时。对比应保持标准清楚，不把一个方案的价格与另一个的参与人数直接当同一指标。
+例句：D’una banda facilita l’accés; de l’altra exigeix més organització. 一面方便参与，一面需更多组织。
+易错辨析：不要以对照连接词暗示两个方面必然互相否定；它们可能同时成立。
+
+G2.1 用mentre que连接：La primera opció és fixa. La segona alterna horaris.
+
+G2.2 写一句“一方面更灵活，另一方面需要更多协调”。
+
+G3 数量与经验的范围
+讲解：alguns、la majoria、tots、cap、només限制断言范围。No tots han confirmat是并非全部，不能写成无人确认；No he coordinat grups de cinquanta persones只否认该规模，不否认一切经验。表达已审部分时说He revisat el resum，不扩大成He validat tot l’informe。
+例句：He rebut confirmacions de les persones afectades. 收到相关人的确认。
+易错辨析：人数、角色、次数不混：六志愿者并不是五十名参加者。
+
+G3.1 解释No he dirigit mai un projecte d’aquesta mida。
+
+G3.2 仅审摘要，改写“Tot és correcte”。
+
+G4 口头修正：vull dir、més ben dit、em refereixo a
+讲解：用Vull dir…或Més ben dit…替换刚才不准确的信息；Em refereixo a…澄清对象。修正只覆盖相关部分，若时间未改应明说。礼貌可用Potser no m’he explicat bé，不必把所有误解归给听者。
+例句：Dimecres, més ben dit; a les sis, com havíem dit. 更正为周三，仍是六点。
+易错辨析：不能把改口自动理解为整段失效；也不能只道歉却不说正确内容。
+
+G4.1 把“Dimarts a les sis”中的周二改为周三，时间不变。
+
+G4.2 对方以为你要取消，其实只是查询改期，写澄清句。
+
+G5 信息中介：转述重点与读者行动
+讲解：将来源内容改写给另一读者时，可删不相关细节但不能删改变行动的条件。保留谁、做什么、何时、已定或待定；遇歧义先标未知，不替来源作决定。语言简化可以是拆句、解释术语和重排信息。
+例句：La sala és adequada, però falta confirmar l’accés. 房间适合，但入口条件尚待确认。
+易错辨析：摘要不能把“若确认可使用”写成“已经可以使用”；简化不等增加把握。
+
+G5.1 把La disponibilitat resta condicionada a la confirmació de l’accés改为两句简单话。
+
+G5.2 只知道容量12、组员13，给组员写简短说明。
+
+
+【情境应用 X1-X5】
+
+1. 给独立新任务与精修稿分别说证明什么。
+
+2. 用让步表达“能清楚说明，但仍需准备”。
+
+3. 限制“我理解所有加泰语”为熟悉主题主旨。
+
+4. 修正误说“已预订”，实际仅选偏好。
+
+5. 把“场地附条件可用”给组员解释成简单句。
+
+
+【第3课：听力与互动】
+
+听两遍下列对话的加泰语部分，先回答L1-L4，再核对脚本。
+
+1. 计划档案放哪些作品？
+
+2. 为什么加独立新任务？
+
+3. 仍有什么困难？
+
+4. 完成教材等于官方认证吗？
+
+
+【角色任务】
+
+A展示精修作品；B要求自主证据并追加场地无台阶条件。说明档案与后续步骤。
+
+先回应对方，再解释依据；面对追加条件必须调整回答。可以使用虚构个人资料。
+
+
+【完整对话脚本（12句）】
+
+A: Què inclouràs al dossier final?
+
+中文参考：结业档案放什么？
+
+B: Una gravació, un resum de lectura i dues versions d’un correu.
+
+中文参考：录音、阅读摘要和邮件两版。
+
+A: Només les mostres amb millor nota?
+
+中文参考：只放最高分作品？
+
+B: No. També una tasca nova que he fet sense ajuda.
+
+中文参考：不，还放独立做的新任务。
+
+A: Per què guardes l’esborrany?
+
+中文参考：为什么留初稿？
+
+B: Mostra què he canviat i per què.
+
+中文参考：能展示改了什么及原因。
+
+A: Ja pots dir que tot és fàcil?
+
+中文参考：能说全部都轻松了吗？
+
+B: No. Encara em costa seguir converses molt ràpides.
+
+中文参考：不能，快对话仍难跟。
+
+A: Quin objectiu et poses ara?
+
+中文参考：下一目标？
+
+B: Resumir idees principals i demanar aclariments amb més precisió.
+
+中文参考：更准确概括主旨和请求澄清。
+
+A: Acabar el llibre confirma un nivell oficial?
+
+中文参考：读完书就确认官方等级吗？
+
+B: No. És una etapa d’aprenentatge; una acreditació requereix la seva avaluació.
+
+中文参考：不是，是学习阶段；认证需对应评估。
+
+
+【八行独白】
+
+1. El meu dossier mostra tasques de les quatre habilitats.
+
+中文参考：我的档案展示四技能任务。
+
+2. Hi he indicat la data i les condicions de cada mostra.
+
+中文参考：每份标日期和条件。
+
+3. He separat el treball autònom del treball amb ajuda.
+
+中文参考：区分独立与协助作品。
+
+4. Puc narrar una experiència i explicar-ne una conseqüència.
+
+中文参考：能讲经历和影响。
+
+5. També puc comparar opcions amb raons i límits.
+
+中文参考：能有理由、有条件地比较方案。
+
+6. Encara necessito practicar la comprensió de converses ràpides.
+
+中文参考：仍需练快对话理解。
+
+7. He preparat un pla curt amb tasques noves i comprovacions concretes.
+
+中文参考：制定新任务与具体核验的短计划。
+
+8. Continuaré aprenent a partir del que les mostres demostren, no només del que espero.
+
+中文参考：按作品证据而非愿望继续学。
+
+独白练习：遮住原文，只留“背景、理由、另一观点、限制、下一步”五个提示说90秒。伙伴指出一项表达清楚的内容及一处应补充的限制。
+
+
+【第4课：短文阅读、长文阅读与独立写作】
+
+短文原文（145词）
+
+Per completar el projecte final, prepareu una proposta de trobada oberta a altres aprenents. Rebreu informació escrita sobre dos espais i escoltareu un missatge que corregeix una de les condicions. Haureu de triar una opció, explicar-ne els motius i indicar què falta confirmar. Després redactareu un correu al centre amb una petició concreta i un resum breu per a les persones participants. A la presentació oral, una companya afegirà una necessitat nova perquè pugueu demostrar com adapteu la proposta. El dossier ha d’incloure la primera versió, la revisió, la resposta a la nova condició i una nota sobre l’ajuda utilitzada. No cal que el projecte sembli perfecte ni que inventeu una confirmació per acabar-lo. És més útil mostrar una decisió limitada però ben justificada. Al final, identifiqueu dues habilitats que heu consolidat i dos aspectes que continuareu treballant amb materials nous durant les setmanes següents.
+
+中文参考：结业项目：据两空间书面资料和一条更正听力选方案、说明理由和未知，写给中心的请求与给参与者摘要，口头回应新需求。档案含初稿、改稿、回应和帮助记录，不假造确认；最后列两稳定技能与两待练项。具体项目资料在册末附录。
+
+短文任务 S1：写用途与读者。S2：标出已确认信息和待核问题；若是评论，区分事实与感受。S3：用两句概括对方下一步可做什么，或读者如何使用信息。
+
+
+【独立写作任务】
+
+写140至180词结业自评：两项能力证据、支持条件、一项困难和四周计划。
+
+长文原文（546词，五段）
+
+
+【长文第1段】
+
+Quan va arribar al final del curs, la Lina va obrir la carpeta on havia guardat activitats dels quatre llibres. Hi havia narracions de la primera part, consultes de la segona, comparacions de fonts de la tercera i revisions de textos de l’última. Algunes mostres li semblaven molt llunyanes, però encara hi reconeixia errors que repetia. No volia triar només els documents que feien bona impressió. La professora li va proposar seleccionar mostres que permetessin explicar què sabia fer, en quines condicions i amb quines limitacions. El dossier no havia de ser una col·lecció de notes altes, sinó un conjunt d’evidències que pogués llegir també una altra persona.
+
+中文参考：莉娜回看四册作品：叙述、咨询、来源比较、修改。不是只选最好看的，而是能说明会做什么、在何条件下、还有限制的证据。
+
+
+【长文第2段】
+
+Va escollir una gravació en què narrava un imprevist, un resum de dues fonts i un correu amb la seva versió inicial i la revisada. Al costat de cada mostra va indicar si havia utilitzat un diccionari, si havia rebut comentaris i quantes vegades havia escoltat el material. Aquelles dades no treien valor al treball, però ajudaven a interpretar-lo. Una producció molt corregida mostrava capacitat de revisió; una tasca nova sense ajuda aportava informació diferent sobre l’autonomia. La Lina va afegir una activitat breu que no havia preparat abans. Així podia comparar el que aconseguia després de revisar amb el que era capaç de fer en una situació menys familiar.
+
+中文参考：选意外叙述、双来源摘要和邮件初改稿，标词典、反馈、听次。修订作品与独立陌生任务说明不同能力，两者都保存，帮助记录不是贬低努力。
+
+
+【长文第3段】
+
+El projecte final consistia a preparar una trobada per a altres aprenents. Havia de llegir les condicions de dos espais, escoltar una actualització i proposar una opció. La primera informació deia que una sala tenia capacitat per a catorze persones. L’actualització reduïa la capacitat disponible a dotze perquè s’hi havia de reservar una zona de pas. La Lina va modificar la proposta i va explicar per què. No va ocultar el canvi per mantenir una presentació més neta. Després una companya va afegir que una persona necessitava un accés sense escales. La decisió havia de tenir en compte també aquella condició, encara que no hagués aparegut en la primera lectura.
+
+中文参考：项目需结合两空间与更新：原十四容量改十二因留通道，她修改方案并说明原因；追问又加无台阶通行需要，不能为保持稿件漂亮忽略新条件。
+
+
+【长文第4段】
+
+Quan va escriure al centre, la Lina va separar el que sabia del que necessitava preguntar. Podia explicar el nombre de participants i el tipus d’activitat, però encara havia de confirmar l’accés i la disponibilitat exacta. En el resum per al grup no va anunciar una reserva definitiva. Va indicar l’opció preferida i el pas que faltava. La professora va valorar especialment que el missatge permetés actuar sense crear una falsa certesa. Després van revisar la llengua i van simplificar dues frases que amagaven la petició principal. El resultat no era un text ple de construccions difícils, sinó una proposta coherent que connectava les fonts, els motius i les condicions.
+
+中文参考：给中心的信分已知人数用途与待查无障碍和具体空档；给组员不宣称已订，标偏好和下一步。再简化遮住主要请求的复杂句，追求连贯可行动而非语法炫技。
+
+
+【长文第5段】
+
+En l’autoavaluació, la Lina va escriure que podia explicar experiències, formular peticions i comparar opcions en temes coneguts. També va reconèixer que les converses molt ràpides i alguns textos amb posicions implícites encara li costaven. Va preparar un pla de quatre setmanes per continuar treballant aquests aspectes, amb moments de revisió i tasques noves. No va convertir l’acabament del llibre en una acreditació automàtica de nivell. El final del curs era una oportunitat per mirar el camí recorregut i decidir com continuar. Per acostar-se a demandes més complexes, necessitava ampliar la flexibilitat i la precisió sense abandonar les estratègies bàsiques que ja li permetien comunicar-se amb més independència.
+
+中文参考：自评能在熟悉主题讲经历、请求、比较，快对话和隐含立场仍难，制定四周新任务计划。完成书不自动认证；下一步提高灵活精确，同时保留有效基础策略。
+
+
+【长文理解 R1-R6】
+
+1. 档案为何不只放高分？
+
+2. 为何记录词典和听次？
+
+3. 容量如何变了？
+
+4. 追加了什么需求？
+
+5. 给组员可说已订吗？
+
+6. 后续重点是什么？
+
+
+【第5课：文化、翻译与综合反馈】
+
+B1结业档案服务于反思与继续学习，不替代机构认证。B2衔接可逐步增加陌生题材、观点层次和即时回应，但不以堆难词代替清楚表达。
+
+T1 加译中：Aquesta mostra demostra una capacitat de revisió.
+
+T2 中译加：这份样本显示修订能力。
+
+T3 加译中：Puc explicar-ho, tot i que encara necessito temps.
+
+T4 中译加：我能解释，但仍需时间。
+
+T5 加译英：Més ben dit, la sala encara no està reservada.
+
+T6 英译加：More precisely, the room has not yet been booked.
+
+T7 加译英：He resumit les condicions perquè el grup les entengui.
+
+T8 英译加：I have summarised the conditions so the group can understand them.
+
+综合迁移：把角色任务中的一个费用、时段或条件改掉，重新协商。最后由另一人复述共识、未知与行动人，第一人确认或更正。
+
+
+【本单元专项任务】
+
+结业项目：为十三人安排交流会。
+材料A：El centre Nord ofereix una sala per a catorze persones els dimecres a les sis. L’entrada principal té tres graons. Cal consultar si hi ha una altra entrada accessible. La disponibilitat no equival a una reserva confirmada.
+材料B：El centre Sud disposa d’una sala per a setze persones els dijous a les sis. Es poden moure les cadires. La informació publicada no indica si l’accés és sense graons. Encara no s’ha fet cap reserva.
+小组条件：13人；周三或周四18点均可；会话练习需移动椅子。先根据书面资料比较两处。
+听力更新由伙伴朗读：Bon dia. Us truquem del centre Nord. Hem revisat la distribució de la sala. Per deixar lliure el pas, la capacitat actual és de dotze persones, no de catorze. L’horari dels dimecres no canvia. Si necessiteu més places, haureu de buscar una altra sala.
+追加条件：一名成员需要全程无台阶入口。南中心尚未答复。
+任务P1：用中文或加泰语列两处容量、时间、椅子和无台阶信息，区分已知/未知。
+任务P2：用加泰语提出暂定方案，回应新容量及无台阶条件；不能提前宣布订妥。
+任务P3：给南中心写100至140词，含13人、周四18点、椅子、全程无台阶询问、请求确认可用及预订步骤。
+任务P4：向组员说60至90秒计划，伙伴追问“如果南中心也有台阶呢？”并作答。
+任务P5：写两句公开进度，保留未知，不暴露个人健康信息。
+项目材料均为虚构；评量目的在信息处理与协商，无真实预约动作。
+
+
+【答案与详细解析：词汇】
+
+V1 作品档案。解析：本单元语境对应词条el dossier；若有多个常用义，按题目语境解释。
+
+V2 样本。解析：本单元语境对应词条la mostra；若有多个常用义，按题目语境解释。
+
+V3 自主性。解析：本单元语境对应词条l’autonomia (f.)；若有多个常用义，按题目语境解释。
+
+V4 支持。解析：本单元语境对应词条el suport；若有多个常用义，按题目语境解释。
+
+V5 el progrés。解析：进步；保留名词冠词与必要重音、间隔点或省音符号。
+
+V6 la dificultat。解析：困难；保留名词冠词与必要重音、间隔点或省音符号。
+
+V7 l’objectiu (m.)。解析：目标；保留名词冠词与必要重音、间隔点或省音符号。
+
+V8 la continuïtat。解析：持续学习；保留名词冠词与必要重音、间隔点或省音符号。
+
+
+【答案与详细解析：语法】
+
+G1.1 Segons l’avís, només tancarà la sala d’estudi. 限来源、限范围；若题目提供日期还应补日期。
+
+G1.2 目前未知预约是否保留。既不能推出全部取消，也不能保证全部有效，应继续查询。
+
+G2.1 La primera opció és fixa, mentre que la segona alterna horaris. 此处对比方案，不表示两个动作同时发生。
+
+G2.2 D’una banda és més flexible; de l’altra, necessita més coordinació. 同一方案的两面，主语可省略。
+
+G3.1 未曾领导如此规模项目；可能参与过或领导过较小项目。不能据此写“完全无经验”。
+
+G3.2 He revisat el resum; les dades encara s’han de validar. 明确审阅边界并保待办，不背书未查部分。
+
+G4.1 Dimecres, més ben dit, a les sis. 清楚替换日期并保留时间。
+
+G4.2 Em refereixo a consultar una altra data, no a cancel·lar la reserva de moment. 同时给正确信息与否定范围。
+
+G5.1 Encara no podem donar la sala per disponible. Primer s’ha de confirmar l’accés. 条件保留，词语更直接。
+
+G5.2 Som tretze i la sala té capacitat per a dotze. Necessitem buscar una altra opció. 先给数据再给行动，不编造扩大容量或有人退出。
+
+
+【答案与详细解析：情境应用】
+
+1. 给独立新任务与精修稿分别说证明什么。
+参考答案：La tasca nova aporta evidència d’autonomia; la versió revisada mostra capacitat de millora.
+解析：两类证据互补不可互换。
+
+2. 用让步表达“能清楚说明，但仍需准备”。
+参考答案：Puc explicar-ho clarament, tot i que encara necessito preparar-me.
+解析：能力与限制并存。
+
+3. 限制“我理解所有加泰语”为熟悉主题主旨。
+参考答案：Puc comprendre les idees principals de missatges clars sobre temes coneguts.
+解析：范围适度，不自动推更广能力。
+
+4. 修正误说“已预订”，实际仅选偏好。
+参考答案：Més ben dit, hem triat una opció preferida, però encara no hem reservat.
+解析：明确替代错误状态。
+
+5. 把“场地附条件可用”给组员解释成简单句。
+参考答案：Encara falta una confirmació. No podem anunciar el lloc com a definitiu.
+解析：保留行动前提，不能简化成已定。
+
+
+【答案与详细解析：听力】
+
+1. 计划档案放哪些作品？
+参考答案：Una gravació, un resum i dues versions d’un correu.
+解析：第2句三类。
+
+2. 为什么加独立新任务？
+参考答案：Per mostrar autonomia amb material no preparat.
+解析：单凭修好作品不够。
+
+3. 仍有什么困难？
+参考答案：Seguir converses molt ràpides.
+解析：第8句不表示全不会。
+
+4. 完成教材等于官方认证吗？
+参考答案：No, cal l’avaluació corresponent.
+解析：课程进度与认证分开。
+
+
+【答案与详细解析：短文】
+
+S1-S2参考：用途：结业项目任务书；对象：学习者。读两空间、听更正、选方案、写请求和摘要、回应新需求，档案保留初改稿及帮助记录。
+
+S3两句摘要范例：El projecte integra lectura, escolta, escriptura i una resposta oral a una necessitat nova. El dossier ha de mostrar les versions, l’ajuda rebuda i els límits de la decisió, sense inventar confirmacions.
+
+S3解析：四技能有材料和产出，证据不等完美展示。
+
+
+【答案与详细解析：长文】
+
+1. 档案为何不只放高分？
+参考答案：Per mostrar capacitats, condicions i límits.
+解析：呈现真实证据。
+
+2. 为何记录词典和听次？
+参考答案：Per interpretar l’ajuda i l’autonomia de cada mostra.
+解析：支持条件影响比较。
+
+3. 容量如何变了？
+参考答案：De catorze a dotze.
+解析：留通道所致，不能仍用旧数。
+
+4. 追加了什么需求？
+参考答案：Accés sense escales.
+解析：需响应而非忽略。
+
+5. 给组员可说已订吗？
+参考答案：No, encara faltaven confirmacions.
+解析：偏好不等预约。
+
+6. 后续重点是什么？
+参考答案：Converses ràpides i textos amb posicions implícites.
+解析：个性化目标，不以读完自动认证。
+
+
+【答案与详细解析：翻译】
+
+T1 加译中
+参考答案：这份样本显示修订能力。
+解析：不自动证明独立首次完成。
+
+T2 中译加
+参考答案：Aquesta mostra demostra una capacitat de revisió.
+解析：不自动证明独立首次完成。
+
+T3 加译中
+参考答案：我能解释，但仍需时间。
+解析：能力与限制可同时陈述。
+
+T4 中译加
+参考答案：Puc explicar-ho, tot i que encara necessito temps.
+解析：能力与限制可同时陈述。
+
+T5 加译英
+参考答案：More precisely, the room has not yet been booked.
+解析：自我修正信息状态。
+
+T6 英译加
+参考答案：Més ben dit, la sala encara no està reservada.
+解析：自我修正信息状态。
+
+T7 加译英
+参考答案：I have summarised the conditions so the group can understand them.
+解析：目的虚拟式、les回指条件。
+
+T8 英译加
+参考答案：He resumit les condicions perquè el grup les entengui.
+解析：目的虚拟式、les回指条件。
+
+
+【完整独立写作范文与解析】
+
+范文词数：152
+
+Al final d’aquest curs puc narrar una experiència amb un ordre clar i formular peticions en situacions conegudes. Ho mostren una gravació sobre un imprevist i un correu en què demano un canvi de reserva. Al dossier he conservat les versions inicials i les revisions, amb una nota sobre els comentaris i les eines que he utilitzat. També hi he afegit una tasca nova feta sense ajuda, perquè una versió molt preparada no demostra tota sola la meva autonomia. Encara em costa seguir converses ràpides quan les persones es corregeixen o deixen idees implícites. Durant quatre setmanes practicaré amb missatges breus nous, marcaré les rectificacions i en faré un resum. Una companya comprovarà si he mantingut les dades i les incerteses. Revisarem el progrés cada setmana amb exemples concrets. Acabar el llibre no em dona automàticament una acreditació, però m’ajuda a identificar què puc fer i quin pas em convé treballar després.
+
+中文参考：用录音和改期邮件证明叙述请求能力，标帮助并补独立新任务；快语和隐含内容仍难，四周练新消息、标改口、写摘要、伙伴核对，每周用实例复查。
+
+解析：证据、条件、困难、计划闭环；既不夸大也不否定已有能力。
+
+写作20分：必要信息8、组织4、语言4、读者理解与回应4。语言正确但漏关键限制不能给信息满分；接受等义自然句及规范地区变体。
+
+
+【口语角色回应示范与解析】
+
+Aquest text mostra què he pogut millorar amb retorn. També he fet una tasca nova sense ajuda. Per a la sala, he de confirmar l’accés sense escales abans d’anunciar-la. Inclouré aquesta resposta al dossier amb les condicions en què l’he preparada.
+
+中文参考：回应新条件，承认支持，不假称完美或已认证。
+
+示例为可展开的回应主线，并非完整互动的唯一答案。追加问题必须实际回答；只背示例不给互动满分。
+
+
+【专项任务答案、解析与评分】
+
+P1：北中心更新为12人，周三18点不变，椅子可否移动未说明，主门3级台阶，替代无台阶入口未知。南中心16人，周四18点，可移椅子，无台阶信息未知；均未预订。书面旧14被电话12取代。
+P2：Proposo consultar el centre Sud: hi cabem tretze i podem moure les cadires. Abans de reservar, hem de confirmar l’accés sense graons. El centre Nord ja no té prou capacitat. 选择依据是新容量及活动功能；暂定不等于承诺。
+P3完整范文：Bon dia, som un grup de tretze persones i busquem una sala per fer una trobada de conversa un dijous a les sis de la tarda. Hem llegit que la vostra sala admet setze persones i que es poden moure les cadires. Ens podríeu confirmar si aquestes condicions continuen vigents? També necessitem saber si hi ha un recorregut sense graons des del carrer fins a la sala. Aquesta condició és necessària per a la participació de tot el grup. Encara no hem fet cap reserva. Si l’espai és adequat, ens agradaria conèixer les dates disponibles i els passos que cal seguir per reservar-lo. Moltes gràcies per la vostra resposta.
+范文解析：先介绍人数与用途，再核容量、椅子和整条通路；不只问大门是否无台阶。没有凭空给定具体日期，询问周四可用日期后才能预约。个人需求转为场地要求，无需披露病史。
+P4示范主线：Al principi semblava que les dues sales tenien prou capacitat. Ara sabem que la del Nord només admet dotze persones i nosaltres som tretze. Per això proposo consultar la del Sud. Les cadires es poden moure, però encara falta confirmar l’accés sense graons. No anunciarem una reserva fins que tinguem la resposta. Si també hi ha graons i no existeix cap recorregut alternatiu adequat, buscarem un tercer espai. No seria una solució deixar fora una persona del grup. 练习时展开比较和核查步骤至60至90秒，时长本身不决定得分。
+P5：Estem consultant una sala per a tretze persones el dijous a les sis. Encara falta confirmar les condicions d’accés i la reserva. 公开状态保持待确认，不说明是谁有何身体状况。
+项目100分：阅读提取25（容量更新10、时间5、功能5、未知5）；听力与口头转述25（12替14为10，时间不变5，意义与方案10）；写作25（人数用途5、条件10、确认请求5、语言与组织5）；互动25（理由5、追问回应10、连贯可理解5、主动澄清5）。接受不同合适措辞，不要求照背。
+结业档案至少六项：一份最初邮件；同邮件修稿及修改理由；一段口语录音及提示条件；一次陌生听力的数字标签笔记；一张阅读来源对照表；两轮测评的错误类型比较。示例记录：邮件原稿漏预约号，修稿补V-84；口语从全文稿改五个关键词，但注明追问次数不同。
+四周B2衔接：第一周每两天读一篇约600词熟悉主题文章，标主张与例子；第二周听3至5分钟访谈，记录观点变化并核脚本；第三周写一篇180至220词意见文，提出理由、反方顾虑与回应；第四周做跨材料摘要并录两分钟陈述、回答两个未预告问题。材料难度和支持量按实际表现调整，词数和时长仅为训练设计，不构成B2达级保证。
+
+学习记录：保存初稿一句、修订一句和修改原因；记一项仍需核实的信息或语言问题。第40单元比较记录，选出最影响沟通的三个改进。
+
+
+==========================================================
+原创B1第四册四技能结册测评
+==========================================================
+
+本卷为第一轮完整模拟，检验第四册任务，不替代完整B1官方考试。总分100：听力20、阅读20、口语30、写作30。建议听20分钟、读30分钟、写65分钟；口语10至15分钟，准备另计。先做任务，后看脚本和全部答案。
+
+听力4段每段3题，阅读3篇每篇4题，各12题；每题原始2分，分别以原始分÷24×20折算。多信息点平均分。口语4项各10原始分（信息4、互动与连贯3、可理解3），总分÷40×30；写作4项各10原始分（信息4、组织2、语言2、沟通效果2），总分÷40×30。建议总分60且各技能至少半分后推进；是教学建议，非认证线。
+
+
+【结册听力题】
+
+
+【L1 行程修正】
+
+1. 最终日期和时间是什么？
+
+2. 在哪集合，为什么？
+
+3. 迟到后能保证立即被接吗？
+
+
+【L2 访谈中的数字】
+
+1. 确认数与容量各是多少？
+
+2. 还有什么未处理？
+
+3. 周五答复是保证吗？
+
+
+【L3 选择与理由】
+
+1. 选择小厅的主要理由？
+
+2. 什么变化会触发重选？
+
+3. 确认前要问什么？
+
+
+【L4 复盘安排】
+
+1. 第一次误解了什么？
+
+2. 熟文全对能证明迁移吗？
+
+3. 下次保持什么条件，换什么？
+
+
+【结册阅读 R1 通知与适用范围】
+
+El taller de reparació tindrà dues sessions. Durant els tres primers dies, la inscripció estarà oberta només a les persones del barri. Després, les places lliures s’oferiran a altres persones. El preu inclou els materials de demostració, però cada participant ha de portar una llibreta. No s’hi repararan aparells que requereixin equipament especial. Si teniu dubtes sobre un objecte, envieu-ne una descripció abans de portar-lo. L’acusament de recepció del formulari no confirma la plaça. La confirmació s’enviarà després de revisar les peticions. Participar en les dues sessions no garanteix que tots els objectes quedin reparats.
+
+1. 非居民完全不能参加吗？
+
+2. 需自带什么？
+
+3. 特殊对象应先做什么？
+
+4. 哪些结果尚不保证？
+
+
+【结册阅读 R2 两份记录】
+
+Dilluns, el full intern deia: «Proposta: sala A, divendres a les sis; pendent de resposta». Dimecres, el centre va confirmar la sala B per al mateix dia i la mateixa hora. El missatge al grup s’ha d’enviar dijous abans de les dotze. Hi ha deu participants confirmats i dues persones que encara no han respost. La versió pública ha d’indicar la sala B i l’hora de l’activitat. No ha d’incloure telèfons personals ni presentar les dues persones pendents com a assistents confirmats. El full intern conservarà la proposta inicial, marcada com a substituïda, perquè es pugui entendre el canvi.
+
+1. 当前地点与活动时间？
+
+2. 周四十二点是什么？
+
+3. 可以宣布十二人确认吗？
+
+4. 为什么保留旧记录？
+
+
+【结册阅读 R3 学习档案】
+
+La Lina ha guardat una primera versió i una revisió del mateix correu. En la revisió ha afegit la referència de reserva i ha separat la data actual de la data demanada. També ha enregistrat dues intervencions orals. La primera es va fer amb un guió complet; la segona, amb cinc paraules clau i una pregunta inesperada. Les condicions no són iguals i cal anotar-les. Per preparar el pas a B2, triarà un article una mica més llarg cada setmana, en resumirà l’argument i distingirà les afirmacions de l’autor dels exemples. No considera que acabar els quatre llibres sigui, per si sol, una acreditació oficial.
+
+1. 邮件改善了哪两点？
+
+2. 两段口语为何不能直接同条件比较？
+
+3. B2阅读准备做什么？
+
+4. 四册完成意味着官方证书吗？
+
+
+【结册口语任务】
+
+
+【O1 简短请求】
+
+20秒训练窗口：预约17点，预计迟到10分钟，询问今天是否仍可接待。追问：今天不行，明天下午可否？
+
+
+【O2 展开理由】
+
+30秒训练窗口：8人练会话，比较小厅和大厅；追加：现增至13人，小厅上限10。
+
+
+【O3 纠正误传】
+
+有人说“周四活动、十二人已确认”，按R2纠正。对方问周四究竟是什么。
+
+
+【O4 学习反思】
+
+根据L4说明错误、修订和新测方案；追问：新卷仍错一题怎么办？
+
+
+【结册写作任务】
+
+
+【W1 预约请求】
+
+写80至110词：预订V-84，原12日周二10点，申请改14日周四10点，12人不变；另可周四11点；请确认。日期为虚构教学日历。
+
+
+【W2 事件叙述】
+
+写100至130词：已确认时间但未问入口；正门施工；打电话、同伴等人、获知侧门；晚10分钟；总结。
+
+
+【W3 分众通知】
+
+按R2写80至110词给参与者：地点时间、确认人数、待答者请求、发送期限和活动时间不要混淆；不含私人电话。
+
+
+【W4 学习报告】
+
+写120至160词：一个原错误、修订证据、支持条件、两项下阶段目标、用新材料复测；不要声称教材完成等于认证。
+
+
+==========================================================
+结册测评：全部脚本、答案、范文与详解
+==========================================================
+
+
+【L1 行程修正 完整听力脚本】
+
+La visita serà dijous a les deu. Abans havíem anunciat dimecres, però aquell dia el centre estarà tancat. L’hora no ha canviat. Ens trobarem a l’entrada lateral, perquè l’entrada principal està en obres. La Núria hi serà deu minuts abans per rebre el grup. No cal que hi aneu mitja hora abans. Si arribeu tard, truqueu al número que figura a la confirmació; no podem assegurar que algú pugui sortir a buscar-vos immediatament.
+
+中文参考：参观从周三改周四，十点不变，侧门集合。努里娅提前十分钟到。迟到请打确认单电话，但不保证立即有人接。
+
+1. 最终日期和时间是什么？
+参考答案：Dijous a les deu.
+解析：日期被更正，时间保留。
+
+2. 在哪集合，为什么？
+参考答案：A l’entrada lateral, perquè la principal està en obres.
+解析：地点与原因各一分。
+
+3. 迟到后能保证立即被接吗？
+参考答案：No; cal trucar, però l’atenció immediata no està garantida.
+解析：请求途径不等于服务保证。
+
+
+【L2 访谈中的数字 完整听力脚本】
+
+Periodista: Quantes persones hi participaran? Coordinadora: Al principi calculàvem unes vint persones. Ara tenim setze inscripcions confirmades i dues peticions pendents. La sala admet divuit persones com a màxim. Periodista: Per tant, ja sou divuit? Coordinadora: No exactament. Divuit és la capacitat, no el nombre de confirmacions. Primer hem de respondre les dues peticions. Esperem fer-ho divendres, però encara falta una comprovació. Publicarem la llista actualitzada quan tinguem totes les respostes.
+
+中文参考：原预计20，现16报名确认、2待处理；容量18不等于18确认。希望周五答复，仍待核查。
+
+1. 确认数与容量各是多少？
+参考答案：Setze confirmacions i una capacitat de divuit persones.
+解析：数字要连标签。
+
+2. 还有什么未处理？
+参考答案：Dues peticions.
+解析：不是两个名额已获批准。
+
+3. 周五答复是保证吗？
+参考答案：No; és una previsió i falta una comprovació.
+解析：esperem表达期望。
+
+
+【L3 选择与理由 完整听力脚本】
+
+Jo triaria la sala petita per a la primera trobada. Som vuit persones i hi cabem bé. Com que volem practicar converses, és útil poder seure a prop i sentir-nos sense micròfon. La sala gran també té avantatges, sobretot si el grup creix. Si finalment som més de deu, revisarem la tria. Abans de confirmar, preguntaré si podem moure les cadires. No proposo reservar-la avui sense aquesta resposta. Demà us enviaré la informació i podrem prendre una decisió.
+
+中文参考：八人练对话选小厅，近坐听清；大组大房有优势，超过十人重看。移动椅子待问，今天不直接订，明天发信息再决定。
+
+1. 选择小厅的主要理由？
+参考答案：Facilita la conversa entre les vuit persones.
+解析：不是便宜，材料未给价格。
+
+2. 什么变化会触发重选？
+参考答案：Que el grup superi les deu persones.
+解析：超过十，不是达到八。
+
+3. 确认前要问什么？
+参考答案：Si es poden moure les cadires.
+解析：先核条件再确认。
+
+
+【L4 复盘安排 完整听力脚本】
+
+En la primera prova vaig llegir massa de pressa i vaig confondre el termini de resposta amb la data de l’activitat. Després vaig repetir el mateix text i vaig encertar totes les preguntes. Això em va ajudar a entendre l’error, però no demostra que pugui fer el mateix amb un text nou. Dissabte faré una altra prova amb materials diferents i el mateix temps. Compararé sobretot si identifico bé les dates i si justifico les respostes amb frases del text. Aquesta setmana treballaré aquests dos objectius.
+
+中文参考：首测混淆答复期限和活动日，重做熟文全对仅表理解原错误。周六新材料同时间测两目标：日期及证据。
+
+1. 第一次误解了什么？
+参考答案：El termini de resposta i la data de l’activitat.
+解析：两种时间功能。
+
+2. 熟文全对能证明迁移吗？
+参考答案：No; cal comprovar-ho amb materials nous.
+解析：记忆会影响比较。
+
+3. 下次保持什么条件，换什么？
+参考答案：El mateix temps i materials diferents.
+解析：时间相同，材料新。
+
+
+【R1 通知与适用范围 阅读参考与详解】
+
+两次维修课，前三天仅居民可报，之后空位给其他人；示范材料含费，笔记本自带；特殊设备对象不修，疑问先描述。收到表格不等于名额，参加不保证修好。
+
+1. 非居民完全不能参加吗？
+参考答案：No; poden optar a les places lliures després dels tres primers dies.
+解析：优先时段不是永久排除。
+
+2. 需自带什么？
+参考答案：Una llibreta.
+解析：勿把示范材料重复列入自备。
+
+3. 特殊对象应先做什么？
+参考答案：Enviar-ne una descripció i consultar-ho.
+解析：不应直接承诺现场修。
+
+4. 哪些结果尚不保证？
+参考答案：La plaça amb el simple acusament i la reparació de tots els objectes.
+解析：两个不同阶段的限制。
+
+
+【R2 两份记录 阅读参考与详解】
+
+周一A厅待回复，周三B厅确认，周五六点不变。周四中午前发消息，十人确认两人未答。公开不放私人电话，不将待答算确认。旧提案标被替代。
+
+1. 当前地点与活动时间？
+参考答案：Sala B, divendres a les sis.
+解析：最新确认覆盖旧提案。
+
+2. 周四十二点是什么？
+参考答案：El termini per enviar el missatge.
+解析：不是活动开始时间。
+
+3. 可以宣布十二人确认吗？
+参考答案：No; deu estan confirmats i dos no han respost.
+解析：状态不同不可合并。
+
+4. 为什么保留旧记录？
+参考答案：Per entendre el canvi, indicant que ha estat substituïda.
+解析：保留历史不意味两案有效。
+
+
+【R3 学习档案 阅读参考与详解】
+
+邮件修订补预订号、区分当前和请求日期；口语一次全稿一次关键词加追问，支持条件不同须注明。B2准备每周较长文章、论点摘要、区分断言例证；完成教材不是官方认证。
+
+1. 邮件改善了哪两点？
+参考答案：La referència i la distinció entre les dues dates.
+解析：信息可操作性。
+
+2. 两段口语为何不能直接同条件比较？
+参考答案：Una tenia un guió complet i l’altra només paraules clau amb una pregunta nova.
+解析：提示量和互动条件不同。
+
+3. B2阅读准备做什么？
+参考答案：Resumir l’argument i separar afirmacions i exemples.
+解析：不止增加词数。
+
+4. 四册完成意味着官方证书吗？
+参考答案：No.
+解析：学习成果与认证分开。
+
+
+【O1 简短请求 口语示范】
+
+Tinc una cita a les cinc i arribaré uns deu minuts tard. Em podríeu dir si encara em podeu atendre avui? Si avui no és possible, demà a la tarda també em va bé. Quina hora teniu disponible?
+
+解析：必须提出明确问题。追问后的回答不受20秒限制；这是内部训练窗口。
+
+评分应用：信息完整4分；能回应追加问题、连接观点3分；表达清楚3分。允许重述、请求重复和自我修正，不要求说得与范例逐字相同。
+
+
+【O2 展开理由 口语示范】
+
+Triaria la sala petita perquè som vuit i ens podrem sentir bé. Per exemple, podrem parlar sense micròfon. Ara bé, si som tretze i només hi caben deu persones, cal canviar de sala. Podem utilitzar la gran i formar grups petits.
+
+解析：理由加具体例子；新人数要求实际改案，不能继续支持超容量。
+
+评分应用：信息完整4分；能回应追加问题、连接观点3分；表达清楚3分。允许重述、请求重复和自我修正，不要求说得与范例逐字相同。
+
+
+【O3 纠正误传 口语示范】
+
+L’activitat serà divendres a les sis, a la sala B. Dijous abans de les dotze és el termini per enviar el missatge. Tenim deu persones confirmades; les altres dues encara no han respost.
+
+解析：逐项纠正日期功能与人数状态，不责备对方。
+
+评分应用：信息完整4分；能回应追加问题、连接观点3分；表达清楚3分。允许重述、请求重复和自我修正，不要求说得与范例逐字相同。
+
+
+【O4 学习反思 口语示范】
+
+Vaig confondre dues dates. Ara les marco amb la seva funció: termini o activitat. Faré una prova nova amb el mateix temps. Si torno a fallar, miraré si no havia entès una paraula o si havia llegit massa de pressa, i practicaré el problema concret.
+
+解析：区分错误原因；单题失分不等于完全无进步。
+
+评分应用：信息完整4分；能回应追加问题、连接观点3分；表达清楚3分。允许重述、请求重复和自我修正，不要求说得与范例逐字相同。
+
+
+【W1 预约请求 完整范文】
+
+词数：95
+
+Bon dia, us escric sobre la reserva V-84 per a dotze persones. Actualment tenim la visita prevista per al dimarts dia dotze a les deu. Voldríem demanar si seria possible passar-la al dijous dia catorze a la mateixa hora, perquè una part del grup té un canvi d’horari. El nombre de participants no ha canviat. Si les deu no estan disponibles, també ens aniria bé començar a les onze del mateix dijous. Ens podríeu confirmar quina opció és possible? De moment entenem que el canvi encara no està aprovat. Moltes gràcies per la vostra ajuda.
+
+中文参考：注明V-84、原日期、所请求日期、12人不变及周四11点替代；变更尚未获批。
+
+解析：voldríem和seria possible使请求礼貌，最后一句避免把请求写成既成事实。
+
+评分应用：覆盖题目事实与条件4分，结构清楚2分，语言控制2分，读者能判断或行动2分。人名、人数、日期与状态错误应扣信息分，即使句子语法正确。
+
+
+【W2 事件叙述 完整范文】
+
+词数：112
+
+Abans de la visita havíem confirmat el dia i l’hora, però no havíem preguntat per l’entrada. Quan vam arribar, la porta principal estava tancada per obres. Al principi vam pensar que ens havíem equivocat de lloc. Vaig trucar al centre mentre la Núria esperava la resta del grup. Una treballadora ens va explicar que havíem d’entrar pel carrer del costat. Després vam reunir tothom i vam anar fins a la porta lateral. La visita va començar deu minuts més tard del que estava previst. No s’havia cancel·lat la reserva; només ens faltava una informació pràctica. La pròxima vegada comprovarem també el punt de trobada i compartirem les indicacions amb tots els participants.
+
+中文参考：先前已确认时间未问入口，到场正门施工；打电话时同伴等人，获侧门信息后集合，晚10分钟；不是取消预订，未来核入口。
+
+解析：过去完成时讲更早准备，未完成过去时讲背景，迂回过去时推进事件。
+
+评分应用：覆盖题目事实与条件4分，结构清楚2分，语言控制2分，读者能判断或行动2分。人名、人数、日期与状态错误应扣信息分，即使句子语法正确。
+
+
+【W3 分众通知 完整范文】
+
+词数：99
+
+Hola a tothom, el centre ha confirmat la sala B per a la trobada de divendres a les sis de la tarda. La proposta inicial de fer-la a la sala A ja ha estat substituïda. El dia i l’hora de l’activitat no han canviat. De moment tenim deu participants confirmats i dues persones que encara no han respost. Si sou una d’aquestes dues persones, ens podeu indicar si vindreu? Aquest missatge s’envia abans del termini de dijous al migdia; això no vol dir que ens trobem dijous. Si hi ha cap altra actualització, us la comunicarem pel mateix canal.
+
+中文参考：周五18点B厅，取代A厅；十人确认两人待答，请待答者回；周四中午是消息期限，不是活动。
+
+解析：公开通知仅含行动所需信息，说明时间功能，避免披露私人联系方式。
+
+评分应用：覆盖题目事实与条件4分，结构清楚2分，语言控制2分，读者能判断或行动2分。人名、人数、日期与状态错误应扣信息分，即使句子语法正确。
+
+
+【W4 学习报告 完整范文】
+
+词数：134
+
+En aquesta etapa he après a comprovar no només les paraules, sinó també la funció de cada informació. En un primer exercici vaig confondre el termini de resposta amb el dia de l’activitat. En la revisió vaig escriure una etiqueta al costat de cada data i vaig corregir el missatge. He guardat les dues versions per poder explicar el canvi. També he enregistrat una intervenció oral, però he anotat que vaig utilitzar un guió; no seria just comparar-la directament amb una prova sense ajuda. Durant les pròximes setmanes treballaré dos objectius: identificar millor les actualitzacions en una entrevista i respondre preguntes imprevistes amb exemples concrets. Faré una prova amb materials nous i el mateix temps de preparació. Acabar els quatre llibres és una fita d’estudi, però no equival automàticament a obtenir una acreditació oficial.
+
+中文参考：从时间功能误读到标注修订，保存两版；口语注明用稿，不能与无提示直接比。下一步听更新、答追问，新材料同准备时间复测；四册是学习里程碑非认证。
+
+解析：报告要求证据、条件与计划三层，不只说“进步很多”；he après联系现在，vaig confondre定位原事件。
+
+评分应用：覆盖题目事实与条件4分，结构清楚2分，语言控制2分，读者能判断或行动2分。人名、人数、日期与状态错误应扣信息分，即使句子语法正确。
+
+
+==========================================================
+第二轮综合模拟：新材料短卷
+==========================================================
+
+总分40：听力8、阅读8、口语12、写作12。听读各两题，每题4分，多信息点平均分配。口写按必要信息5、组织或互动3、可理解度4评分。建议35至45分钟，口语另计。
+
+
+【听力题（先不看后面的脚本）】
+
+1. 最终开会时间和时长？
+
+2. 第二次线上吗？
+
+
+【阅读原文】
+
+El resum de la prova inclou dues xifres: catorze respostes correctes sense ajuda i divuit després de consultar el diccionari. Les dues versions s’han de conservar amb les condicions indicades. La nova prova es farà amb un altre text, sense diccionari i amb el mateix temps que la primera. L’objectiu és comprovar si l’aprenent pot aplicar l’estratègia a informació desconeguda.
+
+1. 18对能直接与14对比较能力吗？
+
+2. 新测保持什么，改变什么？
+
+
+【口语任务】
+
+向同学解释开会时间更新。追加：他说第二次肯定线上，你如何纠正？
+
+
+【写作任务】
+
+写120至160词学习安排：准确传达新会议资料，并解释两次练习结果、下次测法和自己的两项目标。
+
+
+【阶段答案：完整听力脚本】
+
+La primera reunió havia de ser dilluns, però finalment serà dimarts a dos quarts de set. La sessió durarà una hora. Només aquesta primera reunió serà presencial; el format de la segona encara s’ha de decidir. Envieu les preguntes abans de dilluns a les dotze.
+
+中文参考：第一次从周一改周二18:30，1小时；仅首次线下，第二次形式待定；周一中午是问题提交期限。
+
+1. 最终开会时间和时长？
+参考答案：Dimarts a dos quarts de set; una hora.
+解析：dos quarts de set为18:30，非19:30。
+
+2. 第二次线上吗？
+参考答案：Encara no se n’ha decidit el format.
+解析：不能从首次线下推出次次或第二次线上。
+
+
+【阅读参考与详解】
+
+无帮助14对，用词典后18对，都留且标条件。新卷换文，无词典、与首卷同时间，测策略迁移。
+
+1. 18对能直接与14对比较能力吗？
+参考答案：No directament, perquè les ajudes són diferents.
+解析：可以观察修订，但条件不同。
+
+2. 新测保持什么，改变什么？
+参考答案：Sense diccionari i amb el mateix temps; un text nou.
+解析：支持和时间控制，材料更换。
+
+
+【口语主线示例】
+
+La primera reunió serà dimarts a dos quarts de set i durarà una hora. Dilluns al migdia és el termini per enviar preguntes. Pel que fa a la segona reunió, encara no sabem si serà presencial o en línia.
+
+中文参考：说明18:30及一小时，周一是提交期限，第二次形式未定。
+
+
+【写作完整范文】
+
+词数：131
+
+He actualitzat el calendari: la primera reunió serà dimarts a dos quarts de set i durarà una hora. El termini per enviar preguntes és dilluns al migdia. Encara no sabem quin format tindrà la segona reunió, de manera que no l’anunciaré com a virtual. També he revisat els resultats de la meva pràctica. Vaig obtenir catorze respostes correctes sense ajuda i divuit després de consultar el diccionari. Conservaré les dues versions, però indicaré les condicions perquè la comparació sigui clara. En la pròxima prova faré servir un text nou, sense diccionari i amb el mateix temps de la primera. Vull comprovar si puc aplicar l’estratègia sense recordar les respostes. Els meus dos objectius seran distingir els terminis de les dates d’activitat i justificar cada resposta amb una informació concreta del text.
+
+中文参考：会议周二18:30一小时，周一中午交问题，第二次形式未知。两成绩支持不同，保留注明；新文无词典同时间，练日期功能和证据。
+
+解析：跨材料转述不能遗漏未知状态；词典修订与独立测评各有价值，分别记录。
+
+建议达到28/40且口写各不少于6分再推进；此为教学参考线，非官方认证标准。失分任务修改后换资料重做。
+
+
+==========================================================
+附录一：本册语法索引与常用句框
+==========================================================
+
+叙事中的事件、背景和当前回顾：单元31,38,39
+
+过去之前的过去：plusquamperfet：单元31
+
+未来时间与先后：quan、abans de、mentre：单元31
+
+原因、后果与理由的强度：单元35,38
+
+间接疑问：saber / preguntar＋疑问词：单元33,37,39
+
+同一主语不定式与不同主语从句：单元36
+
+真实可行条件：si＋现在，主句未来：单元35
+
+被动、无人称与动作状态：单元32,36,38
+
+转述与时间参照：单元33
+
+否定与范围：no tots、cap、encara no：单元33,36
+
+必要与责任：cal、haver de：单元39
+
+归属与确定性：segons、sembla、confirmar：单元39,40
+
+经历与具体过去：perfet / perifràstic：单元31
+
+数量与经验的范围：单元32,40
+
+篇章连接与逻辑关系：单元32
+
+礼貌请求与有限承诺：单元34
+
+统计期间与变化量：de…a、entre、des de：单元33,37
+
+数据说明中的主谓与性数：单元34,36
+
+介词关系句：en què、de què、amb què：单元38
+
+允许、不必要与禁止：单元34
+
+目的：per＋不定式与perquè＋虚拟式：单元34
+
+关系句：que与on：单元32
+
+描述中的形容词性数配合：单元37
+
+可能、表象与不知道：单元33
+
+平行对照：d’una banda…de l’altra、mentre que：单元35,40
+
+篇章指代链：la、ho、això、en：单元31,32,35,37,39
+
+口头修正：vull dir、més ben dit、em refereixo a：单元34,40
+
+理由、例子与结论的关系：单元35
+
+主句与从句：谁做什么、何种关系：单元36
+
+语域与称呼一致：tu、vosaltres、vostè：单元37,38
+
+信息中介：转述重点与读者行动：单元40
+
+Entenc el teu punt de vista, però voldria afegir un matís.
+
+中文参考：我理解你的观点，但想补充一个限定。
+
+Això descriu una experiència, no necessàriament tot el grup.
+
+中文参考：这描述一段经历，不一定代表全组。
+
+Segons aquesta font…, però encara no sabem si…
+
+中文参考：据该来源……，但我们尚不知道是否……。
+
+No hem acordat la data; hem acordat consultar-la.
+
+中文参考：我们没定日期，只同意查询。
+
+Si canvien les condicions, revisarem la proposta.
+
+中文参考：若条件变化，我们会复查方案。
+
+És possible que hi hagi altres explicacions.
+
+中文参考：可能有其他解释。
+
+Podries resumir què falta confirmar?
+
+中文参考：能概括还有什么待确认吗？
+
+No ho he entès del tot. Et refereixes al preu o al cost total?
+
+中文参考：我没完全理解，你指价格还是总费用？
+
+
+==========================================================
+附录二：修订与B2衔接
+==========================================================
+
+五步修订：①检查任务对象、人物、数字、日期；②给每句标“事实、观点、条件、未知、行动”；③查来源与推断是否混同；④查语法、重音、弱代词与性数；⑤让伙伴只读你的文本复述下一步。如果复述错误，先修表达再解释原意。
+
+掌握证据：能在熟悉主题说90秒并回应追问；能写140至180词连贯文本；能比较两个来源而保留范围；能区别赞成目标、同意查询与批准方案；能在材料变化后修订结论。完成本册不自动代表整体B1达标。
+
+本系列B1四分册至此完成。进入B2前，带上第40单元结业档案，选两项最影响理解或表达的问题继续训练。完成教材不自动等于通过官方B1考试。口语20秒、30秒为本书训练窗口，不是官方考试时限。
+
+
+==========================================================
+编写依据与材料说明
+==========================================================
+
+主题与分册结构参照本地《荷兰语B1四分册40单元课程安排》，不迁移荷兰语词序或考试名称。语言核对参考以下CPNL公开语法页面，查阅日期2026年11月4日。机构资料仅供语言范围核对，不表示认可或审核本教材。正文与练习均为原创。
+
+CPNL Elemental 3语言范围
+https://www.cpnl.cat/gramatica/nivell/elemental-3
+
+虚拟式
+https://www.cpnl.cat/gramatica/140/16-el-subjuntiu/nivell/elemental-3
+
+关系代词
+https://www.cpnl.cat/gramatica/60/39-els-pronoms-relatius/nivell/elemental-3
+
+连接词
+https://www.cpnl.cat/gramatica/63/42-les-conjuncions/nivell/elemental-3
+
+本册正文结束。
